@@ -1,0 +1,1961 @@
+{
+  "article_id": "7570743571_ukraine_war",
+  "title": "Starmer to set date to increase defence spending during Trump visit – report",
+  "body": "Sir Keir Starmer is expected to confirm a timeline to raise defence spending and give Donald Trump an invitation for a state visit when he visits Washington next week, according to a report.\n\nThe Prime Minister will have to walk a tricky line when he meets Mr Trump, balancing the UK's support for Ukraine with the need to keep the US onside.\n\nThe US president has started negotiations with Russia on ending the conflict, but excluded Kyiv from the talks – and a deepening rift has emerged between him and Ukrainian president Volodymyr Zelensky as the two have traded barbs.\n\nWashington has also put pressure on the UK and its allies to do more to shoulder the burden of European defence.\n\nThe late Queen and Donald Trump Credit: Chris Jackson/PA\n\nIn an effort to ease tensions, Sir Keir is expected during the trip to finally set a date, likely 2030, for the UK to reach its goal of spending 2.5% of GDP, The Telegraph reported. This is up from the current 2.3%.\n\nThe Prime Minister will also deliver an invitation from the King for a state visit to the UK, according to the newspaper.\n\nThe US president is known to admire the royal family.\n\nSir Keir's trip to Washington will come after Ukraine marks three years since Russia's full-scale invasion in 2022. A defence announcement is expected to mark the occasion.\n\nIt will also come after a visit to Washington by Emmanuel Macron.\n\nMr Trump said Sir Keir and the French president \"haven't done anything\" to end the war in Ukraine in the last three years.\n\n\"They didn't do anything either (to end the war). The war's going on, no meetings with Russia, no nothing.\n\n\"They haven't done anything. Macron is a friend of mine, and I've met with the Prime Minister and he's a very nice guy (but) nobody's done anything,\" he told a Fox News podcast released Friday.\n\nMr Macron has said he intends to tell his American counterpart not to \"be weak\" in the face of Russian president Vladimir Putin.\n\nSir Keir is also facing pressure to take a firm line when he meets Mr Trump.\n\nLiberal Democrat leader Sir Ed Davey accused Mr Trump of plotting a \"stitch-up\" with Mr Putin that \"amounts to a betrayal of Ukraine\", and urged the Prime Minister to speak \"honestly and openly\" with him.\n\nSir Ed added: \"I think we're all astonished and deeply alarmed, and if the British Prime Minister doesn't reflect that, he's not reflecting the views of the British people.\"\n\nBut senior Cabinet minister Pat McFadden stressed the importance of maintaining a \"good and constructive relationship\" with the White House.\n\n\"I think the UK is potentially in a good position with this administration, if we handle it correctly.\n\nPat McFadden said the Government should not follow 'every twist and turn of every comment' made by Donald Trump Credit: Victoria Jones/PA\n\n\"Handling it correctly doesn't mean following every twist and turn of every comment, but is focusing on what will actually happen as well as what was said,\" he said at a fringe event at the Scottish Labour conference in Glasgow on Friday.\n\nThe growing rift between Mr Trump and Mr Zelensky presents a challenge for the Prime Minister.\n\nThe US leader described Mr Zelensky as a \"dictator\".\n\nThe Ukrainian president then claimed Mr Trump was living in a Russian \"disinformation space\", which led White House officials to accuse Mr Zelensky of \"insulting\" his counterpart.\n\nThe Americans also cancelled a planned joint press conference in Kyiv, in a sign of a deepening feud between the two countries.\n\nBusinessman Elon Musk, who is acting as an adviser on federal spending to Mr Trump, meanwhile suggested Mr Zelensky is running a \"fraud machine feeding off the dead bodies of soldiers\", suggesting limited appetite for continued American support for Ukraine.\n\nHowever, Mr Trump's Ukraine envoy, retired general Keith Kellogg, praised Mr Zelensky on Friday as an \"embattled and courageous leader of a nation at war\" following what he described as \"extensive and positive discussions\" between the two men.\n\nMr Macron said he would tell Mr Trump: \"It's not you, it's not your trademark, it's not in your interest.\n\n\"How can you then be credible in the face of China if you're weak in the face of Putin?\"\n\nPoland's president Andrzej Duda is set to meet Mr Trump on Saturday, Polish news agency PAP reported.\n\nMr Duda said he had a \"candid\" conversation with Mr Zelensky on Friday and urged him to \"remain committed to the course of calm and constructive co-operation\" with Mr Trump.\n\n\"I trust that good will and honesty form the foundation of the US negotiation strategy,\" he posted on X.",
+  "date": "2025-02-22 00:14:19+00:00",
+  "source_link": "https://www.itv.com/news/2025-02-21/starmer-to-set-date-to-increase-defence-spending-during-trump-visit-report",
+  "source_info": {
+    "name": "ITV",
+    "domain": "itv.com",
+    "description": null,
+    "home_page_url": "https://www.itv.com/",
+    "locations": [
+      {
+        "city": "London",
+        "country": "GB",
+        "state": "England"
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Sir Keir Starmer and Emmanuel Macron haven't done anything to end the war in Ukraine in the last three years.",
+      "source_context": "Mr Trump said Sir Keir and the French president \"haven't done anything\" to end the war in Ukraine in the last three years."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "They didn't do anything either (to end the war). The war's going on, no meetings with Russia, no nothing.",
+      "source_context": "\"They didn't do anything either (to end the war). The war's going on, no meetings with Russia, no nothing."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "They haven't done anything. Macron is a friend of mine, and I've met with the Prime Minister and he's a very nice guy (but) nobody's done anything",
+      "source_context": "Macron is a friend of mine, and I've met with the Prime Minister and he's a very nice guy (but) nobody's done anything,\" he told a Fox News podcast released Friday."
+    },
+    {
+      "agent_name": "Emmanuel Macron",
+      "agent_description": "French President",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I intend to tell my American counterpart not to be weak in the face of Russian president Vladimir Putin.",
+      "source_context": "Mr Macron has said he intends to tell his American counterpart not to \"be weak\" in the face of Russian president Vladimir Putin."
+    },
+    {
+      "agent_name": "Sir Ed Davey",
+      "agent_description": "Liberal Democrat leader",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Mr Trump is plotting a 'stitch-up' with Mr Putin that amounts to a betrayal of Ukraine.",
+      "source_context": "Liberal Democrat leader Sir Ed Davey accused Mr Trump of plotting a \"stitch-up\" with Mr Putin that \"amounts to a betrayal of Ukraine\", and urged the Prime Minister to speak \"honestly and openly\" with him."
+    },
+    {
+      "agent_name": "Sir Ed Davey",
+      "agent_description": "Liberal Democrat leader",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I urge the Prime Minister to speak 'honestly and openly' with him.",
+      "source_context": "Liberal Democrat leader Sir Ed Davey accused Mr Trump of plotting a \"stitch-up\" with Mr Putin that \"amounts to a betrayal of Ukraine\", and urged the Prime Minister to speak \"honestly and openly\" with him."
+    },
+    {
+      "agent_name": "Sir Ed Davey",
+      "agent_description": "Liberal Democrat leader",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I think we're all astonished and deeply alarmed, and if the British Prime Minister doesn't reflect that, he's not reflecting the views of the British people.",
+      "source_context": "Sir Ed added: \"I think we're all astonished and deeply alarmed, and if the British Prime Minister doesn't reflect that, he's not reflecting the views of the British people.\""
+    },
+    {
+      "agent_name": "Pat McFadden",
+      "agent_description": "Senior Cabinet minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "It is important to maintain a 'good and constructive relationship' with the White House.",
+      "source_context": "But senior Cabinet minister Pat McFadden stressed the importance of maintaining a \"good and constructive relationship\" with the White House."
+    },
+    {
+      "agent_name": "Pat McFadden",
+      "agent_description": "Senior Cabinet minister",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I think the UK is potentially in a good position with this administration, if we handle it correctly.",
+      "source_context": "\"I think the UK is potentially in a good position with this administration, if we handle it correctly."
+    },
+    {
+      "agent_name": "Pat McFadden",
+      "agent_description": "Senior Cabinet minister",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Handling it correctly doesn't mean following every twist and turn of every comment, but is focusing on what will actually happen as well as what was said",
+      "source_context": "\"Handling it correctly doesn't mean following every twist and turn of every comment, but is focusing on what will actually happen as well as what was said,\" he said at a fringe event at the Scottish Labour conference in Glasgow on Friday."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Mr Zelensky is a 'dictator'.",
+      "source_context": "The US leader described Mr Zelensky as a \"dictator\"."
+    },
+    {
+      "agent_name": "Volodymyr Zelensky",
+      "agent_description": "Ukrainian president",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Mr Trump is living in a Russian 'disinformation space'.",
+      "source_context": "The Ukrainian president then claimed Mr Trump was living in a Russian \"disinformation space\", which led White House officials to accuse Mr Zelensky of \"insulting\" his counterpart."
+    },
+    {
+      "agent_name": "White House officials",
+      "agent_description": "White House officials",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "Mr Zelensky is 'insulting' his counterpart.",
+      "source_context": "...which led White House officials to accuse Mr Zelensky of \"insulting\" his counterpart."
+    },
+    {
+      "agent_name": "Elon Musk",
+      "agent_description": "Businessman and adviser to Mr Trump",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Mr Zelensky is running a 'fraud machine feeding off the dead bodies of soldiers'.",
+      "source_context": "Businessman Elon Musk, who is acting as an adviser on federal spending to Mr Trump, meanwhile suggested Mr Zelensky is running a \"fraud machine feeding off the dead bodies of soldiers\", suggesting limited appetite for continued American support for Ukraine."
+    },
+    {
+      "agent_name": "Keith Kellogg",
+      "agent_description": "Mr Trump's Ukraine envoy and retired general",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Mr Zelensky is an 'embattled and courageous leader of a nation at war'.",
+      "source_context": "However, Mr Trump's Ukraine envoy, retired general Keith Kellogg, praised Mr Zelensky on Friday as an \"embattled and courageous leader of a nation at war\" following what he described as \"extensive and positive discussions\" between the two men."
+    },
+    {
+      "agent_name": "Keith Kellogg",
+      "agent_description": "Mr Trump's Ukraine envoy and retired general",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "There were 'extensive and positive discussions' between the two men.",
+      "source_context": "...following what he described as \"extensive and positive discussions\" between the two men."
+    },
+    {
+      "agent_name": "Emmanuel Macron",
+      "agent_description": "French President",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "It's not you, it's not your trademark, it's not in your interest.",
+      "source_context": "Mr Macron said he would tell Mr Trump: \"It's not you, it's not your trademark, it's not in your interest."
+    },
+    {
+      "agent_name": "Emmanuel Macron",
+      "agent_description": "French President",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "How can you then be credible in the face of China if you're weak in the face of Putin?",
+      "source_context": "\"How can you then be credible in the face of China if you're weak in the face of Putin?\""
+    },
+    {
+      "agent_name": "Andrzej Duda",
+      "agent_description": "Poland's president",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I had a 'candid' conversation with Mr Zelensky on Friday.",
+      "source_context": "Mr Duda said he had a \"candid\" conversation with Mr Zelensky on Friday and urged him to \"remain committed to the course of calm and constructive co-operation\" with Mr Trump."
+    },
+    {
+      "agent_name": "Andrzej Duda",
+      "agent_description": "Poland's president",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I urged him to 'remain committed to the course of calm and constructive co-operation' with Mr Trump.",
+      "source_context": "Mr Duda said he had a \"candid\" conversation with Mr Zelensky on Friday and urged him to \"remain committed to the course of calm and constructive co-operation\" with Mr Trump."
+    },
+    {
+      "agent_name": "Andrzej Duda",
+      "agent_description": "Poland's president",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I trust that good will and honesty form the foundation of the US negotiation strategy",
+      "source_context": "\"I trust that good will and honesty form the foundation of the US negotiation strategy,\" he posted on X."
+    }
+  ],
+  "agents_info": {
+    "Donald Trump": {
+      "name": "Donald Trump",
+      "type_of_agent": "person",
+      "agent_description": "US President",
+      "wikidata_info": {
+        "name": "Donald Trump",
+        "wikidata_id": "Q22686",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "New York City",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Republican Party",
+            "start_date": "2012-04-00",
+            "end_date": null
+          },
+          {
+            "name": "independent politician",
+            "start_date": "2011-12-00",
+            "end_date": "2012-04-00"
+          },
+          {
+            "name": "Republican Party",
+            "start_date": "2009-09-00",
+            "end_date": "2011-12-00"
+          },
+          {
+            "name": "Democratic Party",
+            "start_date": "2001-08-00",
+            "end_date": "2009-09-00"
+          },
+          {
+            "name": "Reform Party of the United States of America",
+            "start_date": "1999-10-00",
+            "end_date": "2001-08-00"
+          },
+          {
+            "name": "Republican Party",
+            "start_date": "1987-07-00",
+            "end_date": "1999-10-00"
+          }
+        ],
+        "religion": [
+          "Presbyterianism",
+          "nondenominational Christianity"
+        ],
+        "political_ideology": [
+          "conservatism",
+          "social conservatism",
+          "American patriotism",
+          "anti-gender movement",
+          "opposition to immigration",
+          "right-wing populism",
+          "right-wing antiglobalism",
+          "isolationism",
+          "Trumpism",
+          "fascism"
+        ],
+        "occupation": [
+          "business magnate",
+          "investor",
+          "politician",
+          "game show host",
+          "real estate entrepreneur",
+          "television producer",
+          "film producer",
+          "writer",
+          "actor",
+          "chief executive officer",
+          "merchant",
+          "businessperson",
+          "entrepreneur"
+        ],
+        "field_of_work": [
+          "media personality",
+          "politics",
+          "commerce"
+        ],
+        "position_held": [
+          {
+            "name": "President of the United States",
+            "start_date": "2025-01-20",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": "1971-00-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "director",
+            "start_date": null,
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "President-elect of the United States",
+            "start_date": "2024-11-06",
+            "end_date": "2025-01-20",
+            "organization": null
+          },
+          {
+            "name": "President of the United States",
+            "start_date": "2017-01-20",
+            "end_date": "2021-01-20",
+            "organization": null
+          },
+          {
+            "name": "President-elect of the United States",
+            "start_date": "2016-11-09",
+            "end_date": "2017-01-20",
+            "organization": null
+          },
+          {
+            "name": "president",
+            "start_date": "1971-00-00",
+            "end_date": "2017-00-00",
+            "organization": null
+          }
+        ],
+        "description": "President of the United States (2017–2021, 2025–present)",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "business magnate",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "investor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "game show host",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "real estate entrepreneur",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "television producer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "film producer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "writer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "actor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "merchant",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "businessperson",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "entrepreneur",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions Donald Trump as the US president and quotes him, confirming both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Donald Trump",
+            "entities_found_count": 4,
+            "found_wikidata_ids": [
+              "Q22686",
+              "Q3713655",
+              "Q27947481",
+              "Q23000825"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "Donald Trump",
+              "type": "person",
+              "description": "US President"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article explicitly references \"Donald Trump\" multiple times, describing him as the \"US president\" and referring to him as \"Mr Trump\" in various contexts. The description matches the target entity’s role as US President.",
+                "statement_detection": "The text contains direct quotations attributed to Donald Trump, e.g., \"Mr Trump said Sir Keir and the French president 'haven't done anything'…\" and a longer quote from a Fox News podcast. These are clear statements made by the entity.",
+                "candidate_evaluation": "Among the provided candidates, Q22686 is the only one whose description and occupation list include \"President of the United States\" and matches the target description. The other candidates (Q27947481, Q3713655, Q23000825) are unrelated professions or family members and do not align with the US President role.",
+                "authority_verification": "Q22686 holds the position of President of the United States, giving him the appropriate authority to make the statements quoted in the article.",
+                "plausibility_assessment": "It is highly plausible that the US President would comment on international relations and defence matters, as described in the article. The quoted remarks fit the typical public statements of a head of state.",
+                "final_justification": "Q22686 satisfies all critical identification and attribution criteria: name match, correct political office, and the presence of direct statements. Therefore, it is the best match for both presence verification and statement attribution."
+              },
+              "answer": "Q22686"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q22686",
+              "label": "Donald Trump"
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions Donald Trump as the US president and quotes him, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions Donald Trump as the US president and quotes him, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Emmanuel Macron": {
+      "name": "Emmanuel Macron",
+      "type_of_agent": "person",
+      "agent_description": "French President",
+      "wikidata_info": {
+        "name": "Emmanuel Macron",
+        "wikidata_id": "Q3052772",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Amiens",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Renaissance",
+            "start_date": "2016-04-00",
+            "end_date": null
+          },
+          {
+            "name": "independent politician",
+            "start_date": "2009-00-00",
+            "end_date": "2016-00-00"
+          },
+          {
+            "name": "Socialist Party",
+            "start_date": "2006-00-00",
+            "end_date": "2009-00-00"
+          }
+        ],
+        "religion": [
+          "Agnosticism",
+          "Catholic Church"
+        ],
+        "political_ideology": [],
+        "occupation": [
+          "investment banker",
+          "statesperson",
+          "official",
+          "politician",
+          "banker"
+        ],
+        "field_of_work": [
+          "politics"
+        ],
+        "position_held": [
+          {
+            "name": "President of the French Republic",
+            "start_date": "2017-05-14",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "French co-prince of Andorra",
+            "start_date": "2017-05-14",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "chairperson",
+            "start_date": "2016-04-06",
+            "end_date": "2017-05-08",
+            "organization": null
+          },
+          {
+            "name": "Minister of Economy, Industry and Digital",
+            "start_date": "2014-08-26",
+            "end_date": "2016-08-30",
+            "organization": null
+          },
+          {
+            "name": "Assistant Secretary General of the Presidency of the French Republic",
+            "start_date": "2012-05-15",
+            "end_date": "2014-07-15",
+            "organization": null
+          }
+        ],
+        "description": "president of France and Co-Prince of Andorra since 2017",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "investment banker",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "statesperson",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "official",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "banker",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "MEDIUM",
+        "explanation": "The article references Emmanuel Macron and quotes him, but it does not explicitly state his title as French President; the context implies he is the French head of state."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Emmanuel Macron",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q3052772"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Emmanuel Macron",
+              "type": "person",
+              "description": "French President"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q3052772",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly mentions \\\"Emmanuel Macron\\\" and refers to him as the French president. The name, title, and role match the Wikidata entity (French President, President of the French Republic). No conflicting information is present, confirming the entity’s presence and identity.\",\n    \"statement_assessment\": \"Macron is quoted as saying he would tell Mr. Trump: \\\"It's not you, it's not your trademark, it's not in your interest. How can you then be credible in the face of China if you're weak in the face of Putin?\\\" This is a clear statement attributed to him.\",\n    \"plausibility_assessment\": \"It is entirely plausible for the French president to make such remarks about the U.S. president, especially in the context of international diplomacy and defense discussions.\",\n    \"contradiction_analysis\": \"No contradictions or conflicting details regarding Macron’s identity or the statements attributed to him were found.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly mentions \"Emmanuel Macron\" and refers to him as the French president. The name, title, and role match the Wikidata entity (French President, President of the French Republic). No conflicting information is present, confirming the entity’s presence and identity.",
+                "statement_assessment": "Macron is quoted as saying he would tell Mr. Trump: \"It's not you, it's not your trademark, it's not in your interest. How can you then be credible in the face of China if you're weak in the face of Putin?\" This is a clear statement attributed to him.",
+                "plausibility_assessment": "It is entirely plausible for the French president to make such remarks about the U.S. president, especially in the context of international diplomacy and defense discussions.",
+                "contradiction_analysis": "No contradictions or conflicting details regarding Macron’s identity or the statements attributed to him were found.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q3052772",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "MEDIUM",
+                "explanation": "The article references Emmanuel Macron and quotes him, but it does not explicitly state his title as French President; the context implies he is the French head of state."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "MEDIUM",
+              "explanation": "The article references Emmanuel Macron and quotes him, but it does not explicitly state his title as French President; the context implies he is the French head of state."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Sir Ed Davey": {
+      "name": "Ed Davey",
+      "type_of_agent": "person",
+      "agent_description": "Liberal Democrat leader",
+      "wikidata_info": {
+        "name": "Ed Davey",
+        "wikidata_id": "Q296689",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Mansfield",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Liberal Democrats",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "politician",
+          "economist"
+        ],
+        "field_of_work": [],
+        "position_held": [
+          {
+            "name": "member of the 59th Parliament of the United Kingdom",
+            "start_date": "2024-07-04",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Leader of the Liberal Democrats",
+            "start_date": "2020-08-27",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Liberal Democrat Home Affairs spokesman",
+            "start_date": "2017-06-17",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Member of the Privy Council of the United Kingdom",
+            "start_date": "2012-00-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "member of the 58th Parliament of the United Kingdom",
+            "start_date": "2019-12-12",
+            "end_date": "2024-05-30",
+            "organization": null
+          },
+          {
+            "name": "member of the 57th Parliament of the United Kingdom",
+            "start_date": "2017-06-08",
+            "end_date": "2019-11-06",
+            "organization": null
+          },
+          {
+            "name": "Secretary of State for Energy and Climate Change",
+            "start_date": "2012-02-03",
+            "end_date": "2015-05-08",
+            "organization": null
+          },
+          {
+            "name": "member of the 55th Parliament of the United Kingdom",
+            "start_date": "2010-05-06",
+            "end_date": "2015-03-30",
+            "organization": null
+          },
+          {
+            "name": "Liberal Democrat Frontbench Team",
+            "start_date": "2007-12-18",
+            "end_date": "2010-05-12",
+            "organization": null
+          },
+          {
+            "name": "member of the 54th Parliament of the United Kingdom",
+            "start_date": "2005-05-05",
+            "end_date": "2010-04-12",
+            "organization": null
+          },
+          {
+            "name": "member of the 53rd Parliament of the United Kingdom",
+            "start_date": "2001-06-07",
+            "end_date": "2005-04-11",
+            "organization": null
+          },
+          {
+            "name": "member of the 52nd Parliament of the United Kingdom",
+            "start_date": "1997-05-01",
+            "end_date": "2001-05-14",
+            "organization": null
+          }
+        ],
+        "description": "British politician (born 1965)",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "economist",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Sir Ed Davey and identifies him as the Liberal Democrat leader, confirming both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Sir Ed Davey",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Ed Davey",
+            "agent_type": "person"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Ed Davey",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q296689"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Sir Ed Davey",
+              "type": "person",
+              "description": "Liberal Democrat leader"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q296689",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Liberal Democrat leader Sir Ed Davey\\\" and later refers to him as \\\"Sir Ed\\\". This matches the Wikidata entity’s name (Ed Davey) and description (Liberal Democrat leader). No other individual with a similar name is mentioned, and the context (political role, party affiliation) aligns perfectly with the Wikidata profile. Therefore the entity is present and correctly identified.\",\n    \"statement_assessment\": \"Sir Ed Davey is quoted directly: \\\"I think we're all astonished and deeply alarmed, and if the British Prime Minister doesn't reflect that, he's not reflecting the views of the British people.\\\" The article also reports that he \\\"accused Mr Trump of plotting a 'stitch‑up'… and urged the Prime Minister to speak 'honestly and openly' with him.\\\" These are clear statements attributed to him.\",\n    \"plausibility_assessment\": \"It is entirely plausible for the Liberal Democrat leader to make such statements about the UK Prime Minister and US President, especially in the context of a diplomatic visit. The content and tone are consistent with a political leader’s public commentary.\",\n    \"contradiction_analysis\": \"No contradictions are found between the article’s depiction of Sir Ed Davey and the Wikidata entity’s profile. The honorific \\\"Sir\\\" is consistent with his knighthood, and the political role matches.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Liberal Democrat leader Sir Ed Davey\" and later refers to him as \"Sir Ed\". This matches the Wikidata entity’s name (Ed Davey) and description (Liberal Democrat leader). No other individual with a similar name is mentioned, and the context (political role, party affiliation) aligns perfectly with the Wikidata profile. Therefore the entity is present and correctly identified.",
+                "statement_assessment": "Sir Ed Davey is quoted directly: \"I think we're all astonished and deeply alarmed, and if the British Prime Minister doesn't reflect that, he's not reflecting the views of the British people.\" The article also reports that he \"accused Mr Trump of plotting a 'stitch‑up'… and urged the Prime Minister to speak 'honestly and openly' with him.\" These are clear statements attributed to him.",
+                "plausibility_assessment": "It is entirely plausible for the Liberal Democrat leader to make such statements about the UK Prime Minister and US President, especially in the context of a diplomatic visit. The content and tone are consistent with a political leader’s public commentary.",
+                "contradiction_analysis": "No contradictions are found between the article’s depiction of Sir Ed Davey and the Wikidata entity’s profile. The honorific \"Sir\" is consistent with his knighthood, and the political role matches.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q296689",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Sir Ed Davey and identifies him as the Liberal Democrat leader, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Sir Ed Davey and identifies him as the Liberal Democrat leader, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Pat McFadden": {
+      "name": "Pat McFadden",
+      "type_of_agent": "person",
+      "agent_description": "Senior Cabinet minister",
+      "wikidata_info": {
+        "name": "Pat McFadden",
+        "wikidata_id": "Q694676",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Paisley",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Labour Party",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "politician"
+        ],
+        "field_of_work": [],
+        "position_held": [
+          {
+            "name": "Secretary of State for Work and Pensions",
+            "start_date": "2025-09-05",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "member of the 59th Parliament of the United Kingdom",
+            "start_date": "2024-07-04",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Member of the Privy Council of the United Kingdom",
+            "start_date": "2008-00-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Shadow Economic Secretary to the Treasury",
+            "start_date": null,
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Chancellor of the Duchy of Lancaster",
+            "start_date": "2024-07-05",
+            "end_date": "2025-09-05",
+            "organization": null
+          },
+          {
+            "name": "member of the 58th Parliament of the United Kingdom",
+            "start_date": "2019-12-12",
+            "end_date": "2024-05-30",
+            "organization": null
+          },
+          {
+            "name": "member of the 57th Parliament of the United Kingdom",
+            "start_date": "2017-06-08",
+            "end_date": "2019-11-06",
+            "organization": null
+          },
+          {
+            "name": "member of the 56th Parliament of the United Kingdom",
+            "start_date": "2015-05-07",
+            "end_date": "2017-05-03",
+            "organization": null
+          },
+          {
+            "name": "member of the 55th Parliament of the United Kingdom",
+            "start_date": "2010-05-06",
+            "end_date": "2015-03-30",
+            "organization": null
+          },
+          {
+            "name": "Shadow Secretary of State for Business and Trade",
+            "start_date": "2010-05-11",
+            "end_date": "2010-10-08",
+            "organization": null
+          },
+          {
+            "name": "member of the 54th Parliament of the United Kingdom",
+            "start_date": "2005-05-05",
+            "end_date": "2010-04-12",
+            "organization": null
+          }
+        ],
+        "description": "British politician (born 1965)",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly quotes Pat McFadden and identifies him as a senior Cabinet minister, matching both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Pat McFadden",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q694676"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Pat McFadden",
+              "type": "person",
+              "description": "Senior Cabinet minister"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q694676",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"senior Cabinet minister Pat McFadden\\\" and provides a direct quote attributed to him. This matches the Wikidata entity’s name, occupation (politician), party affiliation (Labour Party), and senior cabinet minister status. No conflicting details are present, so the entity is clearly present and identifiable.\",\n    \"statement_assessment\": \"Pat McFadden is quoted directly: \\\"I think the UK is potentially in a good position with this administration...\\\" and \\\"Handling it correctly doesn't mean following every twist and turn of every comment...\\\". The article attributes these statements to him, confirming he is making statements.\",\n    \"plausibility_assessment\": \"As a senior cabinet minister in the UK government, it is entirely plausible for Pat McFadden to comment on the UK‑White House relationship and to provide policy guidance. The statements are consistent with the role of a cabinet minister.\",\n    \"contradiction_analysis\": \"No contradictions were found between the article’s description of Pat McFadden and the Wikidata profile.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"senior Cabinet minister Pat McFadden\" and provides a direct quote attributed to him. This matches the Wikidata entity’s name, occupation (politician), party affiliation (Labour Party), and senior cabinet minister status. No conflicting details are present, so the entity is clearly present and identifiable.",
+                "statement_assessment": "Pat McFadden is quoted directly: \"I think the UK is potentially in a good position with this administration...\" and \"Handling it correctly doesn't mean following every twist and turn of every comment...\". The article attributes these statements to him, confirming he is making statements.",
+                "plausibility_assessment": "As a senior cabinet minister in the UK government, it is entirely plausible for Pat McFadden to comment on the UK‑White House relationship and to provide policy guidance. The statements are consistent with the role of a cabinet minister.",
+                "contradiction_analysis": "No contradictions were found between the article’s description of Pat McFadden and the Wikidata profile.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q694676",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly quotes Pat McFadden and identifies him as a senior Cabinet minister, matching both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly quotes Pat McFadden and identifies him as a senior Cabinet minister, matching both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Volodymyr Zelensky": {
+      "name": "Volodymyr Zelensky",
+      "type_of_agent": "person",
+      "agent_description": "Ukrainian president",
+      "wikidata_info": {
+        "name": "Volodymyr Zelenskyy",
+        "wikidata_id": "Q3874799",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Kryvyi Rih",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Servant of the People",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "politician",
+          "comedian",
+          "presenter",
+          "film producer",
+          "screenwriter",
+          "actor",
+          "television producer",
+          "television presenter",
+          "entertainer",
+          "singer",
+          "humorist",
+          "filmmaker",
+          "showman",
+          "KVN actor",
+          "impressionist",
+          "President of the Republic"
+        ],
+        "field_of_work": [
+          "acting",
+          "parody",
+          "show business",
+          "politics",
+          "presidency of Volodymyr Zelenskyy",
+          "jurist",
+          "screenwriter",
+          "television presenter",
+          "film producer",
+          "television producer",
+          "singer",
+          "impressionist",
+          "humorist",
+          "showman",
+          "politician",
+          "film director"
+        ],
+        "position_held": [
+          {
+            "name": "President of Ukraine",
+            "start_date": "2019-05-20",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Supreme Commander of the Armed Forces of Ukraine",
+            "start_date": "2019-05-20",
+            "end_date": null,
+            "organization": null
+          }
+        ],
+        "description": "President of Ukraine since 2019",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "comedian",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "presenter",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "film producer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "screenwriter",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "actor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "television producer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "television presenter",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "entertainer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "singer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "humorist",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "filmmaker",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "showman",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "KVN actor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "impressionist",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "President of the Republic",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly refers to Volodymyr Zelensky as Ukrainian president, confirming both name and description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Volodymyr Zelensky",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q3874799"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Volodymyr Zelensky",
+              "type": "person",
+              "description": "Ukrainian president"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q3874799",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Ukrainian president Volodymyr Zelensky\\\" in the sentence: \\\"...a deepening rift has emerged between him and Ukrainian president Volodymyr Zelensky as the two have traded barbs.\\\" This matches the Wikidata entity name, title (President of Ukraine), and description. No other individual with a similar name is mentioned, and the context (Ukrainian president) aligns perfectly with the Wikidata profile.\",\n    \"statement_assessment\": \"Zelensky is attributed with a statement: \\\"The Ukrainian president then claimed Mr Trump was living in a Russian 'disinformation space'\\\". This is a direct claim made by the president, indicating he is making statements in the article. Other references to him are either about his reactions or about others speaking to him, but the quoted claim confirms his role as a declarant.\",\n    \"plausibility_assessment\": \"It is highly plausible for the President of Ukraine to make such a statement about the U.S. President, especially in the context of a deepening rift between the two leaders. The statement aligns with the political context described in the article.\",\n    \"contradiction_analysis\": \"No contradictions are found between the article's depiction of Zelensky and the Wikidata entity. The article consistently refers to him as the Ukrainian president and attributes a statement to him that is consistent with his role.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Ukrainian president Volodymyr Zelensky\" in the sentence: \"...a deepening rift has emerged between him and Ukrainian president Volodymyr Zelensky as the two have traded barbs.\" This matches the Wikidata entity name, title (President of Ukraine), and description. No other individual with a similar name is mentioned, and the context (Ukrainian president) aligns perfectly with the Wikidata profile.",
+                "statement_assessment": "Zelensky is attributed with a statement: \"The Ukrainian president then claimed Mr Trump was living in a Russian 'disinformation space'\". This is a direct claim made by the president, indicating he is making statements in the article. Other references to him are either about his reactions or about others speaking to him, but the quoted claim confirms his role as a declarant.",
+                "plausibility_assessment": "It is highly plausible for the President of Ukraine to make such a statement about the U.S. President, especially in the context of a deepening rift between the two leaders. The statement aligns with the political context described in the article.",
+                "contradiction_analysis": "No contradictions are found between the article's depiction of Zelensky and the Wikidata entity. The article consistently refers to him as the Ukrainian president and attributes a statement to him that is consistent with his role.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q3874799",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly refers to Volodymyr Zelensky as Ukrainian president, confirming both name and description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly refers to Volodymyr Zelensky as Ukrainian president, confirming both name and description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "White House officials": {
+      "name": "White House",
+      "type_of_agent": "organization",
+      "agent_description": "White House officials",
+      "wikidata_info": {
+        "name": "Executive Office of the President of the United States",
+        "found": true,
+        "wikidata_id": "Q1355327",
+        "type": "United States federal agency",
+        "inception_date": "1/1/1939",
+        "dissolution_date": null,
+        "headquarters": "Eisenhower Executive Office Building",
+        "country": "United States",
+        "official_website": "http://www.whitehouse.gov/administration/eop/",
+        "parent_organization": "Federal Government of the United States",
+        "subsidiaries": [
+          "Council on Environmental Quality",
+          "Council of Economic Advisers",
+          "United States Digital Service",
+          "Office of Management and Budget",
+          "United States National Security Council",
+          "Office of Science and Technology Policy",
+          "Office of Administration",
+          "Office of the United States Trade Representative",
+          "White House Office",
+          "Office of National Drug Control Policy",
+          "United States Homeland Security Council",
+          "Fair Employment Practice Committee",
+          "Opening Our Country Council",
+          "Homeland Security Advisory Council",
+          "National Labor Relations Board"
+        ],
+        "industry": [],
+        "key_people": [
+          "Susie Wiles"
+        ],
+        "description": "U.S. federal government office of the president of the United States",
+        "image_url": null,
+        "alias": "EOP"
+      },
+      "taxonomy_info": {
+        "classification": "GovernmentOrganization",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions \"White House officials\", confirming the name White House and its role as a government entity."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "White House officials",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "White House",
+            "agent_type": "organization"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "White House",
+            "entities_found_count": 2,
+            "found_wikidata_ids": [
+              "Q1355327",
+              "Q130556185"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "White House officials",
+              "type": "organization",
+              "description": "White House officials"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article explicitly mentions \"White House officials\" in the sentence: \"...which led White House officials to accuse Mr Zelensky of 'insulting' his counterpart.\" This confirms the target entity is present.",
+                "statement_detection": "The phrase indicates that the White House officials made a statement (the accusation). Thus, the entity is making a declaration in the article.",
+                "candidate_evaluation": "Candidate Q1355327, \"Executive Office of the President of the United States\", is the only entity that represents the White House officials. The other candidate (Q130556185) is a Czech company unrelated to the U.S. White House. Therefore Q1355327 is the best match.",
+                "authority_verification": "The Executive Office of the President is the official body that houses White House officials and has the authority to issue statements on behalf of the U.S. administration.",
+                "plausibility_assessment": "It is entirely plausible for White House officials to accuse a foreign leader of insulting their counterpart, especially in the context of U.S.–Ukraine diplomatic tensions described in the article.",
+                "final_justification": "The entity \"White House officials\" is present and making a statement. Candidate Q1355327 aligns perfectly with the description, role, and authority required for this attribution."
+              },
+              "answer": "Q1355327"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q1355327",
+              "label": "Executive Office of the President of the United States"
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "organization_type": {
+                "classification": "GovernmentOrganization",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions \"White House officials\", confirming the name White House and its role as a government entity."
+              }
+            },
+            "classification_outcome": {
+              "classification": "GovernmentOrganization",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions \"White House officials\", confirming the name White House and its role as a government entity."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Elon Musk": {
+      "name": "Elon Musk",
+      "type_of_agent": "person",
+      "agent_description": "Businessman and adviser to Mr Trump",
+      "wikidata_info": {
+        "name": "Elon Musk",
+        "wikidata_id": "Q317521",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Pretoria",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "America Party",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [
+          "theism"
+        ],
+        "political_ideology": [],
+        "occupation": [
+          "programmer",
+          "engineer",
+          "entrepreneur",
+          "investor",
+          "politician",
+          "civil servant",
+          "technology entrepreneur",
+          "inventor",
+          "dub actor"
+        ],
+        "field_of_work": [
+          "tech entrepreneurship",
+          "entrepreneurship",
+          "public finance"
+        ],
+        "position_held": [
+          {
+            "name": "co-president",
+            "start_date": "2016-07-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": "2008-10-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": "2002-00-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Senior Advisor to the President of the United States",
+            "start_date": "2025-01-20",
+            "end_date": "2025-05-30",
+            "organization": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": "2022-10-28",
+            "end_date": "2023-06-05",
+            "organization": null
+          },
+          {
+            "name": "chairperson",
+            "start_date": "2008-00-00",
+            "end_date": "2018-11-00",
+            "organization": null
+          }
+        ],
+        "description": "businessman and entrepreneur (born 1971)",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "programmer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "engineer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "entrepreneur",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "investor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "civil servant",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "technology entrepreneur",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "inventor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "dub actor",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "BusinessRepresentative",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly identifies Elon Musk as a businessman and adviser to Mr. Trump and attributes a statement to him, confirming both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Elon Musk",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q317521"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Elon Musk",
+              "type": "person",
+              "description": "Businessman and adviser to Mr Trump"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q317521",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Businessman Elon Musk\\\" and describes him as \\\"acting as an adviser on federal spending to Mr Trump.\\\" This matches the Wikidata entity’s name, occupation (businessman), and the description that he is an adviser to Trump. No other individual named Elon Musk is mentioned, and the contextual details (businessman, adviser role) align with the Wikidata profile, confirming a strong identity match.\",\n    \"statement_assessment\": \"Elon Musk is directly quoted as making a statement: \\\"suggested Mr Zelensky is running a 'fraud machine feeding off the dead bodies of soldiers'\\\". The attribution is clear and unambiguous.\",\n    \"plausibility_assessment\": \"While Elon Musk is a well‑known entrepreneur, there is no public record of him serving as a federal spending adviser to the U.S. president. The claim that he holds such a role is unusual and not corroborated by other sources. Therefore, the plausibility of him making the statement in the capacity described is questionable, though not impossible.\",\n    \"contradiction_analysis\": \"No contradictions were found between the article’s description of Elon Musk and the Wikidata profile. The only potential issue is the unusual nature of the adviser role, which does not directly contradict the identity but raises plausibility concerns.\",\n    \"confidence_level\": \"High for identity and statement attribution; moderate for plausibility due to the atypical adviser role.\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Businessman Elon Musk\" and describes him as \"acting as an adviser on federal spending to Mr Trump.\" This matches the Wikidata entity’s name, occupation (businessman), and the description that he is an adviser to Trump. No other individual named Elon Musk is mentioned, and the contextual details (businessman, adviser role) align with the Wikidata profile, confirming a strong identity match.",
+                "statement_assessment": "Elon Musk is directly quoted as making a statement: \"suggested Mr Zelensky is running a 'fraud machine feeding off the dead bodies of soldiers'\". The attribution is clear and unambiguous.",
+                "plausibility_assessment": "While Elon Musk is a well‑known entrepreneur, there is no public record of him serving as a federal spending adviser to the U.S. president. The claim that he holds such a role is unusual and not corroborated by other sources. Therefore, the plausibility of him making the statement in the capacity described is questionable, though not impossible.",
+                "contradiction_analysis": "No contradictions were found between the article’s description of Elon Musk and the Wikidata profile. The only potential issue is the unusual nature of the adviser role, which does not directly contradict the identity but raises plausibility concerns.",
+                "confidence_level": "High for identity and statement attribution; moderate for plausibility due to the atypical adviser role."
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q317521",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "BusinessRepresentative",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly identifies Elon Musk as a businessman and adviser to Mr. Trump and attributes a statement to him, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "BusinessRepresentative",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly identifies Elon Musk as a businessman and adviser to Mr. Trump and attributes a statement to him, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Keith Kellogg": {
+      "name": "Keith Kellogg",
+      "type_of_agent": "person",
+      "agent_description": "Mr Trump's Ukraine envoy and retired general",
+      "wikidata_info": {
+        "name": "Keith Kellogg",
+        "wikidata_id": "Q27916194",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Dayton",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Republican Party",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "military officer"
+        ],
+        "field_of_work": [
+          "military personnel",
+          "diplomat"
+        ],
+        "position_held": [
+          {
+            "name": "United States National Security Advisor",
+            "start_date": "2017-02-13",
+            "end_date": "2017-02-20",
+            "organization": null
+          }
+        ],
+        "description": "American soldier",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "military officer",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "PublicOfficial",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Keith Kellogg and describes him as Mr Trump's Ukraine envoy and retired general, confirming both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Keith Kellogg",
+            "entities_found_count": 2,
+            "found_wikidata_ids": [
+              "Q111176633",
+              "Q27916194"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "Keith Kellogg",
+              "type": "person",
+              "description": "Mr Trump's Ukraine envoy and retired general"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article explicitly names \"retired general Keith Kellogg\" as Mr. Trump’s Ukraine envoy, matching the target description of \"Mr Trump's Ukraine envoy and retired general\". The name and title are directly referenced, confirming presence.",
+                "statement_detection": "The text states that Keith Kellogg \"praised Mr Zelensky on Friday as an 'embattled and courageous leader of a nation at war'\" and \"described as 'extensive and positive discussions'\". These are direct statements attributed to him, indicating he is making statements in the article.",
+                "candidate_evaluation": "Candidate Q111176633 is an American politician with no military background, which conflicts with the description of a retired general and envoy. Candidate Q27916194 is an American soldier, military officer, and diplomat, with a history of high‑level security roles, matching the retired general and envoy profile. Therefore Q27916194 is the clear match.",
+                "authority_verification": "Q27916194 holds a credible military and diplomatic background (former National Security Advisor, retired general). As Mr. Trump’s Ukraine envoy, he has the authority to comment on Ukraine leadership, making the statements in the article appropriate.",
+                "plausibility_assessment": "It is highly plausible for a retired general serving as a Ukraine envoy to publicly praise the Ukrainian president after discussions. The attribution aligns with his role and the context of the article.",
+                "final_justification": "The entity is present in the article, making statements that are directly attributed to him. Candidate Q27916194 best matches the described profile of a retired general and Ukraine envoy, and his authority and the context support the attribution. Thus, Q27916194 is the correct Wikidata ID for both presence and statement attribution."
+              },
+              "answer": "Q27916194"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q27916194",
+              "label": "Keith Kellogg"
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "PublicOfficial",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Keith Kellogg and describes him as Mr Trump's Ukraine envoy and retired general, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "PublicOfficial",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Keith Kellogg and describes him as Mr Trump's Ukraine envoy and retired general, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Andrzej Duda": {
+      "name": "Andrzej Duda",
+      "type_of_agent": "person",
+      "agent_description": "Poland's president",
+      "wikidata_info": {
+        "name": "Andrzej Duda",
+        "wikidata_id": "Q9151911",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Kraków",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "independent politician",
+            "start_date": "2015-00-00",
+            "end_date": null
+          },
+          {
+            "name": "Law and Justice",
+            "start_date": "2005-00-00",
+            "end_date": "2015-00-00"
+          },
+          {
+            "name": "independent politician",
+            "start_date": "2001-00-00",
+            "end_date": "2005-00-00"
+          },
+          {
+            "name": "Freedom Union",
+            "start_date": "2000-00-00",
+            "end_date": "2001-00-00"
+          }
+        ],
+        "religion": [
+          "Catholicism"
+        ],
+        "political_ideology": [
+          "national conservatism"
+        ],
+        "occupation": [
+          "politician",
+          "jurist",
+          "university teacher",
+          "lawyer"
+        ],
+        "field_of_work": [
+          "politics",
+          "administrative law"
+        ],
+        "position_held": [
+          {
+            "name": "President of the Republic of Poland",
+            "start_date": "2015-08-06",
+            "end_date": "2025-08-06",
+            "organization": null
+          },
+          {
+            "name": "Member of the European Parliament",
+            "start_date": "2014-07-01",
+            "end_date": "2015-05-25",
+            "organization": null
+          },
+          {
+            "name": "member of the Sejm",
+            "start_date": "2011-11-08",
+            "end_date": "2014-05-27",
+            "organization": null
+          },
+          {
+            "name": "Undersecretary of State",
+            "start_date": "2008-00-00",
+            "end_date": "2010-00-00",
+            "organization": null
+          },
+          {
+            "name": "Undersecretary of State",
+            "start_date": "2006-00-00",
+            "end_date": "2007-00-00",
+            "organization": null
+          }
+        ],
+        "description": "politician and lawyer, president of Poland from 2015 to 2025",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "jurist",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "university teacher",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "lawyer",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly identifies Andrzej Duda as Poland's president and quotes him, confirming both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Andrzej Duda",
+            "entities_found_count": 5,
+            "found_wikidata_ids": [
+              "Q9151911",
+              "Q28354405",
+              "Q102306489",
+              "Q125226297",
+              "Q125226314"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "Andrzej Duda",
+              "type": "person",
+              "description": "Poland's president"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article explicitly mentions \"Poland's president Andrzej Duda\" and later refers to him as \"Mr Duda\". The context clearly identifies him as the current president of Poland, matching the target entity description.",
+                "statement_detection": "The article attributes two statements to him: 1) \"Mr Duda said he had a 'candid' conversation with Mr Zelensky on Friday and urged him to 'remain committed to the course of calm and constructive co‑operation' with Mr Trump.\" 2) \"'I trust that good will and honesty form the foundation of the US negotiation strategy,' he posted on X.\" These are direct quotes and a social‑media post, indicating active statement‑making.",
+                "candidate_evaluation": "Candidate Q9151911 is a politician and lawyer who served as President of the Republic of Poland from 2015 to 2025, matching the description \"Poland's president\". None of the other candidates (chemistry professor, engineer, screenwriter, computer scientist) align with the political role or the context of the article. Therefore Q9151911 is the sole plausible match.",
+                "authority_verification": "Q9151911 holds the office of President of Poland, a position that confers official authority to comment on international negotiations and diplomatic relations. The statements attributed to him concern US‑Poland relations and diplomatic conduct, which are within his purview.",
+                "plausibility_assessment": "It is highly plausible for the Polish president to publicly discuss diplomatic interactions with Ukraine and the United States, and to post remarks on X about negotiation strategy. The content and medium are consistent with typical presidential communications.",
+                "final_justification": "The target entity is present in the article, making statements that are directly attributed to him. Candidate Q9151911 perfectly matches the entity’s identity, role, and the context of the statements. No other candidate fits the description or the article’s content. Therefore, Q9151911 is the correct Wikidata ID for both presence verification and statement attribution."
+              },
+              "answer": "Q9151911"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q9151911",
+              "label": "Andrzej Duda"
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly identifies Andrzej Duda as Poland's president and quotes him, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly identifies Andrzej Duda as Poland's president and quotes him, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:30:23.439974",
+  "status": "success"
+}

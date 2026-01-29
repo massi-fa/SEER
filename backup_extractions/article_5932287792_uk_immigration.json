@@ -1,0 +1,353 @@
+{
+  "article_id": "5932287792_uk_immigration",
+  "title": "'I wanted to give birth on a beach and flew 4,000 miles but I'm stranded out here'",
+  "body": "Iuliia Gurzhii, 38, husband, Clive, 51, and their daughter Louisa.\n\nA mother-to-be who flew 4,000 miles to across the world to give birth on a beach is \"stranded\" off the coast fo Grenada with her husband and four-month-old baby. Iuliia Gurzhii, 38, and her husband, Clive, 51, left Tameside, Greater Manchester, and were travelling to Rodney Bay in St Lucia.\n\nREAD MORE More rain and thunderstorms likely to follow\n\nIullia gave birth to baby Louisa at sea on April 23\n\nThe couple wanted to fulfill Iuliia's dream of having the most \"natural\" birth possible on a beach. However, her waters broke and she gave birth to baby Louisa at sea on April 23 and since then the couple has been struggling to return to the UK. What pains them the most is that their eight-year-old daughter Elizabeth in the UK as they couldn't get her passport renewed. The couple claimed that they \"feel like prisoners\" as they have been unable to register her newborn's birth or apply for a passport.\n\nThey said that initially they were told by a hospital that they couldn't register her birth because she was more than 24 hours old. Later, the immigration office said they needed proof the baby was theirs before a passport office said they couldn't help because the couple had no proof of where Louisa was born. They now claim the UK High Commission said they needed a DNA test - which they are still waiting to get the results for. Iuliia, a yoga teacher, said she is having sleepless nights due to the stress of not being able to go home to her daughter, who is being looked after by her auntie, Kristina, 24.\n\nSUBSCRIBE Invalid email We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info\n\nTrending\n\nIuliia Gurzhii, 38, and her husband, Clive, 51, say they \"feel like prisoners\" after getting stuck\n\nShe said: \"It is hurricane season we have storms now - it is traumatising for us all. I can't stop crying, we are begging for help - we have been abandoned.\" Clive, a sports coach from Tameside, said: \"We have been passed around different agencies and nobody will help us. We are running out of money. We will soon run out of food, and nobody is helping us. \"We are essentially stateless - we are more than abandoned. We are prisoners in a country that we are not allowed to leave.\" The couple departed from the UK when Iuliia was 35 weeks pregnant and first travelled to Martinique. They then reached St Lucia by boat and Iuliia gave birth at sea off the coast of Rodney Bay. Louisa was born at 12.40am, weighing 3kg.",
+  "date": "2023-08-11 15:05:22+00:00",
+  "source_link": "https://www.express.co.uk/news/uk/1801318/mother-to-be-flew-4000-miles-give-birth-now-stranded",
+  "source_info": {
+    "name": "The Daily Express",
+    "domain": "express.co.uk",
+    "description": null,
+    "home_page_url": "https://www.express.co.uk/",
+    "locations": [
+      {
+        "city": "",
+        "country": "GB",
+        "state": ""
+      },
+      {
+        "city": "",
+        "country": "GB",
+        "state": ""
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Iuliia Gurzhii",
+      "agent_description": "A yoga teacher",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "It is hurricane season we have storms now - it is traumatising for us all. I can't stop crying, we are begging for help - we have been abandoned.",
+      "source_context": "She said: \"It is hurricane season we have storms now - it is traumatising for us all. I can't stop crying, we are begging for help - we have been abandoned.\""
+    },
+    {
+      "agent_name": "Clive",
+      "agent_description": "A sports coach from Tameside",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We have been passed around different agencies and nobody will help us. We are running out of money. We will soon run out of food, and nobody is helping us.",
+      "source_context": "Clive, a sports coach from Tameside, said: \"We have been passed around different agencies and nobody will help us. We are running out of money. We will soon run out of food, and nobody is helping us.\""
+    },
+    {
+      "agent_name": "Clive",
+      "agent_description": "A sports coach from Tameside",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We are essentially stateless - we are more than abandoned. We are prisoners in a country that we are not allowed to leave.",
+      "source_context": "\"We are essentially stateless - we are more than abandoned. We are prisoners in a country that we are not allowed to leave.\""
+    },
+    {
+      "agent_name": "Iuliia Gurzhii and Clive",
+      "agent_description": "The couple",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "We feel like prisoners.",
+      "source_context": "The couple claimed that they \"feel like prisoners\" as they have been unable to register her newborn's birth or apply for a passport."
+    }
+  ],
+  "agents_info": {
+    "Iuliia Gurzhii": {
+      "name": "Gurzhii",
+      "type_of_agent": "person",
+      "agent_description": "A yoga teacher",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "Expert",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly identifies Iuliia Gurzhii as a yoga teacher and quotes her, confirming both the name and the description."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Iuliia Gurzhii",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Gurzhii",
+            "agent_type": "person"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Gurzhii",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q12098517"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Iuliia Gurzhii",
+              "type": "person",
+              "description": "A yoga teacher"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q12098517",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article mentions Iuliia Gurzhii, 38, a yoga teacher. The Wikidata entity (Q12098517) is a male historian named \\\"I. O. Hurz…i\\\" with occupation in history, not a yoga teacher. The name spelling, gender, and occupation differ significantly, indicating they are distinct individuals. Therefore the Wikidata entity is not present or identifiable in the article.\",\n    \"statement_assessment\": \"N/A – the entity is not identified, so statement attribution is irrelevant.\",\n    \"plausibility_assessment\": \"N/A – no statements to assess for the Wikidata entity.\",\n    \"contradiction_analysis\": \"The article’s description (yoga teacher, female, 38 years old) directly contradicts the Wikidata profile (historian, male, no birth date). This is a clear identity mismatch.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"NO\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article mentions Iuliia Gurzhii, 38, a yoga teacher. The Wikidata entity (Q12098517) is a male historian named \"I. O. Hurz…i\" with occupation in history, not a yoga teacher. The name spelling, gender, and occupation differ significantly, indicating they are distinct individuals. Therefore the Wikidata entity is not present or identifiable in the article.",
+                "statement_assessment": "N/A – the entity is not identified, so statement attribution is irrelevant.",
+                "plausibility_assessment": "N/A – no statements to assess for the Wikidata entity.",
+                "contradiction_analysis": "The article’s description (yoga teacher, female, 38 years old) directly contradicts the Wikidata profile (historian, male, no birth date). This is a clear identity mismatch.",
+                "confidence_level": "High"
+              },
+              "answer": "NO"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "NO",
+            "selected_entity_details": null
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Expert",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly identifies Iuliia Gurzhii as a yoga teacher and quotes her, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Expert",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly identifies Iuliia Gurzhii as a yoga teacher and quotes her, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Clive": {
+      "name": "Clive",
+      "type_of_agent": "person",
+      "agent_description": "A sports coach from Tameside",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "Other",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly quotes Clive and identifies him as a sports coach from Tameside, matching both the name and description, but no category in the taxonomy directly corresponds to a sports coach."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Clive",
+            "entities_found_count": 5,
+            "found_wikidata_ids": [
+              "Q9204",
+              "Q114094649",
+              "Q366266",
+              "Q100383610",
+              "Q298761"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "Clive",
+              "type": "person",
+              "description": "A sports coach from Tameside"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article explicitly mentions \"Clive, 51, a sports coach from Tameside\". This matches the target entity’s name and description, confirming that the target person is present in the text.",
+                "statement_detection": "Clive is quoted: \"Clive, a sports coach from Tameside, said: 'We have been passed around different agencies and nobody will help us...'\". Thus the entity is making statements in the article.",
+                "candidate_evaluation": "None of the provided candidate entities correspond to a sports coach from Tameside. The candidates are a writer (C. S. Lewis), a particle physicist (Clive A. Edwards), a novelist (Clive Cussler), a researcher (Clive Roberts), and a film director/author (Clive Barker). None match the occupation, location, or context of the Clive described in the article.",
+                "authority_verification": "N/A – no candidate matches, so authority cannot be verified.",
+                "plausibility_assessment": "N/A – no candidate to assess.",
+                "final_justification": "The target entity is present and making statements, but there is no suitable Wikidata candidate among those supplied that matches the described sports coach from Tameside. Therefore, the correct response is to return \"NONE\"."
+              },
+              "answer": "NONE"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "NO",
+            "selected_entity_details": null
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Other",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly quotes Clive and identifies him as a sports coach from Tameside, matching both the name and description, but no category in the taxonomy directly corresponds to a sports coach."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Other",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly quotes Clive and identifies him as a sports coach from Tameside, matching both the name and description, but no category in the taxonomy directly corresponds to a sports coach."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Iuliia Gurzhii and Clive": {
+      "name": "Gurzhii",
+      "type_of_agent": "person",
+      "agent_description": "The couple",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "OrdinaryCitizen",
+        "confidence": "HIGH",
+        "explanation": "The article quotes Iuliia Gurzhii and her husband Clive as a couple, confirming both the name and the description of them being a couple."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Iuliia Gurzhii and Clive",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Gurzhii",
+            "agent_type": "person"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Gurzhii",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q12098517"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Iuliia Gurzhii and Clive",
+              "type": "person",
+              "description": "The couple"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q12098517",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article discusses a couple: Iuliia Gurzhii (female, 38, yoga teacher) and her husband Clive (male, 51, sports coach). The Wikidata entry provided refers to a single male historian named \\\"I. O. Hurz…i\\\" born in Khudiaky, with no mention of a spouse, a daughter, or any connection to the events described. The names, occupations, genders, and biographical details do not align. Therefore, the Wikidata entity is not present or identifiable in the article.\",\n    \"statement_assessment\": \"N/A – the entity is not identified.\",\n    \"plausibility_assessment\": \"N/A – no statements to assess.\",\n    \"contradiction_analysis\": \"The Wikidata entity’s profile (historian, male, Khudiaky) contradicts the article’s description (female yoga teacher, male sports coach, couple in Grenada).\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"NO\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article discusses a couple: Iuliia Gurzhii (female, 38, yoga teacher) and her husband Clive (male, 51, sports coach). The Wikidata entry provided refers to a single male historian named \"I. O. Hurz…i\" born in Khudiaky, with no mention of a spouse, a daughter, or any connection to the events described. The names, occupations, genders, and biographical details do not align. Therefore, the Wikidata entity is not present or identifiable in the article.",
+                "statement_assessment": "N/A – the entity is not identified.",
+                "plausibility_assessment": "N/A – no statements to assess.",
+                "contradiction_analysis": "The Wikidata entity’s profile (historian, male, Khudiaky) contradicts the article’s description (female yoga teacher, male sports coach, couple in Grenada).",
+                "confidence_level": "High"
+              },
+              "answer": "NO"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "NO",
+            "selected_entity_details": null
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "OrdinaryCitizen",
+                "confidence": "HIGH",
+                "explanation": "The article quotes Iuliia Gurzhii and her husband Clive as a couple, confirming both the name and the description of them being a couple."
+              }
+            },
+            "classification_outcome": {
+              "classification": "OrdinaryCitizen",
+              "confidence": "HIGH",
+              "explanation": "The article quotes Iuliia Gurzhii and her husband Clive as a couple, confirming both the name and the description of them being a couple."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:36:04.780757",
+  "status": "success"
+}

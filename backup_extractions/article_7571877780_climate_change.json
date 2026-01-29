@@ -1,0 +1,415 @@
+{
+  "article_id": "7571877780_climate_change",
+  "title": "Scottish and UK governments both urged to 'stand by' Grangemouth workers",
+  "body": "Roz Foyer, of the Scottish Trades Union Congress, made the plea as she addressed the Scottish Labour conference in Glasgow on Saturday.\n Governments at Holyrood and Westminster have been challenged to \"stand by\" workers at Scotland's only oil refinery as it prepares to close.\n  Roz Foyer, general secretary of the Scottish Trades Union Congress (STUC), claimed both governments are currently \"failing\" workers at the Grangemouth plant.\n  Redundancy notices have already been sent out to hundreds of employees as owners at Petroineos prepare to close the refinery.\n  MPs were told last year that the plant was expected to lose the company £150 million over 2024.\n  Ms Foyer insisted there was still a \"viable option on the table\" for Grangemouth, saying the union Unite had proposed to both the Scottish and UK governments that it could be used to become a production centre for sustainable aviation fuel.\n  Ms Foyer, who spoke out on the issue as she addressed the Scottish Labour conference in Glasgow , said: \"My key message today to both our governments is this – do your jobs. Stand by Scotland's energy workers.\n  \"If you fail to save the jobs in Grangemouth, if you fail to halt this closure and invest in a real just transition, then you will be failing workers right across Scotland.\n  \"Progressive governments must take a stand against billionaires who treat workers as disposable, against corporations who profit while communities suffer and for a real just transition that protects jobs, industries and livelihoods.\"\n  Her comments came as she told Labour supporters many people are \"rightly outraged by the betrayal of Scotland's workers at Grangemouth\".\n  She said the site had been a \"key test of whether the Scottish and the UK governments could work together to protect jobs, livelihoods and an entire community\".\n  But Ms Foyer added: \"So far, both governments are failing those workers.\"\n  With redundancy notices having been sent three weeks ago, she said the first group of workers would finish up at the plant on April 30, adding: \"Out of 425 skilled workers, only 65 are required for Petroineos's new import terminal.\"\n  She added that closing the refinery could also see a further 2,800 jobs lost in the wider supply chain and cost the local economy more than £400 million.\n  The proposal to transition the site to make sustainable aviation fuel is a \"plan that presents a financially viable way of retaining those jobs and transitioning that refinery now to become a key driver of net zero\", Ms Foyer added\n  She said: \"This is an opportunity that must be grasped, it is one that will protect the security of our national energy infrastructure and yet our governments hesitate to use their full powers to intervene.\n  \"Instead, they wring their hands, they offer us their condolences because the billionaire owners have decided it is not their global interests to keep Scotland's only refinery open.\"\n  When the closure of the refinery was announced last year, the Scottish and UK governments jointly committed £100 million for the local area and pledged to work together on the Project Willow report on the future of the site.\n  Acting Scottish Energy Secretary Gillian Martin said the Scottish Government is 'on the side of Grangemouth and its workforce', as she challenged the UK Government to act. (Andrew Milligan/PA)\n  More recently, Scotland's First Minister John Swinney announced a further £25 million to ensure a \"just transition\" for the area.\n  Acting Scottish Energy Secretary Gillian Martin said: \"The Scottish Government has already shown that we are on the side of Grangemouth and its workforce. We are doing all we can within the limits of our powers and resources.\n  \"That is why this week the First Minister announced an additional £25 million in support, bringing the total we have committed or already invested in Grangemouth to £87 million.\n  \"We are all clear that the UK Government needs to do at least the same and deliver a fair amount to avoid significant economic disruption in central Scotland, and to protect and promote Scotland's – and Grangemouth's – future interests.\"\n  She also called on the UK Government to \"expedite a decision\" on the proposed Acorn carbon capture and storage project in Scotland, and \"to make urgent progress on allocating funding for the second round of hydrogen production projects, to help ensure a sustainable future for the wider industrial cluster\".\n  The UK Government has been contacted for comment",
+  "date": "2025-02-22 14:44:44+00:00",
+  "source_link": "https://www.standard.co.uk/business/business-news/scottish-and-uk-governments-both-urged-to-stand-by-grangemouth-workers-b1212668.html",
+  "source_info": {
+    "name": "London Evening Standard",
+    "domain": "standard.co.uk",
+    "description": null,
+    "home_page_url": "https://www.standard.co.uk/",
+    "locations": [
+      {
+        "city": null,
+        "country": "GB",
+        "state": null
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "Both governments are currently failing workers at the Grangemouth plant.",
+      "source_context": "Roz Foyer, general secretary of the Scottish Trades Union Congress (STUC), claimed both governments are currently \"failing\" workers at the Grangemouth plant."
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "There is still a viable option on the table for Grangemouth.",
+      "source_context": "Ms Foyer insisted there was still a \"viable option on the table\" for Grangemouth, saying the union Unite had proposed to both the Scottish and UK governments that it could be used to become a production centre for sustainable aviation fuel."
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "My key message today to both our governments is this – do your jobs. Stand by Scotland's energy workers.",
+      "source_context": "Ms Foyer, who spoke out on the issue as she addressed the Scottish Labour conference in Glasgow , said: \"My key message today to both our governments is this – do your jobs. Stand by Scotland's energy workers."
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "If you fail to save the jobs in Grangemouth, if you fail to halt this closure and invest in a real just transition, then you will be failing workers right across Scotland.",
+      "source_context": "\"If you fail to save the jobs in Grangemouth, if you fail to halt this closure and invest in a real just transition, then you will be failing workers right across Scotland."
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Progressive governments must take a stand against billionaires who treat workers as disposable, against corporations who profit while communities suffer and for a real just transition that protects jobs, industries and livelihoods.",
+      "source_context": "\"Progressive governments must take a stand against billionaires who treat workers as disposable, against corporations who profit while communities suffer and for a real just transition that protects jobs, industries and livelihoods.\""
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Many people are rightly outraged by the betrayal of Scotland's workers at Grangemouth.",
+      "source_context": "Her comments came as she told Labour supporters many people are \"rightly outraged by the betrayal of Scotland's workers at Grangemouth\"."
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "The site had been a key test of whether the Scottish and the UK governments could work together to protect jobs, livelihoods and an entire community.",
+      "source_context": "She said the site had been a \"key test of whether the Scottish and the UK governments could work together to protect jobs, livelihoods and an entire community\"."
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "So far, both governments are failing those workers.",
+      "source_context": "But Ms Foyer added: \"So far, both governments are failing those workers.\""
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "The first group of workers would finish up at the plant on April 30.",
+      "source_context": "With redundancy notices having been sent three weeks ago, she said the first group of workers would finish up at the plant on April 30, adding: \"Out of 425 skilled workers, only 65 are required for Petroineos's new import terminal.\""
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Out of 425 skilled workers, only 65 are required for Petroineos's new import terminal.",
+      "source_context": "With redundancy notices having been sent three weeks ago, she said the first group of workers would finish up at the plant on April 30, adding: \"Out of 425 skilled workers, only 65 are required for Petroineos's new import terminal.\""
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Closing the refinery could also see a further 2,800 jobs lost in the wider supply chain and cost the local economy more than £400 million.",
+      "source_context": "She added that closing the refinery could also see a further 2,800 jobs lost in the wider supply chain and cost the local economy more than £400 million."
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "The proposal to transition the site to make sustainable aviation fuel is a plan that presents a financially viable way of retaining those jobs and transitioning that refinery now to become a key driver of net zero.",
+      "source_context": "The proposal to transition the site to make sustainable aviation fuel is a \"plan that presents a financially viable way of retaining those jobs and transitioning that refinery now to become a key driver of net zero\", Ms Foyer added"
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "This is an opportunity that must be grasped, it is one that will protect the security of our national energy infrastructure and yet our governments hesitate to use their full powers to intervene.",
+      "source_context": "She said: \"This is an opportunity that must be grasped, it is one that will protect the security of our national energy infrastructure and yet our governments hesitate to use their full powers to intervene."
+    },
+    {
+      "agent_name": "Roz Foyer",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Instead, they wring their hands, they offer us their condolences because the billionaire owners have decided it is not their global interests to keep Scotland's only refinery open.",
+      "source_context": "\"Instead, they wring their hands, they offer us their condolences because the billionaire owners have decided it is not their global interests to keep Scotland's only refinery open.\""
+    },
+    {
+      "agent_name": "Gillian Martin",
+      "agent_description": "Acting Scottish Energy Secretary",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "The Scottish Government has already shown that we are on the side of Grangemouth and its workforce. We are doing all we can within the limits of our powers and resources.",
+      "source_context": "Acting Scottish Energy Secretary Gillian Martin said: \"The Scottish Government has already shown that we are on the side of Grangemouth and its workforce. We are doing all we can within the limits of our powers and resources."
+    },
+    {
+      "agent_name": "Gillian Martin",
+      "agent_description": "Acting Scottish Energy Secretary",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "That is why this week the First Minister announced an additional £25 million in support, bringing the total we have committed or already invested in Grangemouth to £87 million.",
+      "source_context": "\"That is why this week the First Minister announced an additional £25 million in support, bringing the total we have committed or already invested in Grangemouth to £87 million."
+    },
+    {
+      "agent_name": "Gillian Martin",
+      "agent_description": "Acting Scottish Energy Secretary",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We are all clear that the UK Government needs to do at least the same and deliver a fair amount to avoid significant economic disruption in central Scotland, and to protect and promote Scotland's – and Grangemouth's – future interests.",
+      "source_context": "\"We are all clear that the UK Government needs to do at least the same and deliver a fair amount to avoid significant economic disruption in central Scotland, and to protect and promote Scotland's – and Grangemouth's – future interests.\""
+    },
+    {
+      "agent_name": "Gillian Martin",
+      "agent_description": "Acting Scottish Energy Secretary",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "She also called on the UK Government to \"expedite a decision\" on the proposed Acorn carbon capture and storage project in Scotland, and \"to make urgent progress on allocating funding for the second round of hydrogen production projects, to help ensure a sustainable future for the wider industrial cluster\".",
+      "source_context": "She also called on the UK Government to \"expedite a decision\" on the proposed Acorn carbon capture and storage project in Scotland, and \"to make urgent progress on allocating funding for the second round of hydrogen production projects, to help ensure a sustainable future for the wider industrial cluster\"."
+    }
+  ],
+  "agents_info": {
+    "Roz Foyer": {
+      "name": "Roz Foyer",
+      "type_of_agent": "person",
+      "agent_description": "general secretary of the Scottish Trades Union Congress (STUC)",
+      "wikidata_info": {
+        "name": "Rozanne Foyer",
+        "wikidata_id": "Q97129717",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": null,
+        "gender": "female",
+        "political_party": [],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [],
+        "field_of_work": [],
+        "position_held": [],
+        "description": "Scottish trade union leader",
+        "image_url": null,
+        "occupation_details": []
+      },
+      "taxonomy_info": {
+        "classification": "UnionRepresentative",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Roz Foyer and identifies her as the general secretary of the Scottish Trades Union Congress (STUC), confirming both her name and her role as a union representative."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Roz Foyer",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q97129717"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Roz Foyer",
+              "type": "person",
+              "description": "general secretary of the Scottish Trades Union Congress (STUC)"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q97129717",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Roz Foyer\\\" and identifies her as the general secretary of the Scottish Trades Union Congress (STUC). The Wikidata entry for Rozanne Foyer (Q97129717) is described as a \\\"Scottish trade union leader\\\" and lists her as the general secretary of the STUC. The name, title, and organization match perfectly, leaving no ambiguity that the article refers to the same individual. No other person with a similar name is mentioned, and the context (union leadership, Scottish Labour conference, Grangemouth refinery issue) aligns with the known profile of Roz Foyer.\",\n    \"statement_assessment\": \"Roz Foyer is quoted extensively throughout the article. The text contains direct quotations attributed to her, such as \\\"My key message today to both our governments is this – do your jobs. Stand by Scotland's energy workers,\\\" and other statements where she is explicitly identified as the speaker. Therefore, she is clearly making statements in the article.\",\n    \"plausibility_assessment\": \"It is entirely plausible for Roz Foyer, as general secretary of the STUC, to speak at a Scottish Labour conference and to make public statements about workers' rights, the Grangemouth refinery, and government policies. The content of her remarks aligns with her role as a trade union leader.\",\n    \"contradiction_analysis\": \"No contradictions were found. The article’s description and the Wikidata profile are consistent in name, position, and organization.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Roz Foyer\" and identifies her as the general secretary of the Scottish Trades Union Congress (STUC). The Wikidata entry for Rozanne Foyer (Q97129717) is described as a \"Scottish trade union leader\" and lists her as the general secretary of the STUC. The name, title, and organization match perfectly, leaving no ambiguity that the article refers to the same individual. No other person with a similar name is mentioned, and the context (union leadership, Scottish Labour conference, Grangemouth refinery issue) aligns with the known profile of Roz Foyer.",
+                "statement_assessment": "Roz Foyer is quoted extensively throughout the article. The text contains direct quotations attributed to her, such as \"My key message today to both our governments is this – do your jobs. Stand by Scotland's energy workers,\" and other statements where she is explicitly identified as the speaker. Therefore, she is clearly making statements in the article.",
+                "plausibility_assessment": "It is entirely plausible for Roz Foyer, as general secretary of the STUC, to speak at a Scottish Labour conference and to make public statements about workers' rights, the Grangemouth refinery, and government policies. The content of her remarks aligns with her role as a trade union leader.",
+                "contradiction_analysis": "No contradictions were found. The article’s description and the Wikidata profile are consistent in name, position, and organization.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q97129717",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "UnionRepresentative",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Roz Foyer and identifies her as the general secretary of the Scottish Trades Union Congress (STUC), confirming both her name and her role as a union representative."
+              }
+            },
+            "classification_outcome": {
+              "classification": "UnionRepresentative",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Roz Foyer and identifies her as the general secretary of the Scottish Trades Union Congress (STUC), confirming both her name and her role as a union representative."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Gillian Martin": {
+      "name": "Gillian Martin",
+      "type_of_agent": "person",
+      "agent_description": "Acting Scottish Energy Secretary",
+      "wikidata_info": {
+        "name": "Gillian Martin",
+        "wikidata_id": "Q24014282",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Newburgh",
+        "gender": "female",
+        "political_party": [
+          {
+            "name": "Scottish National Party",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "politician"
+        ],
+        "field_of_work": [],
+        "position_held": [
+          {
+            "name": "Minister for Energy",
+            "start_date": "2023-03-09",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Member of the 6th Scottish Parliament",
+            "start_date": "2021-05-06",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Member of the 5th Scottish Parliament",
+            "start_date": "2016-05-05",
+            "end_date": "2021-05-05",
+            "organization": null
+          }
+        ],
+        "description": "Scottish politician (born 1969)",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "PublicOfficial",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Gillian Martin and confirms her role as Acting Scottish Energy Secretary, matching both the name and description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Gillian Martin",
+            "entities_found_count": 7,
+            "found_wikidata_ids": [
+              "Q1524572",
+              "Q75340008",
+              "Q24014282",
+              "Q89983897",
+              "Q100695075",
+              "Q120634030",
+              "Q5562291"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "Gillian Martin",
+              "type": "person",
+              "description": "Acting Scottish Energy Secretary"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article explicitly names \"Acting Scottish Energy Secretary Gillian Martin\" twice, confirming the target entity is present.",
+                "statement_detection": "Both mentions include direct quotations attributed to Gillian Martin, indicating she is making statements in the article.",
+                "candidate_evaluation": "Candidate Q24014282 is a Scottish politician born 1969 who has held the position of Minister for Energy since 2023‑03‑09. This aligns with the title \"Acting Scottish Energy Secretary\" and the context of energy policy and Grangemouth. The other candidates either have unrelated occupations (badminton player, researcher, etc.) or lack the relevant political role, making them unsuitable.",
+                "authority_verification": "Q24014282 holds the ministerial role in the Scottish Government, giving her the authority to speak on energy matters and to comment on the Grangemouth refinery situation.",
+                "plausibility_assessment": "The statements attributed to Gillian Martin concern the Scottish Government’s stance on the Grangemouth refinery, energy policy, and funding, all within her ministerial remit. The content is consistent with what an Acting Energy Secretary would discuss, making the attribution highly plausible.",
+                "final_justification": "The entity is present, making statements, and the best matching candidate is Q24014282, which satisfies all identification and authority criteria."
+              },
+              "answer": "Q24014282"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q24014282",
+              "label": "Gillian Martin"
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "PublicOfficial",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Gillian Martin and confirms her role as Acting Scottish Energy Secretary, matching both the name and description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "PublicOfficial",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Gillian Martin and confirms her role as Acting Scottish Energy Secretary, matching both the name and description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:38:49.614059",
+  "status": "success"
+}

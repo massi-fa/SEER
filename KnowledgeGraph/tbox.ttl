@@ -1,0 +1,1706 @@
+@prefix nco: <http://data.open.ac.uk/ontology/newsclassification/v2#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix terms: <http://purl.org/dc/terms/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.open.ac.uk/ontology/newsclassification/nco_schema.org> a owl:Ontology ;
+    terms:title "News Classification Ontology (NCO)"@en ;
+    rdfs:comment "This ontology integrates the News Classification Ontology (NCO) v2.2 with Schema.Org. The purpose of this integration is to import the complete taxonomy of organizations available in Schema.Org into NCO, preserving the original hierarchical structure."@en ;
+    owl:imports <http://github.com/EnricoMotta/ontologies/newsclassification/v2.2.0> ;
+    owl:versionIRI <http://github.com/EnricoMotta/ontologies/newsclassification/nco+schema.org/1.1.0> .
+
+<http://data.open.ac.uk/ontology/newsclassification/v2> a owl:Ontology ;
+    rdfs:label "News Classification Ontology (NCO)"@en ;
+    terms:title "News Classification Ontology (NCO)"@en ;
+    rdfs:comment """The News Classification Ontology (NCO) v2.2. It defines the concepts needed to discuss news coverage.  These concepts include Entities, Events, Situations, Categorical Topics, Claims and Viewpoints. This ontology extends nco v1.4.3 by adding characterizations of agents (persons and organizations) and further developing the modelling of claims and utterances\r
+\r
+Preferred prefix is `nco: <https://data.open.ac.uk/ontology/newsclassification/v2#>`."""@en,
+        "We import SKOS, TimeOntology"@en ;
+    owl:imports rdfs:,
+        <http://www.w3.org/2004/02/skos/core>,
+        time:2016 ;
+    owl:versionIRI <http://github.com/EnricoMotta/ontologies/newsclassification/v2.2.0> .
+
+nco:CategoricalTopic a owl:Class ;
+    rdfs:comment "A Categorical Topic is a broad topic for discussion and journalistic analysis that tends to be generally relevant and newsworthy. Such topics include social, economic and political issues, such as crime, poverty, taxation, finances, economic, foreign and defence policies, immigration, party politics, and many others. Broad taxonomies for journalism, such as the IPTC Media Topic NewsCodes, tend to focus on categorical topics"@en ;
+    rdfs:subClassOf nco:Topic .
+
+nco:Text a owl:Class ;
+    rdfs:subClassOf nco:DataType .
+
+nco:directUtterance a nco:UtteranceType,
+        owl:NamedIndividual .
+
+nco:hasAspect a owl:ObjectProperty ;
+    rdfs:label "has aspect"@en ;
+    rdfs:comment "Connects an entity to its aspects - e.g., the financial status of an individual"@en ;
+    rdfs:domain nco:Entity ;
+    rdfs:range nco:Aspect ;
+    owl:inverseOf nco:isAspectOf .
+
+nco:hasSubEvent a owl:ObjectProperty,
+        owl:TransitiveProperty ;
+    rdfs:label "has subevent"@en ;
+    rdfs:domain nco:Event ;
+    rdfs:range nco:Event ;
+    rdfs:subPropertyOf nco:preconditionForEvent ;
+    owl:inverseOf nco:subEventOf .
+
+nco:hasSubTopic a owl:ObjectProperty,
+        owl:TransitiveProperty ;
+    rdfs:label "has subtopic"@en ;
+    rdfs:comment "This property captures hierarchical relations between topics – e.g., as expressed in the IPTC NewsCodes taxonomy"@en ;
+    rdfs:domain nco:Topic ;
+    rdfs:range nco:Topic ;
+    rdfs:subPropertyOf skos:narrowerTransitive ;
+    owl:inverseOf nco:subTopicOf .
+
+nco:hasViewpoint a owl:ObjectProperty ;
+    rdfs:comment "Relates a news item to a viewpoint, say ?v, expressed in the news item in question. Normally this relation is not asserted but inferred on the basis of a claim, say ?c, appearing in the news item, where ?c is an element of ?v"@en ;
+    rdfs:domain nco:NewsItem ;
+    rdfs:range nco:Viewpoint ;
+    owl:inverseOf nco:viewpointInNewsItem ;
+    owl:propertyChainAxiom ( nco:hasClaim nco:isClaimOf ) .
+
+nco:includesClaim a owl:ObjectProperty ;
+    rdfs:comment "A specialization of hasElement that is used to relate a claim to the viewpoint that includes it"@en ;
+    rdfs:domain nco:Viewpoint ;
+    rdfs:range nco:Claim ;
+    rdfs:subPropertyOf nco:hasElement ;
+    owl:inverseOf nco:isClaimOf .
+
+nco:indirectUtterance a nco:UtteranceType,
+        owl:NamedIndividual .
+
+nco:partiallyDirectUtterance a nco:UtteranceType,
+        owl:NamedIndividual .
+
+nco:satisfiesUf a owl:ObjectProperty ;
+    rdfs:label "satisfies"@en ;
+    rdfs:comment "An element can be part of a collection if and only if it satisfies the relevant unifying factor. This relation captures the relation between the element in a collection and the relevant unifying factor.  In general, we expect instances of class Collection to specify this relation in domain-dependent ways"@en ;
+    rdfs:domain [ a owl:Restriction ;
+            owl:onProperty nco:isElementOf ;
+            owl:someValuesFrom nco:Collection ] ;
+    rdfs:range nco:UnifyingFactor ;
+    owl:inverseOf nco:ufSatisfiedBy ;
+    owl:propertyChainAxiom ( nco:isElementOf nco:hasUnifyingFactor ) .
+
+terms:contributor a owl:AnnotationProperty .
+
+terms:created a owl:AnnotationProperty .
+
+terms:creator a owl:AnnotationProperty .
+
+terms:description a owl:AnnotationProperty .
+
+terms:isVersionOf a owl:AnnotationProperty .
+
+terms:license a owl:AnnotationProperty .
+
+terms:modified a owl:AnnotationProperty .
+
+terms:rights a owl:AnnotationProperty .
+
+terms:title a owl:AnnotationProperty .
+
+swrla:isRuleEnabled a owl:AnnotationProperty .
+
+<http://www.opengis.net/def/uom/ISO-8601/0/Gregorian> a owl:NamedIndividual .
+
+rdf:List a owl:Class .
+
+xsd:date a rdfs:Datatype .
+
+xsd:duration a rdfs:Datatype .
+
+xsd:gDay a rdfs:Datatype .
+
+xsd:gMonth a rdfs:Datatype .
+
+xsd:gYear a rdfs:Datatype .
+
+xsd:gYearMonth a rdfs:Datatype .
+
+xsd:pattern a owl:AnnotationProperty .
+
+owl:Annotation a owl:Class .
+
+owl:annotatedProperty a owl:ObjectProperty .
+
+owl:annotatedSource a owl:ObjectProperty .
+
+owl:annotatedTarget a owl:ObjectProperty .
+
+time:Friday a owl:NamedIndividual .
+
+time:Monday a owl:NamedIndividual .
+
+time:Saturday a owl:NamedIndividual .
+
+time:Sunday a owl:NamedIndividual .
+
+time:Thursday a owl:NamedIndividual .
+
+time:Tuesday a owl:NamedIndividual .
+
+time:Wednesday a owl:NamedIndividual .
+
+time:intervalBefore owl:propertyChainAxiom ( nco:isTimeOf nco:hasPrediction nco:hasTime ) .
+
+time:unitDay a owl:NamedIndividual .
+
+time:unitHour a owl:NamedIndividual .
+
+time:unitMinute a owl:NamedIndividual .
+
+time:unitMonth a owl:NamedIndividual .
+
+time:unitSecond a owl:NamedIndividual .
+
+time:unitWeek a owl:NamedIndividual .
+
+time:unitYear a owl:NamedIndividual .
+
+schema:AccountingService a owl:Class ;
+    rdfs:label "AccountingService"@en ;
+    rdfs:comment """Accountancy business.\\n\\nAs a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Service]]\\(s).\r
+      """@en ;
+    rdfs:subClassOf schema:FinancialService .
+
+schema:AdultEntertainment a owl:Class ;
+    rdfs:label "AdultEntertainment"@en ;
+    rdfs:comment "An adult entertainment establishment."@en ;
+    rdfs:subClassOf schema:EntertainmentBusiness .
+
+schema:Airline a owl:Class ;
+    rdfs:label "Airline"@en ;
+    rdfs:comment "An organization that provides flights for passengers."@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:AmusementPark a owl:Class ;
+    rdfs:label "AmusementPark"@en ;
+    rdfs:comment "An amusement park."@en ;
+    rdfs:subClassOf schema:EntertainmentBusiness .
+
+schema:AnimalShelter a owl:Class ;
+    rdfs:label "AnimalShelter"@en ;
+    rdfs:comment "Animal shelter."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:ArchiveOrganization a owl:Class ;
+    rdfs:label "ArchiveOrganization"@en ;
+    rdfs:comment "An organization with archival holdings. An organization which keeps and preserves archival material and typically makes it accessible to the public."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:ArtGallery a owl:Class ;
+    rdfs:label "ArtGallery"@en ;
+    rdfs:comment "An art gallery."@en ;
+    rdfs:subClassOf schema:EntertainmentBusiness .
+
+schema:Attorney a owl:Class ;
+    rdfs:label "Attorney"@en ;
+    rdfs:comment "Professional service: Attorney. \\n\\nThis type is deprecated - [[LegalService]] is more inclusive and less ambiguous."@en ;
+    rdfs:subClassOf schema:LegalService .
+
+schema:AutoBodyShop a owl:Class ;
+    rdfs:label "AutoBodyShop"@en ;
+    rdfs:comment "Auto body shop."@en ;
+    rdfs:subClassOf schema:AutomotiveBusiness .
+
+schema:AutoDealer a owl:Class ;
+    rdfs:label "AutoDealer"@en ;
+    rdfs:comment "An car dealership."@en ;
+    rdfs:subClassOf schema:AutomotiveBusiness .
+
+schema:AutoPartsStore a owl:Class ;
+    rdfs:label "AutoPartsStore"@en ;
+    rdfs:comment "An auto parts store."@en ;
+    rdfs:subClassOf schema:AutomotiveBusiness,
+        schema:Store .
+
+schema:AutoRental a owl:Class ;
+    rdfs:label "AutoRental"@en ;
+    rdfs:comment "A car rental business."@en ;
+    rdfs:subClassOf schema:AutomotiveBusiness .
+
+schema:AutoRepair a owl:Class ;
+    rdfs:label "AutoRepair"@en ;
+    rdfs:comment "Car repair business."@en ;
+    rdfs:subClassOf schema:AutomotiveBusiness .
+
+schema:AutoWash a owl:Class ;
+    rdfs:label "AutoWash"@en ;
+    rdfs:comment "A car wash business."@en ;
+    rdfs:subClassOf schema:AutomotiveBusiness .
+
+schema:AutomatedTeller a owl:Class ;
+    rdfs:label "AutomatedTeller"@en ;
+    rdfs:comment "ATM/cash machine."@en ;
+    rdfs:subClassOf schema:FinancialService .
+
+schema:Bakery a owl:Class ;
+    rdfs:label "Bakery"@en ;
+    rdfs:comment "A bakery."@en ;
+    rdfs:subClassOf schema:FoodEstablishment .
+
+schema:BankOrCreditUnion a owl:Class ;
+    rdfs:label "BankOrCreditUnion"@en ;
+    rdfs:comment "Bank or credit union."@en ;
+    rdfs:subClassOf schema:FinancialService .
+
+schema:BarOrPub a owl:Class ;
+    rdfs:label "BarOrPub"@en ;
+    rdfs:comment "A bar or pub."@en ;
+    rdfs:subClassOf schema:FoodEstablishment .
+
+schema:BeautySalon a owl:Class ;
+    rdfs:label "BeautySalon"@en ;
+    rdfs:comment "Beauty salon."@en ;
+    rdfs:subClassOf schema:HealthAndBeautyBusiness .
+
+schema:BedAndBreakfast a owl:Class ;
+    rdfs:label "BedAndBreakfast"@en ;
+    rdfs:comment """Bed and breakfast.\r
+<br /><br />\r
+See also the <a href="/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.\r
+"""@en ;
+    rdfs:subClassOf schema:LodgingBusiness .
+
+schema:BikeStore a owl:Class ;
+    rdfs:label "BikeStore"@en ;
+    rdfs:comment "A bike store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:BookStore a owl:Class ;
+    rdfs:label "BookStore"@en ;
+    rdfs:comment "A bookstore."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:BowlingAlley a owl:Class ;
+    rdfs:label "BowlingAlley"@en ;
+    rdfs:comment "A bowling alley."@en ;
+    rdfs:subClassOf schema:SportsActivityLocation .
+
+schema:Brewery a owl:Class ;
+    rdfs:label "Brewery"@en ;
+    rdfs:comment "Brewery."@en ;
+    rdfs:subClassOf schema:FoodEstablishment .
+
+schema:CafeOrCoffeeShop a owl:Class ;
+    rdfs:label "CafeOrCoffeeShop"@en ;
+    rdfs:comment "A cafe or coffee shop."@en ;
+    rdfs:subClassOf schema:FoodEstablishment .
+
+schema:Campground a owl:Class ;
+    rdfs:label "Campground"@en ;
+    rdfs:comment """A camping site, campsite, or [[Campground]] is a place used for overnight stay in the outdoors, typically containing individual [[CampingPitch]] locations. \\n\\n\r
+In British English a campsite is an area, usually divided into a number of pitches, where people can camp overnight using tents or camper vans or caravans; this British English use of the word is synonymous with the American English expression campground. In American English the term campsite generally means an area where an individual, family, group, or military unit can pitch a tent or park a camper; a campground may contain many campsites (source: Wikipedia, see [https://en.wikipedia.org/wiki/Campsite](https://en.wikipedia.org/wiki/Campsite)).\\n\\n\r
+\r
+See also the dedicated [document on the use of schema.org for marking up hotels and other forms of accommodations](/docs/hotels.html).\r
+"""@en ;
+    rdfs:subClassOf schema:CivicStructure,
+        schema:LodgingBusiness .
+
+schema:Casino a owl:Class ;
+    rdfs:label "Casino"@en ;
+    rdfs:comment "A casino."@en ;
+    rdfs:subClassOf schema:EntertainmentBusiness .
+
+schema:ChildCare a owl:Class ;
+    rdfs:label "ChildCare"@en ;
+    rdfs:comment "A Childcare center."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:ClothingStore a owl:Class ;
+    rdfs:label "ClothingStore"@en ;
+    rdfs:comment "A clothing store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:CollegeOrUniversity a owl:Class ;
+    rdfs:label "CollegeOrUniversity"@en ;
+    rdfs:comment "A college, university, or other third-level educational institution."@en ;
+    rdfs:subClassOf schema:EducationalOrganization .
+
+schema:ComedyClub a owl:Class ;
+    rdfs:label "ComedyClub"@en ;
+    rdfs:comment "A comedy club."@en ;
+    rdfs:subClassOf schema:EntertainmentBusiness .
+
+schema:CommunityHealth a owl:Class ;
+    rdfs:label "CommunityHealth"@en ;
+    rdfs:comment "A field of public health focusing on improving health characteristics of a defined population in relation with their geographical or environment areas."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:ComputerStore a owl:Class ;
+    rdfs:label "ComputerStore"@en ;
+    rdfs:comment "A computer store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Consortium a owl:Class ;
+    rdfs:label "Consortium"@en ;
+    rdfs:comment "A Consortium is a membership [[Organization]] whose members are typically Organizations."@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:ConvenienceStore a owl:Class ;
+    rdfs:label "ConvenienceStore"@en ;
+    rdfs:comment "A convenience store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Cooperative a owl:Class ;
+    rdfs:label "Cooperative"@en ;
+    rdfs:comment "An organization that is a joint project of multiple organizations or persons."@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:Corporation a owl:Class ;
+    rdfs:label "Corporation"@en ;
+    rdfs:comment "Organization: A business corporation."@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:CovidTestingFacility a owl:Class ;
+    rdfs:label "CovidTestingFacility"@en ;
+    rdfs:comment """A CovidTestingFacility is a [[MedicalClinic]] where testing for the COVID-19 Coronavirus\r
+      disease is available. If the facility is being made available from an established [[Pharmacy]], [[Hotel]], or other\r
+      non-medical organization, multiple types can be listed. This makes it easier to re-use existing schema.org information\r
+      about that place, e.g. contact info, address, opening hours. Note that in an emergency, such information may not always be reliable.\r
+      """@en ;
+    rdfs:subClassOf schema:MedicalClinic .
+
+schema:DanceGroup a owl:Class ;
+    rdfs:label "DanceGroup"@en ;
+    rdfs:comment "A dance group&#x2014;for example, the Alvin Ailey Dance Theater or Riverdance."@en ;
+    rdfs:subClassOf schema:PerformingGroup .
+
+schema:DaySpa a owl:Class ;
+    rdfs:label "DaySpa"@en ;
+    rdfs:comment "A day spa."@en ;
+    rdfs:subClassOf schema:HealthAndBeautyBusiness .
+
+schema:Dentist a owl:Class ;
+    rdfs:label "Dentist"@en ;
+    rdfs:comment "A dentist."@en ;
+    rdfs:subClassOf schema:LocalBusiness,
+        schema:MedicalBusiness,
+        schema:MedicalOrganization .
+
+schema:DepartmentStore a owl:Class ;
+    rdfs:label "DepartmentStore"@en ;
+    rdfs:comment "A department store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Dermatology a owl:Class ;
+    rdfs:label "Dermatology"@en ;
+    rdfs:comment "A specific branch of medical science that pertains to diagnosis and treatment of disorders of skin."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:DiagnosticLab a owl:Class ;
+    rdfs:label "DiagnosticLab"@en ;
+    rdfs:comment "A medical laboratory that offers on-site or off-site diagnostic services."@en ;
+    rdfs:subClassOf schema:MedicalOrganization .
+
+schema:DietNutrition a owl:Class ;
+    rdfs:label "DietNutrition"@en ;
+    rdfs:comment "Dietetics and nutrition as a medical specialty."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:Distillery a owl:Class ;
+    rdfs:label "Distillery"@en ;
+    rdfs:comment "A distillery."@en ;
+    rdfs:subClassOf schema:FoodEstablishment .
+
+schema:DryCleaningOrLaundry a owl:Class ;
+    rdfs:label "DryCleaningOrLaundry"@en ;
+    rdfs:comment "A dry-cleaning business."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:Electrician a owl:Class ;
+    rdfs:label "Electrician"@en ;
+    rdfs:comment "An electrician."@en ;
+    rdfs:subClassOf schema:HomeAndConstructionBusiness .
+
+schema:ElectronicsStore a owl:Class ;
+    rdfs:label "ElectronicsStore"@en ;
+    rdfs:comment "An electronics store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:ElementarySchool a owl:Class ;
+    rdfs:label "ElementarySchool"@en ;
+    rdfs:comment "An elementary school."@en ;
+    rdfs:subClassOf schema:EducationalOrganization .
+
+schema:Emergency a owl:Class ;
+    rdfs:label "Emergency"@en ;
+    rdfs:comment "A specific branch of medical science that deals with the evaluation and initial treatment of medical conditions caused by trauma or sudden illness."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:EmploymentAgency a owl:Class ;
+    rdfs:label "EmploymentAgency"@en ;
+    rdfs:comment "An employment agency."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:ExerciseGym a owl:Class ;
+    rdfs:label "ExerciseGym"@en ;
+    rdfs:comment "A gym."@en ;
+    rdfs:subClassOf schema:SportsActivityLocation .
+
+schema:FastFoodRestaurant a owl:Class ;
+    rdfs:label "FastFoodRestaurant"@en ;
+    rdfs:comment "A fast-food restaurant."@en ;
+    rdfs:subClassOf schema:FoodEstablishment .
+
+schema:FireStation a owl:Class ;
+    rdfs:label "FireStation"@en ;
+    rdfs:comment "A fire station. With firemen."@en ;
+    rdfs:subClassOf schema:CivicStructure,
+        schema:EmergencyService .
+
+schema:Florist a owl:Class ;
+    rdfs:label "Florist"@en ;
+    rdfs:comment "A florist."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:FundingAgency a owl:Class ;
+    rdfs:label "FundingAgency"@en ;
+    rdfs:comment """A FundingAgency is an organization that implements one or more [[FundingScheme]]s and manages\r
+    the granting process (via [[Grant]]s, typically [[MonetaryGrant]]s).\r
+    A funding agency is not always required for grant funding, e.g. philanthropic giving, corporate sponsorship etc.\r
+    \r
+Examples of funding agencies include ERC, REA, NIH, Bill and Melinda Gates Foundation, ...\r
+    """@en ;
+    rdfs:subClassOf schema:Project .
+
+schema:FundingScheme a owl:Class ;
+    rdfs:label "FundingScheme"@en ;
+    rdfs:comment """A FundingScheme combines organizational, project and policy aspects of grant-based funding\r
+    that sets guidelines, principles and mechanisms to support other kinds of projects and activities.\r
+    Funding is typically organized via [[Grant]] funding. Examples of funding schemes: Swiss Priority Programmes (SPPs); EU Framework 7 (FP7); Horizon 2020; the NIH-R01 Grant Program; Wellcome institutional strategic support fund. For large scale public sector funding, the management and administration of grant awards is often handled by other, dedicated, organizations - [[FundingAgency]]s such as ERC, REA, ..."""@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:FurnitureStore a owl:Class ;
+    rdfs:label "FurnitureStore"@en ;
+    rdfs:comment "A furniture store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:GardenStore a owl:Class ;
+    rdfs:label "GardenStore"@en ;
+    rdfs:comment "A garden store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:GasStation a owl:Class ;
+    rdfs:label "GasStation"@en ;
+    rdfs:comment "A gas station."@en ;
+    rdfs:subClassOf schema:AutomotiveBusiness .
+
+schema:GeneralContractor a owl:Class ;
+    rdfs:label "GeneralContractor"@en ;
+    rdfs:comment "A general contractor."@en ;
+    rdfs:subClassOf schema:HomeAndConstructionBusiness .
+
+schema:Geriatric a owl:Class ;
+    rdfs:label "Geriatric"@en ;
+    rdfs:comment "A specific branch of medical science that is concerned with the diagnosis and treatment of diseases, debilities and provision of care to the aged."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:GolfCourse a owl:Class ;
+    rdfs:label "GolfCourse"@en ;
+    rdfs:comment "A golf course."@en ;
+    rdfs:subClassOf schema:SportsActivityLocation .
+
+schema:GovernmentOrganization a owl:Class ;
+    rdfs:label "GovernmentOrganization"@en ;
+    rdfs:comment "A governmental organization or agency."@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:GroceryStore a owl:Class ;
+    rdfs:label "GroceryStore"@en ;
+    rdfs:comment "A grocery store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Gynecologic a owl:Class ;
+    rdfs:label "Gynecologic"@en ;
+    rdfs:comment "A specific branch of medical science that pertains to the health care of women, particularly in the diagnosis and treatment of disorders affecting the female reproductive system."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:HVACBusiness a owl:Class ;
+    rdfs:label "HVACBusiness"@en ;
+    rdfs:comment "A business that provides Heating, Ventilation and Air Conditioning services."@en ;
+    rdfs:subClassOf schema:HomeAndConstructionBusiness .
+
+schema:HairSalon a owl:Class ;
+    rdfs:label "HairSalon"@en ;
+    rdfs:comment "A hair salon."@en ;
+    rdfs:subClassOf schema:HealthAndBeautyBusiness .
+
+schema:HardwareStore a owl:Class ;
+    rdfs:label "HardwareStore"@en ;
+    rdfs:comment "A hardware store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:HealthClub a owl:Class ;
+    rdfs:label "HealthClub"@en ;
+    rdfs:comment "A health club."@en ;
+    rdfs:subClassOf schema:HealthAndBeautyBusiness,
+        schema:SportsActivityLocation .
+
+schema:HighSchool a owl:Class ;
+    rdfs:label "HighSchool"@en ;
+    rdfs:comment "A high school."@en ;
+    rdfs:subClassOf schema:EducationalOrganization .
+
+schema:HobbyShop a owl:Class ;
+    rdfs:label "HobbyShop"@en ;
+    rdfs:comment "A store that sells materials useful or necessary for various hobbies."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:HomeGoodsStore a owl:Class ;
+    rdfs:label "HomeGoodsStore"@en ;
+    rdfs:comment "A home goods store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Hospital a owl:Class ;
+    rdfs:label "Hospital"@en ;
+    rdfs:comment "A hospital."@en ;
+    rdfs:subClassOf schema:CivicStructure,
+        schema:EmergencyService,
+        schema:MedicalOrganization .
+
+schema:Hostel a owl:Class ;
+    rdfs:label "Hostel"@en ;
+    rdfs:comment """A hostel - cheap accommodation, often in shared dormitories.\r
+<br /><br />\r
+See also the <a href="/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.\r
+"""@en ;
+    rdfs:subClassOf schema:LodgingBusiness .
+
+schema:Hotel a owl:Class ;
+    rdfs:label "Hotel"@en ;
+    rdfs:comment """A hotel is an establishment that provides lodging paid on a short-term basis (source: Wikipedia, the free encyclopedia, see http://en.wikipedia.org/wiki/Hotel).\r
+<br /><br />\r
+See also the <a href="/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.\r
+"""@en ;
+    rdfs:subClassOf schema:LodgingBusiness .
+
+schema:HousePainter a owl:Class ;
+    rdfs:label "HousePainter"@en ;
+    rdfs:comment "A house painting service."@en ;
+    rdfs:subClassOf schema:HomeAndConstructionBusiness .
+
+schema:IceCreamShop a owl:Class ;
+    rdfs:label "IceCreamShop"@en ;
+    rdfs:comment "An ice cream shop."@en ;
+    rdfs:subClassOf schema:FoodEstablishment .
+
+schema:IndividualPhysician a owl:Class ;
+    rdfs:label "IndividualPhysician"@en ;
+    rdfs:comment """An individual medical practitioner. For their official address use [[address]], for affiliations to hospitals use [[hospitalAffiliation]]. \r
+The [[practicesAt]] property can be used to indicate [[MedicalOrganization]] hospitals, clinics, pharmacies etc. where this physician practices."""@en ;
+    rdfs:subClassOf schema:Physician .
+
+schema:InsuranceAgency a owl:Class ;
+    rdfs:label "InsuranceAgency"@en ;
+    rdfs:comment "An Insurance agency."@en ;
+    rdfs:subClassOf schema:FinancialService .
+
+schema:InternetCafe a owl:Class ;
+    rdfs:label "InternetCafe"@en ;
+    rdfs:comment "An internet cafe."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:JewelryStore a owl:Class ;
+    rdfs:label "JewelryStore"@en ;
+    rdfs:comment "A jewelry store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Library a owl:Class ;
+    rdfs:label "Library"@en ;
+    rdfs:comment "A library."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:LibrarySystem a owl:Class ;
+    rdfs:label "LibrarySystem"@en ;
+    rdfs:comment "A [[LibrarySystem]] is a collaborative system amongst several libraries."@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:LiquorStore a owl:Class ;
+    rdfs:label "LiquorStore"@en ;
+    rdfs:comment "A shop that sells alcoholic drinks such as wine, beer, whisky and other spirits."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Locksmith a owl:Class ;
+    rdfs:label "Locksmith"@en ;
+    rdfs:comment "A locksmith."@en ;
+    rdfs:subClassOf schema:HomeAndConstructionBusiness .
+
+schema:MensClothingStore a owl:Class ;
+    rdfs:label "MensClothingStore"@en ;
+    rdfs:comment "A men's clothing store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:MiddleSchool a owl:Class ;
+    rdfs:label "MiddleSchool"@en ;
+    rdfs:comment "A middle school (typically for children aged around 11-14, although this varies somewhat)."@en ;
+    rdfs:subClassOf schema:EducationalOrganization .
+
+schema:Midwifery a owl:Class ;
+    rdfs:label "Midwifery"@en ;
+    rdfs:comment "A nurse-like health profession that deals with pregnancy, childbirth, and the postpartum period (including care of the newborn), besides sexual and reproductive health of women throughout their lives."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:MobilePhoneStore a owl:Class ;
+    rdfs:label "MobilePhoneStore"@en ;
+    rdfs:comment "A store that sells mobile phones and related accessories."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Motel a owl:Class ;
+    rdfs:label "Motel"@en ;
+    rdfs:comment """A motel.\r
+<br /><br />\r
+See also the <a href="/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.\r
+"""@en ;
+    rdfs:subClassOf schema:LodgingBusiness .
+
+schema:MotorcycleDealer a owl:Class ;
+    rdfs:label "MotorcycleDealer"@en ;
+    rdfs:comment "A motorcycle dealer."@en ;
+    rdfs:subClassOf schema:AutomotiveBusiness .
+
+schema:MotorcycleRepair a owl:Class ;
+    rdfs:label "MotorcycleRepair"@en ;
+    rdfs:comment "A motorcycle repair shop."@en ;
+    rdfs:subClassOf schema:AutomotiveBusiness .
+
+schema:MovieRentalStore a owl:Class ;
+    rdfs:label "MovieRentalStore"@en ;
+    rdfs:comment "A movie rental store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:MovieTheater a owl:Class ;
+    rdfs:label "MovieTheater"@en ;
+    rdfs:comment "A movie theater."@en ;
+    rdfs:subClassOf schema:CivicStructure,
+        schema:EntertainmentBusiness .
+
+schema:MovingCompany a owl:Class ;
+    rdfs:label "MovingCompany"@en ;
+    rdfs:comment "A moving company."@en ;
+    rdfs:subClassOf schema:HomeAndConstructionBusiness .
+
+schema:MusicGroup a owl:Class ;
+    rdfs:label "MusicGroup"@en ;
+    rdfs:comment "A musical group, such as a band, an orchestra, or a choir. Can also be a solo musician."@en ;
+    rdfs:subClassOf schema:PerformingGroup .
+
+schema:MusicStore a owl:Class ;
+    rdfs:label "MusicStore"@en ;
+    rdfs:comment "A music store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:NGO a owl:Class ;
+    rdfs:label "NGO"@en ;
+    rdfs:comment "Organization: Non-governmental Organization."@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:NailSalon a owl:Class ;
+    rdfs:label "NailSalon"@en ;
+    rdfs:comment "A nail salon."@en ;
+    rdfs:subClassOf schema:HealthAndBeautyBusiness .
+
+schema:NewsMediaOrganization a owl:Class ;
+    rdfs:label "NewsMediaOrganization"@en ;
+    rdfs:comment "A News/Media organization such as a newspaper or TV station."@en ;
+    rdfs:subClassOf nco:Publisher,
+        schema:Organization .
+
+schema:NightClub a owl:Class ;
+    rdfs:label "NightClub"@en ;
+    rdfs:comment "A nightclub or discotheque."@en ;
+    rdfs:subClassOf schema:EntertainmentBusiness .
+
+schema:Notary a owl:Class ;
+    rdfs:label "Notary"@en ;
+    rdfs:comment "A notary."@en ;
+    rdfs:subClassOf schema:LegalService .
+
+schema:Nursing a owl:Class ;
+    rdfs:label "Nursing"@en ;
+    rdfs:comment "A health profession of a person formally educated and trained in the care of the sick or infirm person."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:Obstetric a owl:Class ;
+    rdfs:label "Obstetric"@en ;
+    rdfs:comment "A specific branch of medical science that specializes in the care of women during the prenatal and postnatal care and with the delivery of the child."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:OfficeEquipmentStore a owl:Class ;
+    rdfs:label "OfficeEquipmentStore"@en ;
+    rdfs:comment "An office equipment store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Oncologic a owl:Class ;
+    rdfs:label "Oncologic"@en ;
+    rdfs:comment "A specific branch of medical science that deals with benign and malignant tumors, including the study of their development, diagnosis, treatment and prevention."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:OnlineStore a owl:Class ;
+    rdfs:label "OnlineStore"@en ;
+    rdfs:comment "An eCommerce site."@en ;
+    rdfs:subClassOf schema:OnlineBusiness .
+
+schema:Optician a owl:Class ;
+    rdfs:label "Optician"@en ;
+    rdfs:comment "A store that sells reading glasses and similar devices for improving vision."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:Optometric a owl:Class ;
+    rdfs:label "Optometric"@en ;
+    rdfs:comment "The science or practice of testing visual acuity and prescribing corrective lenses."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:Otolaryngologic a owl:Class ;
+    rdfs:label "Otolaryngologic"@en ;
+    rdfs:comment "A specific branch of medical science that is concerned with the ear, nose and throat and their respective disease states."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:OutletStore a owl:Class ;
+    rdfs:label "OutletStore"@en ;
+    rdfs:comment "An outlet store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:PawnShop a owl:Class ;
+    rdfs:label "PawnShop"@en ;
+    rdfs:comment "A shop that will buy, or lend money against the security of, personal possessions."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Pediatric a owl:Class ;
+    rdfs:label "Pediatric"@en ;
+    rdfs:comment "A specific branch of medical science that specializes in the care of infants, children and adolescents."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:PetStore a owl:Class ;
+    rdfs:label "PetStore"@en ;
+    rdfs:comment "A pet store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Pharmacy a owl:Class ;
+    rdfs:label "Pharmacy"@en ;
+    rdfs:comment "A pharmacy or drugstore."@en ;
+    rdfs:subClassOf schema:MedicalBusiness,
+        schema:MedicalOrganization .
+
+schema:PhysiciansOffice a owl:Class ;
+    rdfs:label "PhysiciansOffice"@en ;
+    rdfs:comment "A doctor's office or clinic."@en ;
+    rdfs:subClassOf schema:Physician .
+
+schema:Physiotherapy a owl:Class ;
+    rdfs:label "Physiotherapy"@en ;
+    rdfs:comment "The practice of treatment of disease, injury, or deformity by physical methods such as massage, heat treatment, and exercise rather than by drugs or surgery."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:PlasticSurgery a owl:Class ;
+    rdfs:label "PlasticSurgery"@en ;
+    rdfs:comment "A specific branch of medical science that pertains to therapeutic or cosmetic repair or re-formation of missing, injured or malformed tissues or body parts by manual and instrumental means."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:Plumber a owl:Class ;
+    rdfs:label "Plumber"@en ;
+    rdfs:comment "A plumbing service."@en ;
+    rdfs:subClassOf schema:HomeAndConstructionBusiness .
+
+schema:Podiatric a owl:Class ;
+    rdfs:label "Podiatric"@en ;
+    rdfs:comment "Podiatry is the care of the human foot, especially the diagnosis and treatment of foot disorders."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:PoliceStation a owl:Class ;
+    rdfs:label "PoliceStation"@en ;
+    rdfs:comment "A police station."@en ;
+    rdfs:subClassOf schema:CivicStructure,
+        schema:EmergencyService .
+
+schema:PoliticalParty a owl:Class ;
+    rdfs:label "PoliticalParty"@en ;
+    rdfs:comment "Organization: Political Party."@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:PostOffice a owl:Class ;
+    rdfs:label "PostOffice"@en ;
+    rdfs:comment "A post office."@en ;
+    rdfs:subClassOf schema:GovernmentOffice .
+
+schema:Preschool a owl:Class ;
+    rdfs:label "Preschool"@en ;
+    rdfs:comment "A preschool."@en ;
+    rdfs:subClassOf schema:EducationalOrganization .
+
+schema:PrimaryCare a owl:Class ;
+    rdfs:label "PrimaryCare"@en ;
+    rdfs:comment "The medical care by a physician, or other health-care professional, who is the patient's first contact with the health-care system and who may recommend a specialist if necessary."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:ProfessionalService a owl:Class ;
+    rdfs:label "ProfessionalService"@en ;
+    rdfs:comment """Original definition: "provider of professional services."\\n\\nThe general [[ProfessionalService]] type for local businesses was deprecated due to confusion with [[Service]]. For reference, the types that it included were: [[Dentist]],\r
+        [[AccountingService]], [[Attorney]], [[Notary]], as well as types for several kinds of [[HomeAndConstructionBusiness]]: [[Electrician]], [[GeneralContractor]],\r
+        [[HousePainter]], [[Locksmith]], [[Plumber]], [[RoofingContractor]]. [[LegalService]] was introduced as a more inclusive supertype of [[Attorney]]."""@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:Psychiatric a owl:Class ;
+    rdfs:label "Psychiatric"@en ;
+    rdfs:comment "A specific branch of medical science that is concerned with the study, treatment, and prevention of mental illness, using both medical and psychological therapies."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:PublicHealth a owl:Class ;
+    rdfs:label "PublicHealth"@en ;
+    rdfs:comment "Branch of medicine that pertains to the health services to improve and protect community health, especially epidemiology, sanitation, immunization, and preventive medicine."@en ;
+    rdfs:subClassOf schema:MedicalBusiness .
+
+schema:PublicSwimmingPool a owl:Class ;
+    rdfs:label "PublicSwimmingPool"@en ;
+    rdfs:comment "A public swimming pool."@en ;
+    rdfs:subClassOf schema:SportsActivityLocation .
+
+schema:RadioStation a owl:Class ;
+    rdfs:label "RadioStation"@en ;
+    rdfs:comment "A radio station."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:RealEstateAgent a owl:Class ;
+    rdfs:label "RealEstateAgent"@en ;
+    rdfs:comment "A real-estate agent."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:RecyclingCenter a owl:Class ;
+    rdfs:label "RecyclingCenter"@en ;
+    rdfs:comment "A recycling center."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:ResearchOrganization a owl:Class ;
+    rdfs:label "ResearchOrganization"@en ;
+    rdfs:comment "A Research Organization (e.g. scientific institute, research company)."@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:ResearchProject a owl:Class ;
+    rdfs:label "ResearchProject"@en ;
+    rdfs:comment "A Research project."@en ;
+    rdfs:subClassOf schema:Project .
+
+schema:Restaurant a owl:Class ;
+    rdfs:label "Restaurant"@en ;
+    rdfs:comment "A restaurant."@en ;
+    rdfs:subClassOf schema:FoodEstablishment .
+
+schema:RoofingContractor a owl:Class ;
+    rdfs:label "RoofingContractor"@en ;
+    rdfs:comment "A roofing contractor."@en ;
+    rdfs:subClassOf schema:HomeAndConstructionBusiness .
+
+schema:School a owl:Class ;
+    rdfs:label "School"@en ;
+    rdfs:comment "A school."@en ;
+    rdfs:subClassOf schema:EducationalOrganization .
+
+schema:SearchRescueOrganization a owl:Class ;
+    rdfs:label "SearchRescueOrganization"@en ;
+    rdfs:comment "A Search and Rescue organization of some kind."@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:SelfStorage a owl:Class ;
+    rdfs:label "SelfStorage"@en ;
+    rdfs:comment "A self-storage facility."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:ShoeStore a owl:Class ;
+    rdfs:label "ShoeStore"@en ;
+    rdfs:comment "A shoe store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:ShoppingCenter a owl:Class ;
+    rdfs:label "ShoppingCenter"@en ;
+    rdfs:comment "A shopping center or mall."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:SkiResort a owl:Class ;
+    rdfs:label "SkiResort"@en ;
+    rdfs:comment "A ski resort."@en ;
+    rdfs:subClassOf schema:Resort,
+        schema:SportsActivityLocation .
+
+schema:SportingGoodsStore a owl:Class ;
+    rdfs:label "SportingGoodsStore"@en ;
+    rdfs:comment "A sporting goods store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:SportsClub a owl:Class ;
+    rdfs:label "SportsClub"@en ;
+    rdfs:comment "A sports club."@en ;
+    rdfs:subClassOf schema:SportsActivityLocation .
+
+schema:SportsTeam a owl:Class ;
+    rdfs:label "SportsTeam"@en ;
+    rdfs:comment "Organization: Sports team."@en ;
+    rdfs:subClassOf schema:SportsOrganization .
+
+schema:StadiumOrArena a owl:Class ;
+    rdfs:label "StadiumOrArena"@en ;
+    rdfs:comment "A stadium."@en ;
+    rdfs:subClassOf schema:CivicStructure,
+        schema:SportsActivityLocation .
+
+schema:TattooParlor a owl:Class ;
+    rdfs:label "TattooParlor"@en ;
+    rdfs:comment "A tattoo parlor."@en ;
+    rdfs:subClassOf schema:HealthAndBeautyBusiness .
+
+schema:TelevisionStation a owl:Class ;
+    rdfs:label "TelevisionStation"@en ;
+    rdfs:comment "A television station."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:TennisComplex a owl:Class ;
+    rdfs:label "TennisComplex"@en ;
+    rdfs:comment "A tennis complex."@en ;
+    rdfs:subClassOf schema:SportsActivityLocation .
+
+schema:TheaterGroup a owl:Class ;
+    rdfs:label "TheaterGroup"@en ;
+    rdfs:comment "A theater group or company, for example, the Royal Shakespeare Company or Druid Theatre."@en ;
+    rdfs:subClassOf schema:PerformingGroup .
+
+schema:TireShop a owl:Class ;
+    rdfs:label "TireShop"@en ;
+    rdfs:comment "A tire shop."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:TouristInformationCenter a owl:Class ;
+    rdfs:label "TouristInformationCenter"@en ;
+    rdfs:comment "A tourist information center."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:ToyStore a owl:Class ;
+    rdfs:label "ToyStore"@en ;
+    rdfs:comment "A toy store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:TravelAgency a owl:Class ;
+    rdfs:label "TravelAgency"@en ;
+    rdfs:comment "A travel agency."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:VacationRental a owl:Class ;
+    rdfs:label "VacationRental"@en ;
+    rdfs:comment "A kind of lodging business that focuses on renting single properties for limited time."@en ;
+    rdfs:subClassOf schema:LodgingBusiness .
+
+schema:VeterinaryCare a owl:Class ;
+    rdfs:label "VeterinaryCare"@en ;
+    rdfs:comment "A vet's office."@en ;
+    rdfs:subClassOf schema:MedicalOrganization .
+
+schema:WholesaleStore a owl:Class ;
+    rdfs:label "WholesaleStore"@en ;
+    rdfs:comment "A wholesale store."@en ;
+    rdfs:subClassOf schema:Store .
+
+schema:Winery a owl:Class ;
+    rdfs:label "Winery"@en ;
+    rdfs:comment "A winery."@en ;
+    rdfs:subClassOf schema:FoodEstablishment .
+
+schema:WorkersUnion a owl:Class ;
+    rdfs:label "WorkersUnion"@en ;
+    rdfs:comment "A Workers Union (also known as a Labor Union, Labour Union, or Trade Union) is an organization that promotes the interests of its worker members by collectively bargaining with management, organizing, and political lobbying."@en ;
+    rdfs:subClassOf schema:Organization .
+
+nco:CollectionOfEvents a owl:Class ;
+    rdfs:label "Collection of events"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:allValuesFrom nco:Event ;
+            owl:onProperty nco:hasElement ],
+        nco:Collection .
+
+nco:DataType a owl:Class .
+
+nco:NegativeEvent a owl:Class ;
+    rdfs:label "Negative event"@en ;
+    rdfs:subClassOf nco:Event .
+
+nco:OmissionEvent a owl:Class ;
+    rdfs:label "Omission event"@en ;
+    rdfs:comment """An OmissionEvent is an event capturing an expression of agency realised by not carrying out an event that was expected of the agent in question – see Payton, J.D. (2018).  How to identify negative actions with positive events.  Australasian Journal of Philosophy, 96(1), pp. 87-101.\r
+\r
+Following Payton, we impose the constraint that the time of the omitted event is the same as the one associated with the omission event. That is, \r
+OmissionEvent(?ev1) ^ :hasOmittedEvent(?ev1, ?ev2) ^ :hasTime(?ev1, ?t1) -> :hasTime(?ev2, ?t1)\r
+This is expressed by  means of a property chain specialising property :hasTime"""@en ;
+    rdfs:subClassOf [ a owl:Class ;
+            owl:intersectionOf ( nco:NegativeEvent [ a owl:Restriction ;
+                        owl:allValuesFrom nco:Event ;
+                        owl:onProperty nco:hasOmittedEvent ] [ a owl:Restriction ;
+                        owl:onClass nco:Event ;
+                        owl:onProperty nco:hasOmittedEvent ;
+                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ] ) ] .
+
+nco:PredictionEvent a owl:Class ;
+    rdfs:label "Predicted event"@en ;
+    rdfs:comment """We impose the constraint that the time of the predicted event has to be after that associated with the prediction event. That is:\r
+\r
+PredictionEvent(?ev1) & hasPrediction (?ev1 ?ev_or_sit) & :hasTime (?ev1 ?t1) & :hasTime (?ev_or_sit ?t2) --> time:intervalBefore (?t1 ?t2)\r
+\r
+This constraint is expressed through a property chain specialising time:intervalBefore"""@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:allValuesFrom nco:EventOrSituation ;
+            owl:onProperty nco:hasPrediction ],
+        [ a owl:Restriction ;
+            owl:onClass nco:EventOrSituation ;
+            owl:onProperty nco:hasPrediction ;
+            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ],
+        nco:Event .
+
+nco:characterisedBy a owl:ObjectProperty ;
+    rdfs:label "characterised by"@en ;
+    owl:inverseOf nco:characterises .
+
+nco:claimInNewsItem a owl:ObjectProperty ;
+    rdfs:domain nco:Claim ;
+    rdfs:range nco:NewsItem ;
+    rdfs:subPropertyOf nco:inNewsItem ;
+    owl:inverseOf nco:hasClaim .
+
+nco:dependsOn a owl:ObjectProperty,
+        owl:TransitiveProperty ;
+    rdfs:label "depends on"@en ;
+    rdfs:domain nco:EventOrSituation ;
+    rdfs:range nco:EventOrSituation ;
+    owl:inverseOf nco:preconditionFor .
+
+nco:eventDependsOn a owl:ObjectProperty ;
+    rdfs:label "event depends on"@en ;
+    rdfs:comment "range is {Event OR Situation}"@en ;
+    rdfs:domain nco:Event ;
+    rdfs:range nco:EventOrSituation ;
+    rdfs:subPropertyOf nco:dependsOn ;
+    owl:inverseOf nco:preconditionForEvent .
+
+nco:hasJustification a owl:ObjectProperty ;
+    rdfs:label "has justification"@en ;
+    rdfs:domain nco:Claim ;
+    rdfs:range nco:Justification ;
+    owl:inverseOf nco:isJustificationOf .
+
+nco:hasLocation a owl:ObjectProperty ;
+    rdfs:label "has location"@en ;
+    rdfs:domain nco:Event ;
+    rdfs:range nco:Location .
+
+nco:hasText a owl:DatatypeProperty ;
+    rdfs:range xsd:string .
+
+nco:hasTextContext a owl:DatatypeProperty ;
+    rdfs:range xsd:string .
+
+nco:hasTitle a owl:DatatypeProperty ;
+    rdfs:domain nco:NewsItem ;
+    rdfs:range xsd:string .
+
+nco:hasURL a owl:DatatypeProperty .
+
+nco:isAgentOf a owl:ObjectProperty ;
+    rdfs:label "is agent of"@en ;
+    rdfs:comment "Inverse property of hasAgent. Relates an Agent to the AgentComponents it is part of."@en ;
+    rdfs:domain nco:Agent ;
+    rdfs:range nco:AgentComponent ;
+    owl:inverseOf nco:hasAgent .
+
+nco:isAgentRoleOf a owl:ObjectProperty ;
+    rdfs:label "is agent role of"@en ;
+    rdfs:comment "Inverse property of hasAgentRole. Relates an AgentRole to the AgentComponents it is assigned to."@en ;
+    rdfs:domain nco:AgentRole ;
+    rdfs:range nco:AgentComponent ;
+    owl:inverseOf nco:hasAgentRole .
+
+nco:isJustificationOf a owl:ObjectProperty .
+
+nco:isNewsSourceOf a owl:ObjectProperty ;
+    rdfs:label "is news source of"@en ;
+    rdfs:comment "Inverse property of hasNewsSource. Relates a NewsSource to the NewsItems it is source of."@en ;
+    rdfs:domain nco:NewsSource ;
+    rdfs:range nco:NewsItem ;
+    owl:inverseOf nco:hasNewsSource .
+
+nco:isPublisherOf a owl:ObjectProperty ;
+    rdfs:label "is publisher of"@en ;
+    rdfs:comment "Inverse property of hasPublisher. Relates a Publisher to the NewsSources it publishes."@en ;
+    rdfs:domain nco:Publisher ;
+    rdfs:range nco:NewsSource ;
+    owl:inverseOf nco:hasPublisher .
+
+nco:isUnifyingFactorOf a owl:ObjectProperty ;
+    rdfs:label "is unifying factor of"@en .
+
+nco:isUtteranceOf a owl:ObjectProperty ;
+    rdfs:label "is utterance of"@en ;
+    rdfs:comment "Inverse property of hasUtterance. Relates an Utterance to the Claim it belongs to."@en ;
+    rdfs:domain nco:Utterance ;
+    rdfs:range nco:Claim ;
+    owl:inverseOf nco:hasUtterance .
+
+nco:isUtteranceTypeOf a owl:ObjectProperty ;
+    rdfs:label "is utterance type of"@en ;
+    rdfs:comment "Inverse property of hasUtteranceType. Relates an UtteranceType to the Utterances it classifies."@en ;
+    rdfs:domain nco:UtteranceType ;
+    rdfs:range nco:Utterance ;
+    owl:inverseOf nco:hasUtteranceType .
+
+nco:object a owl:ObjectProperty ;
+    rdfs:domain nco:Statement ;
+    rdfs:range owl:Thing .
+
+nco:predicate a owl:ObjectProperty ;
+    rdfs:domain nco:Statement ;
+    rdfs:range nco:Predicate .
+
+nco:subEventOf a owl:ObjectProperty ;
+    rdfs:label "is subevent of"@en ;
+    rdfs:comment "Captures hierarchical relations between events - e.g., the event \"verdict\" in a trial is a subEventOf of a broader \"trial\" event"@en ;
+    rdfs:domain nco:Event ;
+    rdfs:range nco:Event ;
+    rdfs:subPropertyOf nco:eventDependsOn .
+
+nco:subject a owl:ObjectProperty ;
+    rdfs:domain nco:Statement ;
+    rdfs:range owl:Thing .
+
+nco:topicInNewsItem a owl:ObjectProperty ;
+    rdfs:domain nco:Topic ;
+    rdfs:range nco:NewsItem ;
+    rdfs:subPropertyOf nco:inNewsItem .
+
+nco:viewpointInNewsItem a owl:ObjectProperty ;
+    rdfs:domain nco:Viewpoint ;
+    rdfs:range nco:NewsItem ;
+    rdfs:subPropertyOf nco:inNewsItem .
+
+schema:GovernmentOffice a owl:Class ;
+    rdfs:label "GovernmentOffice"@en ;
+    rdfs:comment "A government office&#x2014;for example, an IRS or DMV office."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:MedicalClinic a owl:Class ;
+    rdfs:label "MedicalClinic"@en ;
+    rdfs:comment "A facility, often associated with a hospital or medical school, that is devoted to the specific diagnosis and/or healthcare. Previously limited to outpatients but with evolution it may be open to inpatients as well."@en ;
+    rdfs:subClassOf schema:MedicalBusiness,
+        schema:MedicalOrganization .
+
+schema:OnlineBusiness a owl:Class ;
+    rdfs:label "OnlineBusiness"@en ;
+    rdfs:comment "A particular online business, either standalone or the online part of a broader organization. Examples include an eCommerce site, an online travel booking site, an online learning site, an online logistics and shipping provider, an online (virtual) doctor, etc."@en ;
+    rdfs:subClassOf schema:Organization .
+
+schema:Resort a owl:Class ;
+    rdfs:label "Resort"@en ;
+    rdfs:comment """A resort is a place used for relaxation or recreation, attracting visitors for holidays or vacations. Resorts are places, towns or sometimes commercial establishments operated by a single company (source: Wikipedia, the free encyclopedia, see <a href="http://en.wikipedia.org/wiki/Resort">http://en.wikipedia.org/wiki/Resort</a>).\r
+<br /><br />\r
+See also the <a href="/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.\r
+    """@en ;
+    rdfs:subClassOf schema:LodgingBusiness .
+
+schema:SportsOrganization a owl:Class ;
+    rdfs:label "SportsOrganization"@en ;
+    rdfs:comment "Represents the collection of all sports organizations, including sports teams, governing bodies, and sports associations."@en ;
+    rdfs:subClassOf schema:Organization .
+
+nco:Aspect a owl:Class ;
+    rdfs:comment "The notion of entity aspect discussed here is related to the second level of agenda setting theory, which deals with the salience of the attributes of the entities that are the focus of attention in the media (McCombs et al., 2014)"@en .
+
+nco:Entity a owl:Class .
+
+nco:Justification a owl:Class ;
+    rdfs:comment "Class Justification refers to the justification for a claim.  Because this ontology focuses on news classification rather than argumentation, the definition here is simply a placeholder and is not further elaborated"@en ;
+    rdfs:subClassOf owl:Thing .
+
+nco:Location a owl:Class ;
+    rdfs:label "Location"@en ;
+    rdfs:seeAlso "dul:Location" .
+
+nco:Person a owl:Class ;
+    rdfs:subClassOf nco:PersonOrOganization .
+
+nco:Predicate a owl:Class ;
+    rdfs:comment "This is a metaclass whose instances play the role of a predicate in reified triples.  It is needed because OWL does not allow object properties to be used directly as values in triples unless an individual with the same name has been defined"@en .
+
+nco:concernsTopic a owl:ObjectProperty ;
+    rdfs:label "concerns topic"@en ;
+    rdfs:comment "A claim is something that concerns a topic.  The property concernsTopic is used to express this relation" ;
+    rdfs:domain nco:Claim ;
+    rdfs:range nco:Topic .
+
+nco:hasAgent a owl:ObjectProperty ;
+    rdfs:label "has agent"@en ;
+    rdfs:domain nco:AgentComponent ;
+    rdfs:range nco:Agent ;
+    owl:inverseOf nco:isAgentOf .
+
+nco:hasAgentRole a owl:ObjectProperty ;
+    rdfs:label "has agent role"@en ;
+    rdfs:domain nco:AgentComponent ;
+    rdfs:range nco:AgentRole ;
+    owl:inverseOf nco:isAgentRoleOf .
+
+nco:hasClaim a owl:ObjectProperty ;
+    rdfs:label "has claim"@en ;
+    rdfs:comment "Captures the relation between a news item and a claim expressed by an agent, which is reported in the news item in question"@en ;
+    rdfs:domain nco:NewsItem ;
+    rdfs:range nco:Claim .
+
+nco:hasNewsSource a owl:ObjectProperty ;
+    rdfs:domain nco:NewsItem ;
+    rdfs:range nco:NewsSource ;
+    rdfs:subPropertyOf owl:topObjectProperty ;
+    owl:inverseOf nco:isNewsSourceOf .
+
+nco:hasOmittedEvent a owl:ObjectProperty ;
+    rdfs:label "has omitted event"@en ;
+    rdfs:comment "captures the relation between an OmissionEvent and the event that has not been carried out - e.g., a soldier's failure to carry out an order"@en ;
+    rdfs:domain nco:OmissionEvent ;
+    rdfs:range nco:Event ;
+    owl:inverseOf nco:isOmittedEventOf .
+
+nco:hasPublisher a owl:ObjectProperty ;
+    rdfs:domain nco:NewsSource ;
+    rdfs:range nco:Publisher ;
+    owl:inverseOf nco:isPublisherOf .
+
+nco:hasTime a owl:ObjectProperty ;
+    rdfs:label "has time"@en ;
+    rdfs:domain nco:EventOrSituation ;
+    rdfs:range time:TemporalEntity ;
+    rdfs:subPropertyOf time:hasTime ;
+    owl:inverseOf nco:isTimeOf ;
+    owl:propertyChainAxiom ( nco:isOmittedEventOf nco:hasTime ) .
+
+nco:hasUtterance a owl:ObjectProperty ;
+    rdfs:domain nco:Claim ;
+    rdfs:range nco:Utterance ;
+    owl:inverseOf nco:isUtteranceOf .
+
+nco:hasUtteranceType a owl:ObjectProperty ;
+    owl:inverseOf nco:isUtteranceTypeOf .
+
+nco:isAspectOf a owl:ObjectProperty ;
+    rdfs:label "is aspect of"@en ;
+    rdfs:domain nco:Aspect ;
+    rdfs:range owl:Thing .
+
+nco:isOmittedEventOf a owl:ObjectProperty .
+
+nco:isTimeOf a owl:ObjectProperty .
+
+nco:preconditionFor a owl:ObjectProperty,
+        owl:TransitiveProperty ;
+    rdfs:label "precondition for"@en ;
+    rdfs:domain nco:EventOrSituation ;
+    rdfs:range nco:EventOrSituation .
+
+nco:preconditionForEvent a owl:ObjectProperty ;
+    rdfs:label "precondition for event"@en ;
+    rdfs:domain nco:EventOrSituation ;
+    rdfs:range nco:Event ;
+    rdfs:subPropertyOf nco:preconditionFor .
+
+nco:subTopicOf a owl:ObjectProperty,
+        owl:TransitiveProperty ;
+    rdfs:label "subtopic of"@en ;
+    rdfs:domain nco:Topic ;
+    rdfs:range nco:Topic ;
+    rdfs:subPropertyOf skos:broaderTransitive .
+
+nco:ufSatisfiedBy a owl:ObjectProperty ;
+    rdfs:label "satisfied by"@en .
+
+schema:LegalService a owl:Class ;
+    rdfs:label "LegalService"@en ;
+    rdfs:comment "A LegalService is a business that provides legally-oriented services, advice and representation, e.g. law firms.\\n\\nAs a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Service]]\\(s)."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:Physician a owl:Class ;
+    rdfs:label "Physician"@en ;
+    rdfs:comment "An individual physician or a physician's office considered as a [[MedicalOrganization]]."@en ;
+    rdfs:subClassOf schema:MedicalBusiness,
+        schema:MedicalOrganization .
+
+schema:Project a owl:Class ;
+    rdfs:label "Project"@en ;
+    rdfs:comment """An enterprise (potentially individual but typically collaborative), planned to achieve a particular aim.\r
+Use properties from [[Organization]], [[subOrganization]]/[[parentOrganization]] to indicate project sub-structures. \r
+   """@en ;
+    rdfs:subClassOf schema:Organization .
+
+nco:AgentRole a owl:Class ;
+    rdfs:label "Agent role"@en .
+
+nco:Description a owl:Class ;
+    rdfs:label "Description"@en ;
+    rdfs:comment "Like a Situation, a Description is also characterised as a Collection of Statements"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:allValuesFrom nco:Situation ;
+            owl:onProperty nco:characterises ],
+        [ a owl:Restriction ;
+            owl:allValuesFrom nco:Statement ;
+            owl:onProperty nco:hasElement ],
+        [ a owl:Restriction ;
+            owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+            owl:onClass nco:Situation ;
+            owl:onProperty nco:characterises ],
+        [ a owl:Restriction ;
+            owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+            owl:onClass nco:Statement ;
+            owl:onProperty nco:hasElement ],
+        nco:Collection .
+
+nco:Organization a owl:Class ;
+    rdfs:subClassOf nco:PersonOrOganization ;
+    owl:equivalentClass <http://schema.org/Organization> .
+
+nco:PersonOrOganization a owl:Class ;
+    rdfs:subClassOf nco:Agent ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:unionOf ( nco:Organization nco:Person ) ] .
+
+nco:characterises a owl:ObjectProperty ;
+    rdfs:label "characterises"@en ;
+    rdfs:comment "This is the main relation linking descriptions to situations. A description provides an interpretation of a situation."@en ;
+    rdfs:domain nco:Description ;
+    rdfs:range nco:Situation .
+
+nco:hasAgentComponent a owl:ObjectProperty ;
+    rdfs:label "has agent component"@en ;
+    rdfs:domain [ a owl:Class ;
+            owl:unionOf ( nco:Claim nco:Event ) ] ;
+    rdfs:range nco:AgentComponent .
+
+nco:hasPrediction a owl:ObjectProperty ;
+    rdfs:comment "captures the relation between a PredictionEvent and the event that has been predicted - forecasting an eruption"@en ;
+    rdfs:domain nco:PredictionEvent ;
+    rdfs:range nco:EventOrSituation .
+
+nco:inNewsItem a owl:ObjectProperty ;
+    rdfs:label "in news item"@en .
+
+nco:isClaimOf a owl:ObjectProperty ;
+    rdfs:label "is claim of"@en ;
+    rdfs:subPropertyOf nco:isElementOf .
+
+schema:EmergencyService a owl:Class ;
+    rdfs:label "EmergencyService"@en ;
+    rdfs:comment "An emergency service, such as a fire station or ER."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:PerformingGroup a owl:Class ;
+    rdfs:label "PerformingGroup"@en ;
+    rdfs:comment "A performance group, such as a band, an orchestra, or a circus."@en ;
+    rdfs:subClassOf schema:Organization .
+
+nco:Publisher a owl:Class ;
+    rdfs:comment "A publisher can be either a person or an organization" ;
+    rdfs:subClassOf [ a owl:Class ;
+            owl:unionOf ( nco:Organization nco:Person ) ],
+        nco:PersonOrOganization .
+
+nco:Utterance a owl:Class ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onClass nco:UtteranceType ;
+            owl:onProperty nco:hasUtteranceType ;
+            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ],
+        [ a owl:Restriction ;
+            owl:onDataRange xsd:string ;
+            owl:onProperty nco:hasText ;
+            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ],
+        [ a owl:Restriction ;
+            owl:onDataRange xsd:string ;
+            owl:onProperty nco:hasTextContext ;
+            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ] .
+
+nco:Viewpoint a owl:Class ;
+    rdfs:label "Viewpoint"@en ;
+    rdfs:comment "As pointed out in (Baden and Springer, 2017), when analysing the news discourse, we are interested in identifying viewpoints that “open up different perspectives” and “construct different meaning”. Hence, here we define a Viewpoint as a collection of claims that subscribe to the same perspective"@en ;
+    rdfs:subClassOf [ a owl:Class ;
+            owl:intersectionOf ( [ a owl:Restriction ;
+                        owl:allValuesFrom nco:Claim ;
+                        owl:onProperty nco:hasElement ] [ a owl:Restriction ;
+                        owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                        owl:onClass nco:Claim ;
+                        owl:onProperty nco:hasElement ] ) ],
+        nco:Collection .
+
+nco:hasUnifyingFactor a owl:ObjectProperty ;
+    rdfs:label "has unifying factor"@en ;
+    rdfs:comment "Relates a collection to the associated unifying factor"@en ;
+    rdfs:domain nco:Collection ;
+    rdfs:range nco:UnifyingFactor ;
+    owl:inverseOf nco:isUnifyingFactorOf .
+
+nco:isElementOf a owl:ObjectProperty ;
+    rdfs:label "is element of"@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range nco:Collection .
+
+schema:FinancialService a owl:Class ;
+    rdfs:label "FinancialService"@en ;
+    rdfs:comment "Financial services business."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+nco:Agent a owl:Class ;
+    rdfs:label "Agent"@en ;
+    rdfs:subClassOf nco:Entity .
+
+nco:NewsSource a owl:Class ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onClass nco:Publisher ;
+            owl:onProperty nco:hasPublisher ;
+            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ] .
+
+nco:Situation a owl:Class ;
+    rdfs:label "Situation"@en ;
+    rdfs:comment "A Situation is a collection of statements" ;
+    rdfs:seeAlso "dul:Situation"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:allValuesFrom nco:Description ;
+            owl:onProperty nco:characterisedBy ],
+        [ a owl:Restriction ;
+            owl:allValuesFrom nco:Statement ;
+            owl:onProperty nco:hasElement ],
+        [ a owl:Restriction ;
+            owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+            owl:onClass nco:Statement ;
+            owl:onProperty nco:hasElement ],
+        nco:Collection,
+        nco:EventOrSituation .
+
+nco:UnifyingFactor a owl:Class ;
+    rdfs:label "Unifying factor"@en .
+
+nco:UtteranceType a owl:Class .
+
+nco:topicRole a owl:FunctionalProperty,
+        owl:InverseFunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:comment "It is essential to distinguish an entity, e.g., the individual J.F. Kennedy, from the associated topic, e.g., T_J.F. Kennedy.  These are two different ontological objects with very different properties. For instance, while the time span of  J.F. Kennedy the person was 1917-1963,  the time span of the associated topic continued after his death.  More in general, this relation is needed every time an individual in our knowledge base, which is not ontologically a topic (e.g., a person, an event, a statement, etc.) plays the role of a topic in the model."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range nco:Topic ;
+    owl:inverseOf nco:topicRoleOf .
+
+nco:hasTopic a nco:Predicate,
+        owl:NamedIndividual,
+        owl:ObjectProperty ;
+    rdfs:comment "captures the relation between a news item and a topic, which is the focus of the news item in question"@en ;
+    rdfs:domain nco:NewsItem ;
+    rdfs:range nco:Topic ;
+    owl:inverseOf nco:topicInNewsItem ;
+    owl:propertyChainAxiom ( nco:hasTopic nco:topicRoleOf nco:isAspectOf nco:topicRole ),
+        ( nco:hasTopic nco:topicRoleOf nco:isClaimOf nco:topicRole ),
+        ( nco:hasTopic nco:topicRoleOf nco:object nco:topicRole ),
+        ( nco:hasTopic nco:topicRoleOf nco:predicate nco:topicRole ),
+        ( nco:hasTopic nco:topicRoleOf nco:subject nco:topicRole ),
+        ( nco:hasTopic nco:subTopicOf ) .
+
+schema:EducationalOrganization a owl:Class ;
+    rdfs:label "EducationalOrganization"@en ;
+    rdfs:comment "An educational organization."@en ;
+    rdfs:subClassOf schema:CivicStructure,
+        schema:Organization .
+
+schema:HealthAndBeautyBusiness a owl:Class ;
+    rdfs:label "HealthAndBeautyBusiness"@en ;
+    rdfs:comment "Health and beauty."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:EntertainmentBusiness a owl:Class ;
+    rdfs:label "EntertainmentBusiness"@en ;
+    rdfs:comment "A business providing entertainment."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:LodgingBusiness a owl:Class ;
+    rdfs:label "LodgingBusiness"@en ;
+    rdfs:comment "A lodging business, such as a motel, hotel, or inn."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:MedicalOrganization a owl:Class ;
+    rdfs:label "MedicalOrganization"@en ;
+    rdfs:comment "A medical organization (physical or not), such as hospital, institution or clinic."@en ;
+    rdfs:subClassOf schema:Organization .
+
+nco:hasElement a owl:ObjectProperty ;
+    rdfs:label "has element"@en ;
+    rdfs:domain nco:Collection ;
+    rdfs:range owl:Thing ;
+    owl:inverseOf nco:isElementOf ;
+    owl:propertyChainAxiom ( nco:hasUnifyingFactor nco:ufSatisfiedBy ) .
+
+nco:topicRoleOf a owl:FunctionalProperty,
+        owl:InverseFunctionalProperty,
+        owl:ObjectProperty ;
+    rdfs:label "is topic role of"@en ;
+    rdfs:comment "A given topic role is played by one and only thing."@en ;
+    rdfs:domain nco:Topic ;
+    rdfs:range owl:Thing .
+
+schema:HomeAndConstructionBusiness a owl:Class ;
+    rdfs:label "HomeAndConstructionBusiness"@en ;
+    rdfs:comment "A construction business.\\n\\nA HomeAndConstructionBusiness is a [[LocalBusiness]] that provides services around homes and buildings.\\n\\nAs a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Service]]\\(s)."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+nco:AgentComponent a owl:Class ;
+    rdfs:label "Agent component"@en ;
+    rdfs:seeAlso "nao:AgentComponent" ;
+    rdfs:subClassOf _:nd85a7a3bb83a4db0a640b389672634e5b38,
+        [ a owl:Restriction ;
+            owl:onClass nco:Agent ;
+            owl:onProperty nco:hasAgent ;
+            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ] .
+
+nco:Collection a owl:Class ;
+    rdfs:label "Collection"@en ;
+    rdfs:comment "Membership of a Collection is predicated on meeting the conditions associated with the associated unifying factor (Carriero et al., 2021)."@en ;
+    rdfs:seeAlso "Class Collection in Dolce D0, dul:Collection"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:allValuesFrom nco:UnifyingFactor ;
+            owl:onProperty nco:hasUnifyingFactor ],
+        [ a owl:Restriction ;
+            owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+            owl:onClass nco:UnifyingFactor ;
+            owl:onProperty nco:hasUnifyingFactor ] ;
+    owl:disjointUnionOf ( nco:CollectionOfEvents nco:Description nco:Situation nco:Viewpoint ) .
+
+nco:Statement a owl:Class ;
+    rdfs:label "Statement"@en ;
+    rdfs:comment "A member of this class is an individual that reifies a triple."@en .
+
+schema:AutomotiveBusiness a owl:Class ;
+    rdfs:label "AutomotiveBusiness"@en ;
+    rdfs:comment "Car repair, sales, or parts."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:FoodEstablishment a owl:Class ;
+    rdfs:label "FoodEstablishment"@en ;
+    rdfs:comment "A food-related business."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:SportsActivityLocation a owl:Class ;
+    rdfs:label "SportsActivityLocation"@en ;
+    rdfs:comment "A sports location, such as a playing field."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+nco:Claim a owl:Class ;
+    rdfs:label "Claim"@en ;
+    rdfs:comment "A claim is logically characterised in this ontology as a reified statement and is also associated with a textual utterance"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:allValuesFrom nco:Topic ;
+            owl:onProperty nco:concernsTopic ],
+        [ a owl:Restriction ;
+            owl:allValuesFrom nco:AgentComponent ;
+            owl:onProperty nco:hasAgentComponent ],
+        [ a owl:Restriction ;
+            owl:allValuesFrom nco:Justification ;
+            owl:onProperty nco:hasJustification ],
+        [ a owl:Restriction ;
+            owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+            owl:onClass nco:Topic ;
+            owl:onProperty nco:concernsTopic ],
+        [ a owl:Restriction ;
+            owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+            owl:onClass nco:AgentComponent ;
+            owl:onProperty nco:hasAgentComponent ],
+        [ a owl:Restriction ;
+            owl:onClass nco:NewsItem ;
+            owl:onProperty nco:claimInNewsItem ;
+            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ],
+        [ a owl:Restriction ;
+            owl:onClass nco:Utterance ;
+            owl:onProperty nco:hasUtterance ;
+            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ],
+        nco:Statement .
+
+nco:NewsItem a owl:Class ;
+    rdfs:label "News item"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onClass nco:NewsSource ;
+            owl:onProperty nco:hasNewsSource ;
+            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ],
+        [ a owl:Restriction ;
+            owl:onDataRange xsd:string ;
+            owl:onProperty nco:hasTitle ;
+            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ],
+        [ a owl:Restriction ;
+            owl:onDataRange xsd:anyURI ;
+            owl:onProperty nco:hasURL ;
+            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ],
+        owl:Thing .
+
+nco:EventOrSituation a owl:Class ;
+    rdfs:comment "A pragmatic class to avoid having to refer to the union of Event and Situation in several expressions"@en ;
+    owl:equivalentClass [ a owl:Class ;
+            owl:unionOf ( nco:Event nco:Situation ) ] .
+
+nco:Topic a owl:Class ;
+    rdfs:label "Topic"@en ;
+    rdfs:comment "A Topic provides the main focus of a news item. A Topic can be an Entity, an Event (or a Collection of Events), a Viewpoint, a Situation or a Categorical Topic"@en ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty nco:topicRoleOf ;
+            owl:someValuesFrom owl:Thing ],
+        [ a owl:Restriction ;
+            owl:cardinality "1"^^xsd:nonNegativeInteger ;
+            owl:onProperty nco:topicRoleOf ],
+        skos:Concept .
+
+nco:Event a owl:Class ;
+    rdfs:label "Event"@en ;
+    rdfs:comment "The notion of Event in NCO is based on the one used by the News Angle Ontology (Motta et al., 2020), which is in turn based on the Simple Event Model (van Hage et al., 2011).  An event in this model is characterised in terms of time, location and the actors involved in the event.  The relation between events and actors is mediated by actor components, which specify the role played by the actor in question in the event."@en ;
+    rdfs:seeAlso "nao:Event" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:allValuesFrom nco:AgentComponent ;
+            owl:onProperty nco:hasAgentComponent ],
+        [ a owl:Restriction ;
+            owl:allValuesFrom nco:Location ;
+            owl:onProperty nco:hasLocation ],
+        nco:EventOrSituation .
+
+schema:Organization a owl:Class ;
+    rdfs:label "Organization"@en ;
+    rdfs:comment "An organization such as a school, NGO, corporation, club, etc."@en ;
+    rdfs:subClassOf schema:Thing ;
+    owl:equivalentClass nco:Organization .
+
+schema:MedicalBusiness a owl:Class ;
+    rdfs:label "MedicalBusiness"@en ;
+    rdfs:comment "A particular physical or virtual business of an organization for medical purposes. Examples of MedicalBusiness include different businesses run by health professionals."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+schema:LocalBusiness a owl:Class ;
+    rdfs:label "LocalBusiness"@en ;
+    rdfs:comment "A particular physical business or branch of an organization. Examples of LocalBusiness include a restaurant, a particular branch of a restaurant chain, a branch of a bank, a medical practice, a club, a bowling alley, etc."@en ;
+    rdfs:subClassOf schema:Organization,
+        schema:Place .
+
+schema:Store a owl:Class ;
+    rdfs:label "Store"@en ;
+    rdfs:comment "A retail good store."@en ;
+    rdfs:subClassOf schema:LocalBusiness .
+
+[] a owl:Axiom ;
+    rdfs:comment "Agent role is expected but we do not make it mandatory, given that in some cases we may simply refer to an agent without specifying the role played in the event or claim" ;
+    owl:annotatedProperty rdfs:subClassOf ;
+    owl:annotatedSource nco:AgentComponent ;
+    owl:annotatedTarget _:nd85a7a3bb83a4db0a640b389672634e5b38 .
+
+[] a owl:AllDisjointClasses ;
+    owl:members ( nco:Agent nco:Collection nco:Event nco:NewsItem nco:Statement nco:UnifyingFactor ) .
+
+_:nd85a7a3bb83a4db0a640b389672634e5b38 a owl:Restriction ;
+    owl:allValuesFrom nco:AgentRole ;
+    owl:onProperty nco:hasAgentRole .
+

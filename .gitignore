@@ -1,0 +1,23 @@
+.env
+.conda
+__pycache__/*
+
+/venv_claim_agent/
+/NewsArticles/*
+!NewsArticles/.gitkeep
+/backup_extractions_save/*
+#/ClaimExtractionAssesment/EvaluationReports/*
+!/ClaimExtractionAssesment/EvaluationReports/*.csv
+/ClaimExtractionAssesment/ExtractionClaimsPipeline/backup_claims_only/*
+/BigData/Data/*
+
+# Track Excel files only in root directory, exclude from subdirectories
+*/*.xlsx
+*/*.xls
+!*.xlsx
+!*.xls
+ClaimExtractionAssesment/debug.log
+EntityLinkingAssesment/EntityLinkingPipeline/Test_backup/backups/*
+*.pyc
+
+/PreExtractedClaims/*

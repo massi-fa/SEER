@@ -1,0 +1,124 @@
+@prefix : <http://data.open.ac.uk/ontology/newsclassification/nco+schema.org#> .
+@prefix dul: <http://www.ontologydesignpatterns.org/ont/dul/d0.owl#> .
+@prefix nao: <http://purl.org/news/angles/> .
+@prefix nco: <http://data.open.ac.uk/ontology/newsclassification/v2#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix iptc: <http://cv.iptc.org/newscodes/mediatopic/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix swrl: <http://www.w3.org/2003/11/swrl#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix terms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix nco_schema: <http://data.open.ac.uk/ontology/newsclassification/nco_schema.org#> .
+@base <http://data.open.ac.uk/ontology/newsclassification/nco_schema.org#> .
+
+<http://data.open.ac.uk/ontology/newsclassification/nco_schema.org> rdf:type owl:Ontology ;
+                                                                     owl:versionIRI <http://github.com/EnricoMotta/ontologies/newsclassification/nco+schema.org/1.0.1> ;
+                                                                     owl:imports <http://github.com/EnricoMotta/ontologies/newsclassification/v2.2.0> ;
+                                                                     terms:title "News Classification Ontology (NCO)"@en ;
+                                                                     rdfs:comment "This ontology integrates the News Classification Ontology (NCO) v2.2 with Schema.Org.  The purpose of this integration is to import the taxonomy of organizations available in Schema.Org into NCO."@en .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://purl.org/dc/terms/title
+terms:title rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://data.open.ac.uk/ontology/newsclassification/v2#Organization
+nco:Organization rdf:type owl:Class ;
+                 owl:equivalentClass <http://schema.org/Organization> .
+
+
+###  http://data.open.ac.uk/ontology/newsclassification/v2#PersonOrOganization
+nco:PersonOrOganization rdf:type owl:Class .
+
+
+###  http://schema.org/Organization
+<http://schema.org/Organization> rdf:type owl:Class ;
+                                 rdfs:subClassOf nco:PersonOrOganization .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+nco:Publisher rdfs:comment "A publisher can be either a person or an organization" .
+
+
+#################################################################
+#    Inverse Object Properties for NCO
+#################################################################
+
+### nco:isNewsSourceOf (inverse of nco:hasNewsSource)
+nco:isNewsSourceOf rdf:type owl:ObjectProperty ;
+    owl:inverseOf nco:hasNewsSource ;
+    rdfs:domain nco:NewsSource ;
+    rdfs:range nco:NewsItem ;
+    rdfs:label "is news source of"@en ;
+    rdfs:comment "Inverse property of hasNewsSource. Relates a NewsSource to the NewsItems it is source of."@en .
+
+nco:hasNewsSource owl:inverseOf nco:isNewsSourceOf .
+
+### nco:isPublisherOf (inverse of nco:hasPublisher)
+nco:isPublisherOf rdf:type owl:ObjectProperty ;
+    owl:inverseOf nco:hasPublisher ;
+    rdfs:domain nco:Publisher ;
+    rdfs:range nco:NewsSource ;
+    rdfs:label "is publisher of"@en ;
+    rdfs:comment "Inverse property of hasPublisher. Relates a Publisher to the NewsSources it publishes."@en .
+
+nco:hasPublisher owl:inverseOf nco:isPublisherOf .
+
+### nco:isAgentOf (inverse of nco:hasAgent)
+nco:isAgentOf rdf:type owl:ObjectProperty ;
+    owl:inverseOf nco:hasAgent ;
+    rdfs:domain nco:Agent ;
+    rdfs:range nco:AgentComponent ;
+    rdfs:label "is agent of"@en ;
+    rdfs:comment "Inverse property of hasAgent. Relates an Agent to the AgentComponents it is part of."@en .
+
+nco:hasAgent owl:inverseOf nco:isAgentOf .
+
+### nco:isAgentRoleOf (inverse of nco:hasAgentRole)
+nco:isAgentRoleOf rdf:type owl:ObjectProperty ;
+    owl:inverseOf nco:hasAgentRole ;
+    rdfs:domain nco:AgentRole ;
+    rdfs:range nco:AgentComponent ;
+    rdfs:label "is agent role of"@en ;
+    rdfs:comment "Inverse property of hasAgentRole. Relates an AgentRole to the AgentComponents it is assigned to."@en .
+
+nco:hasAgentRole owl:inverseOf nco:isAgentRoleOf .
+
+### nco:isUtteranceOf (inverse of nco:hasUtterance)
+nco:isUtteranceOf rdf:type owl:ObjectProperty ;
+    owl:inverseOf nco:hasUtterance ;
+    rdfs:domain nco:Utterance ;
+    rdfs:range nco:Claim ;
+    rdfs:label "is utterance of"@en ;
+    rdfs:comment "Inverse property of hasUtterance. Relates an Utterance to the Claim it belongs to."@en .
+
+nco:hasUtterance owl:inverseOf nco:isUtteranceOf .
+
+### nco:isUtteranceTypeOf (inverse of nco:hasUtteranceType)
+nco:isUtteranceTypeOf rdf:type owl:ObjectProperty ;
+    owl:inverseOf nco:hasUtteranceType ;
+    rdfs:domain nco:UtteranceType ;
+    rdfs:range nco:Utterance ;
+    rdfs:label "is utterance type of"@en ;
+    rdfs:comment "Inverse property of hasUtteranceType. Relates an UtteranceType to the Utterances it classifies."@en .
+
+nco:hasUtteranceType owl:inverseOf nco:isUtteranceTypeOf .
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

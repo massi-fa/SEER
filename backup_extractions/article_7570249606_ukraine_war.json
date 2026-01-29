@@ -1,0 +1,168 @@
+{
+  "article_id": "7570249606_ukraine_war",
+  "title": "Thousands rally in Slovakia to mark the 2018 slayings...",
+  "body": "BRATISLAVA, Slovakia (AP) - Thousands rallied all across Slovakia on Friday to mark the seventh anniversary of the slayings of an investigative journalist and his fiancee.\n\nThe rallies are part of a wave of protests against the pro-Russia policies of populist Prime Minister Robert Fico.\n\nPeople in Slovakia's capital, Bratislava, observed a minute of silence to honor Ján Kuciak and Martina Kusnírová, both age 27, were shot dead at their home in the town of Velka Maca, east of Bratislava, on Feb. 21, 2018.\n\nThe killings prompted major street protests unseen since the 1989 anti-communist Velvet Revolution in Czechoslovakia. The ensuing political crisis led to the collapse of a coalition government headed by Fico.\n\nKuciak had been investigating possible government corruption, among other issues, when he was killed.\n\nPeople applauded the parents of Kuciak and the mother of Kusnírová who greeted them from the stage.\n\nPeople gather in Bratislava, Slovakia on Friday Feb. 21, 2025, to mark the seventh anniversary of the slayings of an investigative journalist and his fiancee, Jan Kuciak and Martina Kusnirova. (Vaclav Salek/CTK via AP)\n\n\"I believe that our common fight will be successful,\" said Jozef Kuciak, the father of Ján.\n\nMarián Kocner, a businessman who had been accused of masterminding the killings, has been acquitted twice. Prosecutors have said they believe Kocner paid the convicted triggerman to carry it out and appealed.\n\nThe current anti-government protests are the biggest demonstrations since the 2018 slayings.\n\nThey are fueled by Fico´s recent trip to Moscow for talks with Russian President Vladimir Putin, a rare visit to the Kremlin by a European Union leader since Moscow´s all-out invasion of Ukraine began almost three years ago and his recent remarks that Slovakia might leave the 27-nation EU and NATO.\n\n\"We´ve had enough of Fico,\" people chanted.\n\nThe crowds at rallies in 47 towns and cities at home and 16 abroad, according to organizers, demanded Fico´s resignation. About 10,000 protesters chanted \"Resign, resign,\" at Freedom Square in Bratislava.\n\nFico´s views on Russia have sharply differed from the European mainstream. He returned to power last year after his leftist party Smer (Direction) won a parliamentary election in 2023.\n\nHe has since ended Slovakia´s military aid for Ukraine, criticized EU sanctions on Russia and vowed to block Ukraine from joining NATO. He declared Ukrainian President Volodymyr Zelenskyy as an enemy after Ukraine halted on Russian gas supplies to Slovakia and some other European customers.\n\nPeople gather in Bratislava, Slovakia on Friday Feb. 21, 2025, to mark the seventh anniversary of the slayings of an investigative journalist and his fiancee, Jan Kuciak and Martina Kusnirova. (Vaclav Salek/CTK via AP)\n\nPeople gather in Bratislava, Slovakia on Friday Feb. 21, 2025, to mark the seventh anniversary of the slayings of an investigative journalist and his fiancee, Jan Kuciak and Martina Kusnirova. Banner reads: \"Martina and Jan: We will never forget\". (Vaclav Salek/CTK via AP)",
+  "date": "2025-02-21 19:16:10+00:00",
+  "source_link": "https://www.dailymail.co.uk/wires/ap/article-14422543/Thousands-rally-Slovakia-mark-2018-slayings-investigative-journalist-fiancee.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+  "source_info": {
+    "name": "Daily Mail UK",
+    "domain": "dailymail.co.uk",
+    "description": null,
+    "home_page_url": "https://www.dailymail.co.uk/",
+    "locations": [
+      {
+        "city": "",
+        "country": "GB",
+        "state": ""
+      },
+      {
+        "city": null,
+        "country": "GB",
+        "state": null
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "state": "England"
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Jozef Kuciak",
+      "agent_description": "father of Ján Kuciak",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I believe that our common fight will be successful",
+      "source_context": "\"I believe that our common fight will be successful,\" said Jozef Kuciak, the father of Ján."
+    },
+    {
+      "agent_name": "Protesters",
+      "agent_description": "people at rallies",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We've had enough of Fico",
+      "source_context": "\"We´ve had enough of Fico,\" people chanted."
+    },
+    {
+      "agent_name": "Protesters",
+      "agent_description": "Protesters at Freedom Square in Bratislava",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Resign, resign",
+      "source_context": "About 10,000 protesters chanted \"Resign, resign,\" at Freedom Square in Bratislava."
+    }
+  ],
+  "agents_info": {
+    "Jozef Kuciak": {
+      "name": "Jozef Kuciak",
+      "type_of_agent": "person",
+      "agent_description": "father of Ján Kuciak",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "OrdinaryCitizen",
+        "confidence": "HIGH",
+        "explanation": "The article quotes Jozef Kuciak and identifies him as the father of Ján Kuciak, matching both the name and the description."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Jozef Kuciak",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Jozef Kuciak",
+            "agent_type": "person"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Jozef Kuciak",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "OrdinaryCitizen",
+                "confidence": "HIGH",
+                "explanation": "The article quotes Jozef Kuciak and identifies him as the father of Ján Kuciak, matching both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "OrdinaryCitizen",
+              "confidence": "HIGH",
+              "explanation": "The article quotes Jozef Kuciak and identifies him as the father of Ján Kuciak, matching both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Protesters": {
+      "name": "Protesters",
+      "type_of_agent": "person",
+      "agent_description": "people at rallies",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "OrdinaryCitizen",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly refers to protesters at rallies, identifying them as ordinary citizens participating in demonstrations."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Protesters",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Skipped",
+          "details": {
+            "reason": "No suitable NER entity found matching agent type."
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "OrdinaryCitizen",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly refers to protesters at rallies, identifying them as ordinary citizens participating in demonstrations."
+              }
+            },
+            "classification_outcome": {
+              "classification": "OrdinaryCitizen",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly refers to protesters at rallies, identifying them as ordinary citizens participating in demonstrations."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:16:07.848960",
+  "status": "success"
+}

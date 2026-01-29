@@ -1,0 +1,307 @@
+{
+  "article_id": "5773709935_uk_immigration",
+  "title": "Immigration enforcement officers are spotted monitoring crowds at train station near Glastonbury",
+  "body": "Immigration enforcement officers were spotted outside Castle Cary station yesterday as thousands of revellers heading to the first day of Glastonbury Festival arrived.\n\nPhotos shared on social media showed two officers leaning on a rail outside the small train station in Somerset, seemingly awaiting the arrival of festivalgoers heading down to Worthy Farm.\n\nGriff Ferris, who was heading to the festival which will see Elton John, the Arctic Monkeys and Gun N' Roses play this weekend, said that officers told members of the public they were monitoring crowds for 'adverse reactions'.\n\nThese reactions would then be used as grounds to pull people over and question them, it has been reported.\n\n'It was bizarre seeing the two of them there. I asked them what they were doing, and they said they were here monitoring adverse reactions to them', Mr Ferris told the Independent.\n\nTwo immigration enforcement officers were seen waiting outside Castle Cary station as hundreds arrived for Glastonbury Festival\n\nOne festival goer Griff Ferris claimed the officers were monitoring 'adverse reactions' to them\n\nIt comes as thousands descended on Worthy Farm in Somerset for a five-day long festival\n\n'I didn't see them check anyone, but you have to walk past them. It's just really grim. There are thousands of people coming through the station today and there's a huge queue, and as you're queueing to get your ticket checked they're there.'\n\nGlastonbury Festival told MailOnline that it's 'not responsible for - or in any way involved - with the policing or enforcement away from the site'.\n\nCrowds of excited music fans crammed their way into the 900-acre site yesterday, ready for five-days full of first-class music stars, as well as speeches by politcians, film screenings, threatre and circus performances.\n\nThe gates for the festival were officially opened by co-organiser Emily Eavis this morning, after attendees queued overnight to be the first in at 8am.\n\nGlastonbury co-founder Michael Eavis, who was recently pictured in a wheelchair, sat in a red Land Rover nearby as his daughter opened the gates for the festival.\n\nSpirits were high despite the downpours of rain and thundery storms, as groups of people dragged in crates of beer and boxes of booze ready for the long weekend.\n\nAs the rain clearer, hundreds gathered to watch the sunset above the park before seeing a magnificent firework display.\n\nMany waking up from their tents this morning likely woke up with sore heads after partying the night away.\n\nYesterday thousands arrived to set up camp in Glastonbury, getting soaked by thundery storms\n\nSpirits were high as festivalgoers enjoyed the first day of entertainment on the farm\n\nPeople were seen carrying in crates and crates of booze as they battled through stormy showers\n\nAs the rain clearer, hundreds gathered to watch the sunset above the park before seeing a magnificent firework display.\n\nMany waking up from their tents this morning likely woke up with sore heads after partying the night away.\n\nThousands gathered to watch the sunset above the park on the first day of Glastonbury Festival\n\nArctic Monkeys will top the bill on Friday night on the Pyramid Stage, which will be their third time headlining the festival having previously done so in 2007 and 2013.\n\nLizzo will play immediately before and has joint headline billing on the line-up poster.\n\nHowever, the acts closing the Pyramid Stage throughout the festival will be all-male.\n\nCo-organiser Ms Eavis told the BBC she aimed for gender balance and this year they had a female headline but 'she unfortunately had to pull out'.\n\nSir Elton John's headline slot on Sunday night is expected to draw large crowds, as it marks the end of his scheduled farewell tour dates in the UK.\n\nYusuf/Cat Stevens will perform during the teatime legends slot on Sunday afternoon, followed by classic rock outfit Blondie.\n\nThe veteran folk-rocker, best known for a string of albums in the 1970s, follows in the footsteps of artists such as Dolly Parton, Kylie Minogue and Diana Ross in the coveted slot.\n\nAlso on the bill across the weekend are Christine And The Queens, Lana Del Rey, Lewis Capaldi and Lil Nas X.\n\nMailOnline has contacted the Home Office.",
+  "date": "2023-06-22 09:49:50+00:00",
+  "source_link": "https://www.dailymail.co.uk/news/article-12222303/Immigration-enforcement-officers-spotted-monitoring-crowds-train-station-near-Glastonbury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+  "source_info": {
+    "name": "Daily Mail UK",
+    "domain": "dailymail.co.uk",
+    "description": null,
+    "home_page_url": "https://www.dailymail.co.uk/",
+    "locations": [
+      {
+        "city": "",
+        "country": "GB",
+        "state": ""
+      },
+      {
+        "city": null,
+        "country": "GB",
+        "state": null
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "state": "England"
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Griff Ferris",
+      "agent_description": "Festival goer",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Officers told members of the public they were monitoring crowds for 'adverse reactions'.",
+      "source_context": "Griff Ferris, who was heading to the festival which will see Elton John, the Arctic Monkeys and Gun N' Roses play this weekend, said that officers told members of the public they were monitoring crowds for 'adverse reactions'."
+    },
+    {
+      "agent_name": "Griff Ferris",
+      "agent_description": "Festival goer",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "It was bizarre seeing the two of them there. I asked them what they were doing, and they said they were here monitoring adverse reactions to them.",
+      "source_context": "'It was bizarre seeing the two of them there. I asked them what they were doing, and they said they were here monitoring adverse reactions to them', Mr Ferris told the Independent."
+    },
+    {
+      "agent_name": "Griff Ferris",
+      "agent_description": "Festival goer",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I didn't see them check anyone, but you have to walk past them. It's just really grim. There are thousands of people coming through the station today and there's a huge queue, and as you're queueing to get your ticket checked they're there.",
+      "source_context": "'I didn't see them check anyone, but you have to walk past them. It's just really grim. There are thousands of people coming through the station today and there's a huge queue, and as you're queueing to get your ticket checked they're there.'"
+    },
+    {
+      "agent_name": "Glastonbury Festival",
+      "agent_description": "Glastonbury Festival",
+      "agent_type": "organization",
+      "utterance_type": "partially-direct",
+      "utterance_text": "We are not responsible for - or in any way involved - with the policing or enforcement away from the site.",
+      "source_context": "Glastonbury Festival told MailOnline that it's 'not responsible for - or in any way involved - with the policing or enforcement away from the site'."
+    },
+    {
+      "agent_name": "Emily Eavis",
+      "agent_description": "Co-organiser of Glastonbury Festival",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "I aimed for gender balance and this year we had a female headline but she unfortunately had to pull out.",
+      "source_context": "Co-organiser Ms Eavis told the BBC she aimed for gender balance and this year they had a female headline but 'she unfortunately had to pull out'."
+    }
+  ],
+  "agents_info": {
+    "Griff Ferris": {
+      "name": "Griff Ferris",
+      "type_of_agent": "person",
+      "agent_description": "Festival goer",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "OrdinaryCitizen",
+        "confidence": "HIGH",
+        "explanation": "The article quotes Griff Ferris and identifies him as a festival goer attending Glastonbury, directly matching the provided description."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Griff Ferris",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Griff Ferris",
+            "agent_type": "person"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Griff Ferris",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "OrdinaryCitizen",
+                "confidence": "HIGH",
+                "explanation": "The article quotes Griff Ferris and identifies him as a festival goer attending Glastonbury, directly matching the provided description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "OrdinaryCitizen",
+              "confidence": "HIGH",
+              "explanation": "The article quotes Griff Ferris and identifies him as a festival goer attending Glastonbury, directly matching the provided description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Glastonbury Festival": {
+      "name": "Glastonbury Festival",
+      "type_of_agent": "organization",
+      "agent_description": "Glastonbury Festival",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "Other",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Glastonbury Festival and identifies it as the event organizer, confirming the organization’s identity, but no taxonomy category matches a festival, so the best fit is Other."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Glastonbury Festival",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Glastonbury Festival",
+            "agent_type": "organization"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Glastonbury Festival",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "organization_type": {
+                "classification": "Other",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Glastonbury Festival and identifies it as the event organizer, confirming the organization’s identity, but no taxonomy category matches a festival, so the best fit is Other."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Other",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Glastonbury Festival and identifies it as the event organizer, confirming the organization’s identity, but no taxonomy category matches a festival, so the best fit is Other."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Emily Eavis": {
+      "name": "Emily Eavis",
+      "type_of_agent": "person",
+      "agent_description": "Co-organiser of Glastonbury Festival",
+      "wikidata_info": {
+        "name": "Emily Eavis",
+        "wikidata_id": "Q5372150",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": null,
+        "gender": "female",
+        "political_party": [],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "promoter"
+        ],
+        "field_of_work": [],
+        "position_held": [],
+        "description": "co-organiser of the annual Glastonbury Festival",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "promoter",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "BusinessRepresentative",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Emily Eavis as the co‑organiser of Glastonbury Festival and notes she opened the gates, confirming both her name and role."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Emily Eavis",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q5372150"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Emily Eavis",
+              "type": "person",
+              "description": "Co-organiser of Glastonbury Festival"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q5372150",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Emily Eavis\\\" as the co‑organiser of Glastonbury Festival, matching the Wikidata description and occupation (promoter). The context—opening the gates, speaking to the BBC about gender balance—confirms her role and identity. No other person named Emily Eavis is mentioned, and the details align with the Wikidata profile.\",\n    \"statement_assessment\": \"Emily Eavis is quoted: \\\"Ms Eavis told the BBC she aimed for gender balance and this year they had a female headline but 'she unfortunately had to pull out'\\\". This is a clear attribution of a statement to the entity.\",\n    \"plausibility_assessment\": \"It is highly plausible for a co‑organiser of a major music festival to speak to the BBC about programming decisions and gender balance. The statement fits her position and responsibilities.\",\n    \"contradiction_analysis\": \"No contradictions were found between the article content and the Wikidata entity’s profile.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Emily Eavis\" as the co‑organiser of Glastonbury Festival, matching the Wikidata description and occupation (promoter). The context—opening the gates, speaking to the BBC about gender balance—confirms her role and identity. No other person named Emily Eavis is mentioned, and the details align with the Wikidata profile.",
+                "statement_assessment": "Emily Eavis is quoted: \"Ms Eavis told the BBC she aimed for gender balance and this year they had a female headline but 'she unfortunately had to pull out'\". This is a clear attribution of a statement to the entity.",
+                "plausibility_assessment": "It is highly plausible for a co‑organiser of a major music festival to speak to the BBC about programming decisions and gender balance. The statement fits her position and responsibilities.",
+                "contradiction_analysis": "No contradictions were found between the article content and the Wikidata entity’s profile.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q5372150",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "BusinessRepresentative",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Emily Eavis as the co‑organiser of Glastonbury Festival and notes she opened the gates, confirming both her name and role."
+              }
+            },
+            "classification_outcome": {
+              "classification": "BusinessRepresentative",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Emily Eavis as the co‑organiser of Glastonbury Festival and notes she opened the gates, confirming both her name and role."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:21:30.942159",
+  "status": "success"
+}

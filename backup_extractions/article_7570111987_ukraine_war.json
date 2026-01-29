@@ -1,0 +1,689 @@
+{
+  "article_id": "7570111987_ukraine_war",
+  "title": "Shakhtar Donetsk accuse Fifa of failing to support Ukrainian football during war",
+  "body": "Chief executive reflects on the three years since invasion  'Fifa forgot about us … their door is always closed'\n Shakhtar Donetsk's chief executive, Serhii Palkin, has accused Fifa of failing to support Ukrainian football in the three years since Russia undertook its full-scale invasion of the country.\n  Ukraine's domestic league has managed to play on after an initial six-month pause but resources are scarce and the long-term outlook remains uncertain. Palkin claimed the world governing body had kept its doors \"closed to us\" and he repeated previous entreaties for the creation of a fund to help maintain a sport that has endured severe physical and financial damage. He also urged Fifa and Uefa to hold firm on their commitment to bar Russian teams from international competitions amid an increasingly precarious geopolitical climate.\n  \"From the beginning of the war Fifa never supported Ukrainian football,\" Palkin told the Guardian. \"They always had a slogan that we are one family, but it was not one family. They forgot about Ukrainian football completely.\n  \"We need to set up some kind of fund for Ukrainian football and the major donors should be Fifa. They should support us because we have a lot of destroyed infrastructure and a poor economic situation in the industry. It's difficult to survive in these conditions and it's strange they completely ignore what's going on in Ukraine . For me, it's some kind of shame.\"\n  Palkin claimed there had been a reluctance on Fifa's part to get around the table and discuss Ukraine's plight. \"Fifa's door is always closed for us,\" he said. \"We tried to knock at this door in the last three years but there were no answers at all. I contacted some people at a high level in football and they also tried to communicate with Fifa, but I don't feel we have success.\"\n  Shakhtar sought £43m of damages from Fifa in 2022 after it ruled that foreign players in Ukraine could suspend their contracts because of the invasion, essentially depriving clubs of potentially hefty transfer fees. They eventually lost their case at the court of arbitration for sport. \"Fifa ignored Ukraine and our clubs,\" Palkin said.\n  Asked why he believed Fifa may be reluctant to create a reparations fund or provide further assistance, Palkin said: \"In the past three years many people asked the same question, but I don't know at all. We can make guesses, but I don't have the answer.\"\n  View image in fullscreen\n  Last February Fifa's president, Gianni Infantino, met his Ukrainian Association of Football counterpart, Andriy Shevchenko, in Paris and pledged to \"support the continuous growth on and off the pitch\" of football in Ukraine. Shevchenko acknowledged the value of existing Fifa programmes, such as the Fifa Forward campaign, in backing the sport's development in Ukraine. The Fifa Foundation has also helped deliver humanitarian supplies to Ukraine, allocating $1m to the cause in March 2022.\n  Palkin was speaking days before the anniversary of the full-scale invasion on 24 February 2022, which savagely escalated a decade-long war that has forced Shakhtar to play away from their home city since 2014. Fifa and Uefa acted swiftly three years ago to prevent Russian sides playing in their competitions but, in a fraught international climate and with a volatile US administration appearing openly hostile to Ukraine, Palkin reiterated the need for them to hold the line.\n  skip past newsletter promotion\n  after newsletter promotion\n  Infantino has been proud to flaunt his close relationship with Donald Trump, while the Russian Football Union president and Uefa executive committee member, Alexander Dyukov, was quoted in local media this month saying his country could \"theoretically\" be admitted into the World Cup qualifiers, which start on 21 March. There is scant chance of such an occurrence and Palkin said the authorities' stance must remain while the war continues.\n  \"At this moment I don't feel Fifa or Uefa would like to give permission to Russian clubs to participate in European competition,\" he said. \"Maybe they have separate conversations but officially they keep their position. For Ukraine it's very important to have a strong position from Fifa and Uefa in respect of Russian teams. It's not possible, when you invade a country, that at the same time you're free to do whatever you want.\"\n  Palkin does not see danger in the proximity between Fifa and the US government. \"For us the face of Fifa didn't change since the beginning of the war. I don't know what kind of relationships they have, but I don't feel any changes regarding Ukrainian football. I don't understand how it can be worse and I don't feel it's become better.\"\n  Fifa was contacted for comment.",
+  "date": "2025-02-21 18:04:50+00:00",
+  "source_link": "https://www.theguardian.com/football/2025/feb/21/shakhtar-donetsk-fifa-ukrainian-football-war-serhii-palkin",
+  "source_info": {
+    "name": "The Guardian",
+    "domain": "theguardian.com",
+    "description": null,
+    "home_page_url": "http://www.theguardian.com/",
+    "locations": [
+      {
+        "city": null,
+        "country": "GB",
+        "state": null
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Fifa has failed to support Ukrainian football in the three years since Russia undertook its full-scale invasion of the country.",
+      "source_context": "Shakhtar Donetsk's chief executive, Serhii Palkin, has accused Fifa of failing to support Ukrainian football in the three years since Russia undertook its full-scale invasion of the country."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "The world governing body had kept its doors closed to us.",
+      "source_context": "Palkin claimed the world governing body had kept its doors \"closed to us\" and he repeated previous entreaties for the creation of a fund to help maintain a sport that has endured severe physical and financial damage."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I repeated previous entreaties for the creation of a fund to help maintain a sport that has endured severe physical and financial damage.",
+      "source_context": "Palkin claimed the world governing body had kept its doors \"closed to us\" and he repeated previous entreaties for the creation of a fund to help maintain a sport that has endured severe physical and financial damage."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I urged Fifa and Uefa to hold firm on their commitment to bar Russian teams from international competitions amid an increasingly precarious geopolitical climate.",
+      "source_context": "He also urged Fifa and Uefa to hold firm on their commitment to bar Russian teams from international competitions amid an increasingly precarious geopolitical climate."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "From the beginning of the war Fifa never supported Ukrainian football.",
+      "source_context": "\"From the beginning of the war Fifa never supported Ukrainian football,\" Palkin told the Guardian."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "They always had a slogan that we are one family, but it was not one family.",
+      "source_context": "\"They always had a slogan that we are one family, but it was not one family."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "They forgot about Ukrainian football completely.",
+      "source_context": "They forgot about Ukrainian football completely."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We need to set up some kind of fund for Ukrainian football and the major donors should be Fifa.",
+      "source_context": "\"We need to set up some kind of fund for Ukrainian football and the major donors should be Fifa."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "They should support us because we have a lot of destroyed infrastructure and a poor economic situation in the industry.",
+      "source_context": "They should support us because we have a lot of destroyed infrastructure and a poor economic situation in the industry."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "It's difficult to survive in these conditions and it's strange they completely ignore what's going on in Ukraine.",
+      "source_context": "It's difficult to survive in these conditions and it's strange they completely ignore what's going on in Ukraine ."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "For me, it's some kind of shame.",
+      "source_context": "For me, it's some kind of shame.\""
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "There had been a reluctance on Fifa's part to get around the table and discuss Ukraine's plight.",
+      "source_context": "Palkin claimed there had been a reluctance on Fifa's part to get around the table and discuss Ukraine's plight."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Fifa's door is always closed for us.",
+      "source_context": "\"Fifa's door is always closed for us,\" he said."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We tried to knock at this door in the last three years but there were no answers at all.",
+      "source_context": "We tried to knock at this door in the last three years but there were no answers at all."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I contacted some people at a high level in football and they also tried to communicate with Fifa, but I don't feel we have success.",
+      "source_context": "I contacted some people at a high level in football and they also tried to communicate with Fifa, but I don't feel we have success.\""
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Fifa ignored Ukraine and our clubs.",
+      "source_context": "\"Fifa ignored Ukraine and our clubs,\" Palkin said."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I don't know at all why Fifa may be reluctant to create a reparations fund or provide further assistance.",
+      "source_context": "Asked why he believed Fifa may be reluctant to create a reparations fund or provide further assistance, Palkin said: \"In the past three years many people asked the same question, but I don't know at all."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We can make guesses, but I don't have the answer.",
+      "source_context": "We can make guesses, but I don't have the answer.\""
+    },
+    {
+      "agent_name": "Gianni Infantino",
+      "agent_description": "Fifa's president",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I pledged to support the continuous growth on and off the pitch of football in Ukraine.",
+      "source_context": "Last February Fifa's president, Gianni Infantino, met his Ukrainian Association of Football counterpart, Andriy Shevchenko, in Paris and pledged to \"support the continuous growth on and off the pitch\" of football in Ukraine."
+    },
+    {
+      "agent_name": "Andriy Shevchenko",
+      "agent_description": "Ukrainian Association of Football counterpart",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I acknowledged the value of existing Fifa programmes, such as the Fifa Forward campaign, in backing the sport's development in Ukraine.",
+      "source_context": "Shevchenko acknowledged the value of existing Fifa programmes, such as the Fifa Forward campaign, in backing the sport's development in Ukraine."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I reiterated the need for Fifa and Uefa to hold the line.",
+      "source_context": "Fifa and Uefa acted swiftly three years ago to prevent Russian sides playing in their competitions but, in a fraught international climate and with a volatile US administration appearing openly hostile to Ukraine, Palkin reiterated the need for them to hold the line."
+    },
+    {
+      "agent_name": "Alexander Dyukov",
+      "agent_description": "Russian Football Union president and Uefa executive committee member",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "My country could theoretically be admitted into the World Cup qualifiers.",
+      "source_context": "while the Russian Football Union president and Uefa executive committee member, Alexander Dyukov, was quoted in local media this month saying his country could \"theoretically\" be admitted into the World Cup qualifiers, which start on 21 March."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "The authorities' stance must remain while the war continues.",
+      "source_context": "There is scant chance of such an occurrence and Palkin said the authorities' stance must remain while the war continues."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "At this moment I don't feel Fifa or Uefa would like to give permission to Russian clubs to participate in European competition.",
+      "source_context": "\"At this moment I don't feel Fifa or Uefa would like to give permission to Russian clubs to participate in European competition,\" he said."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Maybe they have separate conversations but officially they keep their position.",
+      "source_context": "Maybe they have separate conversations but officially they keep their position."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "For Ukraine it's very important to have a strong position from Fifa and Uefa in respect of Russian teams.",
+      "source_context": "For Ukraine it's very important to have a strong position from Fifa and Uefa in respect of Russian teams."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "It's not possible, when you invade a country, that at the same time you're free to do whatever you want.",
+      "source_context": "It's not possible, when you invade a country, that at the same time you're free to do whatever you want.\""
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I do not see danger in the proximity between Fifa and the US government.",
+      "source_context": "Palkin does not see danger in the proximity between Fifa and the US government."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "For us the face of Fifa didn't change since the beginning of the war.",
+      "source_context": "\"For us the face of Fifa didn't change since the beginning of the war."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I don't know what kind of relationships they have, but I don't feel any changes regarding Ukrainian football.",
+      "source_context": "I don't know what kind of relationships they have, but I don't feel any changes regarding Ukrainian football."
+    },
+    {
+      "agent_name": "Serhii Palkin",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I don't understand how it can be worse and I don't feel it's become better.",
+      "source_context": "I don't understand how it can be worse and I don't feel it's become better.\""
+    }
+  ],
+  "agents_info": {
+    "Serhii Palkin": {
+      "name": "Serhii Palkin",
+      "type_of_agent": "person",
+      "agent_description": "Shakhtar Donetsk's chief executive",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "BusinessRepresentative",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly identifies Serhii Palkin as Shakhtar Donetsk's chief executive and quotes him, confirming both his name and role."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Serhii Palkin",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Skipped",
+          "details": {
+            "reason": "No suitable NER entity found matching agent type."
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "BusinessRepresentative",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly identifies Serhii Palkin as Shakhtar Donetsk's chief executive and quotes him, confirming both his name and role."
+              }
+            },
+            "classification_outcome": {
+              "classification": "BusinessRepresentative",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly identifies Serhii Palkin as Shakhtar Donetsk's chief executive and quotes him, confirming both his name and role."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Gianni Infantino": {
+      "name": "Gianni Infantino",
+      "type_of_agent": "person",
+      "agent_description": "Fifa's president",
+      "wikidata_info": {
+        "name": "Gianni Infantino",
+        "wikidata_id": "Q124138",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Brig-Glis",
+        "gender": "male",
+        "political_party": [],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "sports official",
+          "jurist",
+          "lawyer",
+          "politician"
+        ],
+        "field_of_work": [],
+        "position_held": [
+          {
+            "name": "member of the International Olympic Committee",
+            "start_date": "2020-00-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "president of FIFA",
+            "start_date": "2016-02-26",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "UEFA General Secretary",
+            "start_date": "2009-10-00",
+            "end_date": "2016-03-00",
+            "organization": null
+          }
+        ],
+        "description": "Swiss-Italian football administrator",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "sports official",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "jurist",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "lawyer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "PublicOfficial",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Gianni Infantino and identifies him as FIFA's president, matching both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Gianni Infantino",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q124138"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Gianni Infantino",
+              "type": "person",
+              "description": "Fifa's president"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q124138",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Gianni Infantino\\\" as FIFA's president and references his meeting with Andriy Shevchenko in Paris, directly matching the Wikidata entity’s name, title, and role. No other individual with a similar name is mentioned, and the context (FIFA president, football administration) aligns perfectly with the Wikidata description and occupation data. Therefore, the entity is present and correctly identified.\",\n    \"statement_assessment\": \"The article does not provide a direct quote from Infantino. It reports that he \\\"pledged to 'support the continuous growth on and off the pitch' of football in Ukraine\\\" and mentions his relationship with Donald Trump, but these are reported actions or statements without explicit attribution to a spoken or written statement by Infantino. Thus, there is no clear evidence that Infantino is making statements in this article.\",\n    \"plausibility_assessment\": \"N/A – No statements are attributed to Infantino, so plausibility of statements cannot be evaluated.\",\n    \"contradiction_analysis\": \"No contradictions are found. The article’s description of Infantino’s role and actions is consistent with the Wikidata profile.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Gianni Infantino\" as FIFA's president and references his meeting with Andriy Shevchenko in Paris, directly matching the Wikidata entity’s name, title, and role. No other individual with a similar name is mentioned, and the context (FIFA president, football administration) aligns perfectly with the Wikidata description and occupation data. Therefore, the entity is present and correctly identified.",
+                "statement_assessment": "The article does not provide a direct quote from Infantino. It reports that he \"pledged to 'support the continuous growth on and off the pitch' of football in Ukraine\" and mentions his relationship with Donald Trump, but these are reported actions or statements without explicit attribution to a spoken or written statement by Infantino. Thus, there is no clear evidence that Infantino is making statements in this article.",
+                "plausibility_assessment": "N/A – No statements are attributed to Infantino, so plausibility of statements cannot be evaluated.",
+                "contradiction_analysis": "No contradictions are found. The article’s description of Infantino’s role and actions is consistent with the Wikidata profile.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q124138",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "PublicOfficial",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Gianni Infantino and identifies him as FIFA's president, matching both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "PublicOfficial",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Gianni Infantino and identifies him as FIFA's president, matching both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Andriy Shevchenko": {
+      "name": "Andriy Shevchenko",
+      "type_of_agent": "person",
+      "agent_description": "Ukrainian Association of Football counterpart",
+      "wikidata_info": {
+        "name": "Andriy Shevchenko",
+        "wikidata_id": "Q41244",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Yahotyn",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Social Democratic Party of Ukraine (united)",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "association football player",
+          "association football coach",
+          "association football executive"
+        ],
+        "field_of_work": [],
+        "position_held": [],
+        "description": "Ukrainian association football player (born 1976)",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "association football player",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "association football coach",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "association football executive",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Spokesperson",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions Andriy Shevchenko as the Ukrainian Association of Football counterpart, confirming both his name and the described role."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Andriy Shevchenko",
+            "entities_found_count": 4,
+            "found_wikidata_ids": [
+              "Q41244",
+              "Q2081854",
+              "Q86857512",
+              "Q97278856"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "Andriy Shevchenko",
+              "type": "person",
+              "description": "Ukrainian Association of Football counterpart"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article explicitly names \"Andriy Shevchenko\" as the Ukrainian Association of Football counterpart, confirming the target entity is present.",
+                "statement_detection": "Shevchenko is quoted as acknowledging the value of FIFA programmes, indicating he made a statement in the article.",
+                "candidate_evaluation": "Candidate Q41244 (the well‑known Ukrainian footballer, coach, and executive) matches the description of a football executive and the context of the Ukrainian Association of Football. The other candidates (journalist/politician, researcher, designer) do not fit the football context or the description.",
+                "authority_verification": "Q41244’s role as a football executive gives him the appropriate authority to comment on FIFA programmes and the development of Ukrainian football.",
+                "plausibility_assessment": "It is highly plausible that the Ukrainian Association of Football counterpart would speak about FIFA initiatives, making the attribution credible.",
+                "final_justification": "Q41244 satisfies all critical identification and attribution criteria: name, football executive role, Ukrainian nationality, and the specific context of the Ukrainian Association of Football. The entity is present and making statements, so the best match is Q41244."
+              },
+              "answer": "Q41244"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q41244",
+              "label": "Andriy Shevchenko"
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Spokesperson",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions Andriy Shevchenko as the Ukrainian Association of Football counterpart, confirming both his name and the described role."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Spokesperson",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions Andriy Shevchenko as the Ukrainian Association of Football counterpart, confirming both his name and the described role."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Alexander Dyukov": {
+      "name": "Alexander Dyukov",
+      "type_of_agent": "person",
+      "agent_description": "Russian Football Union president and Uefa executive committee member",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "Spokesperson",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly quotes Alexander Dyukov, identifying him as the Russian Football Union president and UEFA executive committee member, matching both the name and description."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Alexander Dyukov",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q3737122"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Alexander Dyukov",
+              "type": "person",
+              "description": "Russian Football Union president and Uefa executive committee member"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q3737122",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Alexander Dyukov\\\" as the Russian Football Union president and a UEFA executive committee member. The Wikidata entry provided for Alexander Dyukov lists occupations as historian, opinion journalist, and research fellow, with a description of \\\"Russian author and blogger.\\\" These roles and description do not align with the football‑administration role cited in the article. The mismatch in key identifying attributes (occupation, primary role, and description) indicates that the Wikidata entity does not correspond to the person referenced in the article.\",\n    \"statement_assessment\": \"N/A – the entity is not confirmed as the same person, so attribution of statements is irrelevant.\",\n    \"plausibility_assessment\": \"N/A – no statements are attributed to the Wikidata entity in the article.\",\n    \"contradiction_analysis\": \"The article’s description of Alexander Dyukov as a football administrator directly contradicts the Wikidata description of him as a historian and author. This fundamental role discrepancy rules out identity matching.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"NO\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Alexander Dyukov\" as the Russian Football Union president and a UEFA executive committee member. The Wikidata entry provided for Alexander Dyukov lists occupations as historian, opinion journalist, and research fellow, with a description of \"Russian author and blogger.\" These roles and description do not align with the football‑administration role cited in the article. The mismatch in key identifying attributes (occupation, primary role, and description) indicates that the Wikidata entity does not correspond to the person referenced in the article.",
+                "statement_assessment": "N/A – the entity is not confirmed as the same person, so attribution of statements is irrelevant.",
+                "plausibility_assessment": "N/A – no statements are attributed to the Wikidata entity in the article.",
+                "contradiction_analysis": "The article’s description of Alexander Dyukov as a football administrator directly contradicts the Wikidata description of him as a historian and author. This fundamental role discrepancy rules out identity matching.",
+                "confidence_level": "High"
+              },
+              "answer": "NO"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "NO",
+            "selected_entity_details": null
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Spokesperson",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly quotes Alexander Dyukov, identifying him as the Russian Football Union president and UEFA executive committee member, matching both the name and description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Spokesperson",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly quotes Alexander Dyukov, identifying him as the Russian Football Union president and UEFA executive committee member, matching both the name and description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:37:44.201957",
+  "status": "success"
+}

@@ -1,0 +1,1958 @@
+{
+  "article_id": "7570061444_ukraine_war",
+  "title": "US envoy to Ukraine hails Zelenskyy as 'embattled and courageous leader'",
+  "body": "Keith Kellogg strikes different tone from Trump, who called Ukrainian president a 'dictator'\n The US envoy to Ukraine, Gen Keith Kellogg, has praised Voldymyr Zelenskyy as \"the embattled and courageous leader of a nation at war\", striking a dramatically different tone from Donald Trump who has called Ukraine's president a \"dictator\"\n  Kellogg left Kyiv on Friday after a three-day visit. Posting on social media , he said he had had \"extensive and positive discussions\" with Zelenskyy and his \"talented national security team\". \"A long and intense day with the senior leadership of Ukraine,\" he said.\n  The general's upbeat remarks are in glaring contrast to those of the US president and his entourage, who have heaped abuse on Zelenskyy during a tumultuous week. Trump claimed Ukraine was to blame for starting the war with Russia, and accused Zelenskyy of doing \"a terrible job\".\n  On Friday, Trump returned to the theme, saying he did not consider it essential for the Ukrainian president to be present at negotiations. \"I don't think he's very important to be in meetings,\" Trump told Fox News. \"He's been there for three years. He makes it very hard to make deals.\"\n  The world's richest man, Elon Musk, who is leading Trump's huge governmental overhaul, said Trump was right to leave Zelenskyy out of peace talks with Russia , held in the Saudi capital, Riyadh. Without evidence, Musk accused Ukraine's leader of running a \"massive graft machine feeding off the dead bodies of Ukrainian soldiers\".\n  Kellogg is known to be the most pro-Ukrainian of Trump's senior team. Nevertheless, the difference in rhetoric suggests a chaotic and contradictory approach to foreign policy, from a White House that has dumped Ukraine as an ally and publicly sided with Moscow.\n  Zelenskyy prompted Trump's ire by observing that the US president lived in a Kremlin \" disinformation bubble \". Despite their disagreement, there were signs on Friday that US and Ukrainian negotiators are coming closer to making a deal over Ukraine's vast mineral resources.\n  Late last year, Zelenskyy floated the idea of a partnership with the US. He was surprised when the US treasury secretary, Scott Bessent, asked him to sign an agreement that would give the White House $500bn (£395bn) in natural resources, as \"payback\" for previous US military assistance.\n  Zelenskyy declined to sign the document without US security guarantees, to enforce any postwar settlement with Russia. There were reports on Friday that talks over US preferential access to Ukraine's critical resources were ongoing, with drafts being constantly swapped.\n  \"We sent another one yesterday,\" one Kyiv source told the AFP news agency, adding that Ukraine was now waiting for a US response. On Friday, the White House national security adviser, Mike Waltz , said he expected the Ukrainian government \"in a very short time\" to sign the \"rare earth\" deal.\n  Trump's crude verbal criticism of Ukraine and his repetition of Russian talking points have stunned and alarmed European leaders. Nearly a dozen of them have called Zelenskyy over the last 48 hours, offering support for a just and sustainable end to the war, and reaffirming shared democratic values.\n  They include Keir Starmer and France's president, Emmanuel Macron, both of whom will visit Washington next week . In an address to France, Macron said he would tell Trump: \"You can't be weak with [Vladimir] Putin.\" Poland's conservative president, Andrzej Duda, who is due to meet Trump in Washington on Saturday, said Zelenskyy should stay calm and cooperate.\n  Several senior Europeans will visit Kyiv on Monday, to mark the third anniversary of Russia's 2022 full-scale invasion. Spain's prime minister, Pedro Sánchez; the European Council president, António Costa; and the European commission president, Ursula von der Leyen, are expected.\n  The US president's rambling personal attacks have galvanised support for Zelenskyy among Ukrainians, including people who were previously disenchanted. A new opinion poll found 63% approved of him – a figure many times higher than the 4% rating falsely claimed this week by Trump and Musk.\n  Prominent Ukrainian journalist Kristina Berdynskykh said: \"After three years of full-scale war, Ukrainians are tired, nervous and often quarrel with each other. But I feel that now everyone will unite again. This always happens when Ukrainians feel an existential threat.\"\n  Trump has echoed Kremlin propaganda by claiming Zelenskyy refuses to hold elections and is therefore illegitimate. Under martial law, elections are not allowed. Few Ukrainians support the idea of a poll, at a time when millions have fled abroad, a fifth of the country is occupied by Russia, and while soldiers are fighting and dying on the frontline.\n  On Friday more than 130 Ukrainian civil society organisations said Russia's war of aggression made it impossible for Ukraine to hold elections – both for the presidency and parliament. In a statement pushing back on Trump's remarks, they said that government legitimacy was \"the exclusive prerogative of the Ukrainian people\".\n  The NGOs said there was a consensus among both ruling and opposition political parties, as well as from the general public, that polls could only be held at least six months after a genuine ceasefire. This would give authorities time to prepare the electoral process, and to rebuild damaged infrastructure, they said.",
+  "date": "2025-02-21 17:37:29+00:00",
+  "source_link": "https://www.theguardian.com/world/2025/feb/21/us-envoy-ukraine-keith-kellogg-volodymyr-zelenskyy-embattled-courageous-leader",
+  "source_info": {
+    "name": "The Guardian",
+    "domain": "theguardian.com",
+    "description": null,
+    "home_page_url": "http://www.theguardian.com/",
+    "locations": [
+      {
+        "city": null,
+        "country": "GB",
+        "state": null
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Keith Kellogg",
+      "agent_description": "US envoy to Ukraine",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "Volodymyr Zelenskyy is the embattled and courageous leader of a nation at war.",
+      "source_context": "The US envoy to Ukraine, Gen Keith Kellogg, has praised Voldymyr Zelenskyy as \"the embattled and courageous leader of a nation at war\", striking a dramatically different tone from Donald Trump who has called Ukraine's president a \"dictator\""
+    },
+    {
+      "agent_name": "Keith Kellogg",
+      "agent_description": "US envoy to Ukraine",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I had extensive and positive discussions with Zelenskyy and his talented national security team.",
+      "source_context": "Posting on social media , he said he had had \"extensive and positive discussions\" with Zelenskyy and his \"talented national security team\"."
+    },
+    {
+      "agent_name": "Keith Kellogg",
+      "agent_description": "US envoy to Ukraine",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "A long and intense day with the senior leadership of Ukraine",
+      "source_context": "\"A long and intense day with the senior leadership of Ukraine,\" he said."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US president",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Ukraine was to blame for starting the war with Russia.",
+      "source_context": "Trump claimed Ukraine was to blame for starting the war with Russia, and accused Zelenskyy of doing \"a terrible job\"."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US president",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "Zelenskyy is doing a terrible job.",
+      "source_context": "Trump claimed Ukraine was to blame for starting the war with Russia, and accused Zelenskyy of doing \"a terrible job\"."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US president",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I do not consider it essential for the Ukrainian president to be present at negotiations.",
+      "source_context": "On Friday, Trump returned to the theme, saying he did not consider it essential for the Ukrainian president to be present at negotiations."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US president",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I don't think he's very important to be in meetings",
+      "source_context": "\"I don't think he's very important to be in meetings,\" Trump told Fox News."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US president",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "He's been there for three years. He makes it very hard to make deals.",
+      "source_context": "\"He's been there for three years. He makes it very hard to make deals.\""
+    },
+    {
+      "agent_name": "Elon Musk",
+      "agent_description": "The world's richest man, leading Trump's governmental overhaul",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Trump is right to leave Zelenskyy out of peace talks with Russia.",
+      "source_context": "The world's richest man, Elon Musk, who is leading Trump's huge governmental overhaul, said Trump was right to leave Zelenskyy out of peace talks with Russia , held in the Saudi capital, Riyadh."
+    },
+    {
+      "agent_name": "Elon Musk",
+      "agent_description": "The world's richest man, leading Trump's governmental overhaul",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "Ukraine's leader is running a massive graft machine feeding off the dead bodies of Ukrainian soldiers.",
+      "source_context": "Without evidence, Musk accused Ukraine's leader of running a \"massive graft machine feeding off the dead bodies of Ukrainian soldiers\"."
+    },
+    {
+      "agent_name": "Volodymyr Zelenskyy",
+      "agent_description": "Ukrainian president",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "The US president lives in a Kremlin disinformation bubble.",
+      "source_context": "Zelenskyy prompted Trump's ire by observing that the US president lived in a Kremlin \" disinformation bubble \"."
+    },
+    {
+      "agent_name": "Volodymyr Zelenskyy",
+      "agent_description": "Ukrainian president",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I floated the idea of a partnership with the US.",
+      "source_context": "Late last year, Zelenskyy floated the idea of a partnership with the US."
+    },
+    {
+      "agent_name": "Scott Bessent",
+      "agent_description": "US treasury secretary",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I asked Zelenskyy to sign an agreement that would give the White House $500bn in natural resources, as payback for previous US military assistance.",
+      "source_context": "He was surprised when the US treasury secretary, Scott Bessent, asked him to sign an agreement that would give the White House $500bn (£395bn) in natural resources, as \"payback\" for previous US military assistance."
+    },
+    {
+      "agent_name": "Volodymyr Zelenskyy",
+      "agent_description": "Ukrainian president",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I declined to sign the document without US security guarantees, to enforce any postwar settlement with Russia.",
+      "source_context": "Zelenskyy declined to sign the document without US security guarantees, to enforce any postwar settlement with Russia."
+    },
+    {
+      "agent_name": "Kyiv source",
+      "agent_description": "Unnamed source in Kyiv",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We sent another one yesterday",
+      "source_context": "\"We sent another one yesterday,\" one Kyiv source told the AFP news agency, adding that Ukraine was now waiting for a US response."
+    },
+    {
+      "agent_name": "Mike Waltz",
+      "agent_description": "White House national security adviser",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I expect the Ukrainian government in a very short time to sign the rare earth deal.",
+      "source_context": "On Friday, the White House national security adviser, Mike Waltz , said he expected the Ukrainian government \"in a very short time\" to sign the \"rare earth\" deal."
+    },
+    {
+      "agent_name": "Emmanuel Macron",
+      "agent_description": "France's president",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "You can't be weak with [Vladimir] Putin.",
+      "source_context": "In an address to France, Macron said he would tell Trump: \"You can't be weak with [Vladimir] Putin.\""
+    },
+    {
+      "agent_name": "Andrzej Duda",
+      "agent_description": "Poland's conservative president",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Zelenskyy should stay calm and cooperate.",
+      "source_context": "Poland's conservative president, Andrzej Duda, who is due to meet Trump in Washington on Saturday, said Zelenskyy should stay calm and cooperate."
+    },
+    {
+      "agent_name": "Kristina Berdynskykh",
+      "agent_description": "Prominent Ukrainian journalist",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "After three years of full-scale war, Ukrainians are tired, nervous and often quarrel with each other. But I feel that now everyone will unite again. This always happens when Ukrainians feel an existential threat.",
+      "source_context": "Prominent Ukrainian journalist Kristina Berdynskykh said: \"After three years of full-scale war, Ukrainians are tired, nervous and often quarrel with each other. But I feel that now everyone will unite again. This always happens when Ukrainians feel an existential threat.\""
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US president",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Zelenskyy refuses to hold elections and is therefore illegitimate.",
+      "source_context": "Trump has echoed Kremlin propaganda by claiming Zelenskyy refuses to hold elections and is therefore illegitimate."
+    },
+    {
+      "agent_name": "Ukrainian civil society organisations",
+      "agent_description": "More than 130 Ukrainian civil society organisations",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "Russia's war of aggression made it impossible for Ukraine to hold elections – both for the presidency and parliament.",
+      "source_context": "On Friday more than 130 Ukrainian civil society organisations said Russia's war of aggression made it impossible for Ukraine to hold elections – both for the presidency and parliament."
+    },
+    {
+      "agent_name": "Ukrainian civil society organisations",
+      "agent_description": "More than 130 Ukrainian civil society organisations",
+      "agent_type": "organization",
+      "utterance_type": "partially-direct",
+      "utterance_text": "Government legitimacy is the exclusive prerogative of the Ukrainian people.",
+      "source_context": "In a statement pushing back on Trump's remarks, they said that government legitimacy was \"the exclusive prerogative of the Ukrainian people\"."
+    },
+    {
+      "agent_name": "Ukrainian civil society organisations",
+      "agent_description": "More than 130 Ukrainian civil society organisations",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "There is a consensus among both ruling and opposition political parties, as well as from the general public, that polls could only be held at least six months after a genuine ceasefire.",
+      "source_context": "The NGOs said there was a consensus among both ruling and opposition political parties, as well as from the general public, that polls could only be held at least six months after a genuine ceasefire."
+    },
+    {
+      "agent_name": "Ukrainian civil society organisations",
+      "agent_description": "More than 130 Ukrainian civil society organisations",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "This would give authorities time to prepare the electoral process, and to rebuild damaged infrastructure.",
+      "source_context": "This would give authorities time to prepare the electoral process, and to rebuild damaged infrastructure, they said."
+    }
+  ],
+  "agents_info": {
+    "Keith Kellogg": {
+      "name": "Keith Kellogg",
+      "type_of_agent": "person",
+      "agent_description": "US envoy to Ukraine",
+      "wikidata_info": {
+        "name": "Keith Kellogg",
+        "wikidata_id": "Q27916194",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Dayton",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Republican Party",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "military officer"
+        ],
+        "field_of_work": [
+          "military personnel",
+          "diplomat"
+        ],
+        "position_held": [
+          {
+            "name": "United States National Security Advisor",
+            "start_date": "2017-02-13",
+            "end_date": "2017-02-20",
+            "organization": null
+          }
+        ],
+        "description": "American soldier",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "military officer",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "PublicOfficial",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly identifies Gen Keith Kellogg as the US envoy to Ukraine, confirming both his name and the described role."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Keith Kellogg",
+            "entities_found_count": 2,
+            "found_wikidata_ids": [
+              "Q111176633",
+              "Q27916194"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "Keith Kellogg",
+              "type": "person",
+              "description": "US envoy to Ukraine"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article explicitly mentions \"Keith Kellogg\" and refers to him as \"Gen Keith Kellogg, the US envoy to Ukraine\". This matches the target entity name and description (US envoy to Ukraine).",
+                "statement_detection": "Kellogg is quoted in the article: \"he said he had had 'extensive and positive discussions' with Zelenskyy\" and \"A long and intense day with the senior leadership of Ukraine,\". These are direct statements attributed to him, confirming he is making statements.",
+                "candidate_evaluation": "Candidate Q27916194 is a military officer with a field of work that includes diplomacy, and has held the position of United States National Security Advisor. This aligns with the article’s description of a general serving as the US envoy to Ukraine. Candidate Q111176633 is a Michigan state politician, which does not fit the diplomatic/military context. Therefore Q27916194 is the best match.",
+                "authority_verification": "Q27916194 holds a senior U.S. government position (National Security Advisor) and is a military officer, giving him the authority to act as an envoy and to make statements about Ukraine. The article’s context of him speaking about diplomatic relations supports this authority.",
+                "plausibility_assessment": "It is highly plausible for a U.S. military officer who has served as National Security Advisor to be appointed as the US envoy to Ukraine and to make public statements about Ukrainian leadership. The statements in the article are consistent with the role and responsibilities of such an envoy.",
+                "final_justification": "The target entity is present in the article, is making statements, and the candidate Q27916194 matches the name, occupation, and diplomatic role described. No other candidate fits the context, so Q27916194 is the correct Wikidata ID for both presence and statement attribution."
+              },
+              "answer": "Q27916194"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q27916194",
+              "label": "Keith Kellogg"
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "PublicOfficial",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly identifies Gen Keith Kellogg as the US envoy to Ukraine, confirming both his name and the described role."
+              }
+            },
+            "classification_outcome": {
+              "classification": "PublicOfficial",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly identifies Gen Keith Kellogg as the US envoy to Ukraine, confirming both his name and the described role."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Donald Trump": {
+      "name": "Donald Trump",
+      "type_of_agent": "person",
+      "agent_description": "US president",
+      "wikidata_info": {
+        "name": "Donald Trump",
+        "wikidata_id": "Q22686",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "New York City",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Republican Party",
+            "start_date": "2012-04-00",
+            "end_date": null
+          },
+          {
+            "name": "independent politician",
+            "start_date": "2011-12-00",
+            "end_date": "2012-04-00"
+          },
+          {
+            "name": "Republican Party",
+            "start_date": "2009-09-00",
+            "end_date": "2011-12-00"
+          },
+          {
+            "name": "Democratic Party",
+            "start_date": "2001-08-00",
+            "end_date": "2009-09-00"
+          },
+          {
+            "name": "Reform Party of the United States of America",
+            "start_date": "1999-10-00",
+            "end_date": "2001-08-00"
+          },
+          {
+            "name": "Republican Party",
+            "start_date": "1987-07-00",
+            "end_date": "1999-10-00"
+          }
+        ],
+        "religion": [
+          "Presbyterianism",
+          "nondenominational Christianity"
+        ],
+        "political_ideology": [
+          "conservatism",
+          "social conservatism",
+          "American patriotism",
+          "anti-gender movement",
+          "opposition to immigration",
+          "right-wing populism",
+          "right-wing antiglobalism",
+          "isolationism",
+          "Trumpism",
+          "fascism"
+        ],
+        "occupation": [
+          "business magnate",
+          "investor",
+          "politician",
+          "game show host",
+          "real estate entrepreneur",
+          "television producer",
+          "film producer",
+          "writer",
+          "actor",
+          "chief executive officer",
+          "merchant",
+          "businessperson",
+          "entrepreneur"
+        ],
+        "field_of_work": [
+          "media personality",
+          "politics",
+          "commerce"
+        ],
+        "position_held": [
+          {
+            "name": "President of the United States",
+            "start_date": "2025-01-20",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": "1971-00-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "director",
+            "start_date": null,
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "President-elect of the United States",
+            "start_date": "2024-11-06",
+            "end_date": "2025-01-20",
+            "organization": null
+          },
+          {
+            "name": "President of the United States",
+            "start_date": "2017-01-20",
+            "end_date": "2021-01-20",
+            "organization": null
+          },
+          {
+            "name": "President-elect of the United States",
+            "start_date": "2016-11-09",
+            "end_date": "2017-01-20",
+            "organization": null
+          },
+          {
+            "name": "president",
+            "start_date": "1971-00-00",
+            "end_date": "2017-00-00",
+            "organization": null
+          }
+        ],
+        "description": "President of the United States (2017–2021, 2025–present)",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "business magnate",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "investor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "game show host",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "real estate entrepreneur",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "television producer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "film producer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "writer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "actor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "merchant",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "businessperson",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "entrepreneur",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions Donald Trump as the US president and quotes him, confirming both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Donald Trump",
+            "entities_found_count": 4,
+            "found_wikidata_ids": [
+              "Q22686",
+              "Q3713655",
+              "Q27947481",
+              "Q23000825"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "Donald Trump",
+              "type": "person",
+              "description": "US president"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article explicitly mentions \"Donald Trump\" multiple times and identifies him as the \"US president\". The reference is unambiguous and matches the target entity’s name and description.",
+                "statement_detection": "Several direct quotes are attributed to Trump: \"I don't think he's very important to be in meetings,\" Trump told Fox News, and earlier statements such as claiming Ukraine was to blame for the war and calling Zelenskyy a \"dictator\". These are clear instances of the entity making statements.",
+                "candidate_evaluation": "Candidate Q22686 (Donald Trump) matches the name, description, and current position of US president. The other candidates (Q27947481, Q3713655, Q23000825) are either a physician or relatives and do not fit the context of a US president. Thus Q22686 is the sole viable match.",
+                "authority_verification": "Q22686 holds the office of President of the United States (2025‑present per data), giving him the authority to make public statements about foreign policy and Ukraine.",
+                "plausibility_assessment": "The statements attributed to Trump are consistent with the role of a national leader addressing international affairs. The content (criticizing Ukraine, referencing negotiations) aligns with typical presidential commentary, making the attribution plausible.",
+                "final_justification": "All evidence confirms that the target entity is present, is making statements, and the best matching Wikidata candidate is Q22686. No other candidate satisfies the description or context."
+              },
+              "answer": "Q22686"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q22686",
+              "label": "Donald Trump"
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions Donald Trump as the US president and quotes him, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions Donald Trump as the US president and quotes him, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Elon Musk": {
+      "name": "Elon Musk",
+      "type_of_agent": "person",
+      "agent_description": "The world's richest man, leading Trump's governmental overhaul",
+      "wikidata_info": {
+        "name": "Elon Musk",
+        "wikidata_id": "Q317521",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Pretoria",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "America Party",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [
+          "theism"
+        ],
+        "political_ideology": [],
+        "occupation": [
+          "programmer",
+          "engineer",
+          "entrepreneur",
+          "investor",
+          "politician",
+          "civil servant",
+          "technology entrepreneur",
+          "inventor",
+          "dub actor"
+        ],
+        "field_of_work": [
+          "tech entrepreneurship",
+          "entrepreneurship",
+          "public finance"
+        ],
+        "position_held": [
+          {
+            "name": "co-president",
+            "start_date": "2016-07-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": "2008-10-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": "2002-00-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Senior Advisor to the President of the United States",
+            "start_date": "2025-01-20",
+            "end_date": "2025-05-30",
+            "organization": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": "2022-10-28",
+            "end_date": "2023-06-05",
+            "organization": null
+          },
+          {
+            "name": "chairperson",
+            "start_date": "2008-00-00",
+            "end_date": "2018-11-00",
+            "organization": null
+          }
+        ],
+        "description": "businessman and entrepreneur (born 1971)",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "programmer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "engineer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "entrepreneur",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "investor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "civil servant",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "technology entrepreneur",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "inventor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "dub actor",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "BusinessRepresentative",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Elon Musk as the world’s richest man leading Trump’s governmental overhaul and quotes him, confirming both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Elon Musk",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q317521"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Elon Musk",
+              "type": "person",
+              "description": "The world's richest man, leading Trump's governmental overhaul"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q317521",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Elon Musk\\\" and describes him as \\\"the world's richest man\\\" who is \\\"leading Trump's huge governmental overhaul\\\". The name matches the Wikidata entity name. The description in the article aligns with the Wikidata description of Musk as a prominent entrepreneur and public figure, and the phrase \\\"world's richest man\\\" is a widely recognized attribute of Musk. No other individual named Elon Musk is mentioned, and the contextual clues (wealth, public statements) match the Wikidata profile. Therefore, the entity is present and identifiable.\",\n    \"statement_assessment\": \"The article attributes direct statements to Elon Musk: \\\"said Trump was right to leave Zelenskyy out of peace talks\\\" and \\\"accused Ukraine's leader of running a 'massive graft machine'\\\". These are clear attributions of speech to the entity.\",\n    \"plausibility_assessment\": \"While it is plausible for Elon Musk to make public statements about international politics, the claim that he is \\\"leading Trump's huge governmental overhaul\\\" is inconsistent with his known roles (entrepreneur, investor, not a political office holder). Thus, the specific claim about leading the overhaul is implausible, but the quoted statements themselves are plausible for a high-profile public figure.\",\n    \"contradiction_analysis\": \"The article's assertion that Musk is leading Trump's governmental overhaul contradicts the Wikidata profile, which lists no political or civil servant positions for him. This is a factual inconsistency, but it does not affect the identity match.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Elon Musk\" and describes him as \"the world's richest man\" who is \"leading Trump's huge governmental overhaul\". The name matches the Wikidata entity name. The description in the article aligns with the Wikidata description of Musk as a prominent entrepreneur and public figure, and the phrase \"world's richest man\" is a widely recognized attribute of Musk. No other individual named Elon Musk is mentioned, and the contextual clues (wealth, public statements) match the Wikidata profile. Therefore, the entity is present and identifiable.",
+                "statement_assessment": "The article attributes direct statements to Elon Musk: \"said Trump was right to leave Zelenskyy out of peace talks\" and \"accused Ukraine's leader of running a 'massive graft machine'\". These are clear attributions of speech to the entity.",
+                "plausibility_assessment": "While it is plausible for Elon Musk to make public statements about international politics, the claim that he is \"leading Trump's huge governmental overhaul\" is inconsistent with his known roles (entrepreneur, investor, not a political office holder). Thus, the specific claim about leading the overhaul is implausible, but the quoted statements themselves are plausible for a high-profile public figure.",
+                "contradiction_analysis": "The article's assertion that Musk is leading Trump's governmental overhaul contradicts the Wikidata profile, which lists no political or civil servant positions for him. This is a factual inconsistency, but it does not affect the identity match.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q317521",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "BusinessRepresentative",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Elon Musk as the world’s richest man leading Trump’s governmental overhaul and quotes him, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "BusinessRepresentative",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Elon Musk as the world’s richest man leading Trump’s governmental overhaul and quotes him, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Volodymyr Zelenskyy": {
+      "name": "Volodymyr Zelenskyy",
+      "type_of_agent": "person",
+      "agent_description": "Ukrainian president",
+      "wikidata_info": {
+        "name": "Volodymyr Zelenskyy",
+        "wikidata_id": "Q3874799",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Kryvyi Rih",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Servant of the People",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "politician",
+          "comedian",
+          "presenter",
+          "film producer",
+          "screenwriter",
+          "actor",
+          "television producer",
+          "television presenter",
+          "entertainer",
+          "singer",
+          "humorist",
+          "filmmaker",
+          "showman",
+          "KVN actor",
+          "impressionist",
+          "President of the Republic"
+        ],
+        "field_of_work": [
+          "acting",
+          "parody",
+          "show business",
+          "politics",
+          "presidency of Volodymyr Zelenskyy",
+          "jurist",
+          "screenwriter",
+          "television presenter",
+          "film producer",
+          "television producer",
+          "singer",
+          "impressionist",
+          "humorist",
+          "showman",
+          "politician",
+          "film director"
+        ],
+        "position_held": [
+          {
+            "name": "President of Ukraine",
+            "start_date": "2019-05-20",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Supreme Commander of the Armed Forces of Ukraine",
+            "start_date": "2019-05-20",
+            "end_date": null,
+            "organization": null
+          }
+        ],
+        "description": "President of Ukraine since 2019",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "comedian",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "presenter",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "film producer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "screenwriter",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "actor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "television producer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "television presenter",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "entertainer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "singer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "humorist",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "filmmaker",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "showman",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "KVN actor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "impressionist",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "President of the Republic",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions Volodymyr Zelenskyy as the Ukrainian president, confirming both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Volodymyr Zelenskyy",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q3874799"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Volodymyr Zelenskyy",
+              "type": "person",
+              "description": "Ukrainian president"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q3874799",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article repeatedly mentions \\\"Zelenskyy\\\" and refers to him as the Ukrainian president, matching the Wikidata description \\\"President of Ukraine since 2019\\\". The name appears as \\\"Voldymyr Zelenskyy\\\" in one instance, which is a common transliteration variant but clearly refers to the same individual. Contextual clues—his role as president, references to his national security team, and his involvement in negotiations—align with the Wikidata profile (politician, president, Supreme Commander). No conflicting information about a different person with the same name is present.\",\n    \"statement_assessment\": \"Zelenskyy is explicitly quoted and attributed with statements: \\\"Zelenskyy prompted Trump's ire by observing that the US president lived in a Kremlin 'disinformation bubble'\\\", \\\"Late last year, Zelenskyy floated the idea of a partnership with the US\\\", and \\\"Zelenskyy declined to sign the document without US security guarantees\\\". These are clear attributions of speech to the individual.\",\n    \"plausibility_assessment\": \"All statements are consistent with Zelenskyy's role as president and his public engagement in diplomatic and political matters. The content (criticizing the US president, proposing partnerships, refusing agreements without guarantees) is entirely plausible for a head of state.\",\n    \"contradiction_analysis\": \"No contradictions were found between the article's depiction of Zelenskyy and the Wikidata entity. The only discrepancy is a minor spelling variation, which does not affect identity.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article repeatedly mentions \"Zelenskyy\" and refers to him as the Ukrainian president, matching the Wikidata description \"President of Ukraine since 2019\". The name appears as \"Voldymyr Zelenskyy\" in one instance, which is a common transliteration variant but clearly refers to the same individual. Contextual clues—his role as president, references to his national security team, and his involvement in negotiations—align with the Wikidata profile (politician, president, Supreme Commander). No conflicting information about a different person with the same name is present.",
+                "statement_assessment": "Zelenskyy is explicitly quoted and attributed with statements: \"Zelenskyy prompted Trump's ire by observing that the US president lived in a Kremlin 'disinformation bubble'\", \"Late last year, Zelenskyy floated the idea of a partnership with the US\", and \"Zelenskyy declined to sign the document without US security guarantees\". These are clear attributions of speech to the individual.",
+                "plausibility_assessment": "All statements are consistent with Zelenskyy's role as president and his public engagement in diplomatic and political matters. The content (criticizing the US president, proposing partnerships, refusing agreements without guarantees) is entirely plausible for a head of state.",
+                "contradiction_analysis": "No contradictions were found between the article's depiction of Zelenskyy and the Wikidata entity. The only discrepancy is a minor spelling variation, which does not affect identity.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q3874799",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions Volodymyr Zelenskyy as the Ukrainian president, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions Volodymyr Zelenskyy as the Ukrainian president, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Scott Bessent": {
+      "name": "Scott Bessent",
+      "type_of_agent": "person",
+      "agent_description": "US treasury secretary",
+      "wikidata_info": {
+        "name": "Scott Bessent",
+        "wikidata_id": "Q7435987",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Conway",
+        "gender": "male",
+        "political_party": [],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "businessperson",
+          "philanthropist"
+        ],
+        "field_of_work": [],
+        "position_held": [
+          {
+            "name": "United States Secretary of the Treasury",
+            "start_date": "2025-01-28",
+            "end_date": null,
+            "organization": null
+          }
+        ],
+        "description": "U.S. secretary of the treasury since 2025",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "businessperson",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "philanthropist",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "PublicOfficial",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Scott Bessent and identifies him as the US Treasury Secretary, confirming both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Scott Bessent",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q7435987"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Scott Bessent",
+              "type": "person",
+              "description": "US treasury secretary"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q7435987",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly mentions \\\"the US treasury secretary, Scott Bessent\\\" in the context of a proposed agreement with Ukraine. This matches the Wikidata entity’s name, title (United States Secretary of the Treasury), and description (U.S. secretary of the treasury since 2025). No conflicting information about the individual’s role or identity is present, confirming a strong identity match.\",\n    \"statement_assessment\": \"No direct quotes, reported speech, or explicit statements attributed to Scott Bessent are found in the article. The text only describes an action he took (asking Zelenskyy to sign an agreement), which is not a statement or declaration.\",\n    \"plausibility_assessment\": \"N/A – there are no statements to evaluate for plausibility.\",\n    \"contradiction_analysis\": \"No contradictions between the article’s depiction of Scott Bessent and the Wikidata profile.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly mentions \"the US treasury secretary, Scott Bessent\" in the context of a proposed agreement with Ukraine. This matches the Wikidata entity’s name, title (United States Secretary of the Treasury), and description (U.S. secretary of the treasury since 2025). No conflicting information about the individual’s role or identity is present, confirming a strong identity match.",
+                "statement_assessment": "No direct quotes, reported speech, or explicit statements attributed to Scott Bessent are found in the article. The text only describes an action he took (asking Zelenskyy to sign an agreement), which is not a statement or declaration.",
+                "plausibility_assessment": "N/A – there are no statements to evaluate for plausibility.",
+                "contradiction_analysis": "No contradictions between the article’s depiction of Scott Bessent and the Wikidata profile.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q7435987",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "PublicOfficial",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Scott Bessent and identifies him as the US Treasury Secretary, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "PublicOfficial",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Scott Bessent and identifies him as the US Treasury Secretary, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Kyiv source": {
+      "name": "Kyiv source",
+      "type_of_agent": "person",
+      "agent_description": "Unnamed source in Kyiv",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "AnonymousSource",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly cites an unnamed source in Kyiv, matching the description of an unnamed source in Kyiv."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Kyiv source",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Skipped",
+          "details": {
+            "reason": "No suitable NER entity found matching agent type."
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "AnonymousSource",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly cites an unnamed source in Kyiv, matching the description of an unnamed source in Kyiv."
+              }
+            },
+            "classification_outcome": {
+              "classification": "AnonymousSource",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly cites an unnamed source in Kyiv, matching the description of an unnamed source in Kyiv."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Mike Waltz": {
+      "name": "Mike Waltz",
+      "type_of_agent": "person",
+      "agent_description": "White House national security adviser",
+      "wikidata_info": {
+        "name": "Mike Waltz",
+        "wikidata_id": "Q55386653",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Boynton Beach",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Republican Party",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [],
+        "political_ideology": [
+          "Trumpism"
+        ],
+        "occupation": [
+          "businessperson",
+          "military officer",
+          "politician",
+          "civil servant"
+        ],
+        "field_of_work": [],
+        "position_held": [
+          {
+            "name": "United States Ambassador to the United Nations",
+            "start_date": "2025-09-21",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "United States National Security Advisor",
+            "start_date": "2025-01-20",
+            "end_date": "2025-05-01",
+            "organization": null
+          },
+          {
+            "name": "member of the United States House of Representatives",
+            "start_date": "2025-01-03",
+            "end_date": "2025-01-20",
+            "organization": null
+          },
+          {
+            "name": "member of the United States House of Representatives",
+            "start_date": "2023-01-03",
+            "end_date": "2025-01-03",
+            "organization": null
+          },
+          {
+            "name": "member of the United States House of Representatives",
+            "start_date": "2021-01-03",
+            "end_date": "2023-01-03",
+            "organization": null
+          },
+          {
+            "name": "member of the United States House of Representatives",
+            "start_date": "2019-01-03",
+            "end_date": "2021-01-03",
+            "organization": null
+          }
+        ],
+        "description": "U.S. Ambassador to the United Nations since 2025",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "businessperson",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "military officer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "civil servant",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "PublicOfficial",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly quotes Mike Waltz as the White House national security adviser, confirming both his name and his role."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Mike Waltz",
+            "entities_found_count": 2,
+            "found_wikidata_ids": [
+              "Q55386653",
+              "Q95813934"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "Mike Waltz",
+              "type": "person",
+              "description": "White House national security adviser"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article explicitly names \"Mike Waltz\" as the White House national security adviser: \"On Friday, the White House national security adviser, Mike Waltz , said he expected the Ukrainian government ...\". This matches the target entity’s name and description.",
+                "statement_detection": "The sentence contains a direct attribution: \"said he expected the Ukrainian government ...\". Thus, the entity is making a statement in the article.",
+                "candidate_evaluation": "Candidate Q55386653 is a person named Mike Waltz who held the position of United States National Security Advisor (2025‑01‑20 to 2025‑05‑01). This aligns perfectly with the article’s reference to a White House national security adviser named Mike Waltz. The other candidate (Q95813934) is an actor named Mike Waltze and does not match the description or context.",
+                "authority_verification": "Q55386653 held the official role of National Security Advisor, giving him the authority to comment on U.S. foreign policy and Ukraine negotiations. The statement in the article is consistent with the responsibilities of that office.",
+                "plausibility_assessment": "It is highly plausible for the White House national security adviser to publicly comment on Ukraine’s potential deal with the U.S., especially in a news context. The attribution is straightforward and unambiguous.",
+                "final_justification": "The article contains a clear mention of Mike Waltz as the White House national security adviser who made a statement. Candidate Q55386653 matches the name, title, and description exactly, and the statement attribution is credible. Therefore, Q55386653 is the correct Wikidata ID for both presence and statement attribution."
+              },
+              "answer": "Q55386653"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q55386653",
+              "label": "Mike Waltz"
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "PublicOfficial",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly quotes Mike Waltz as the White House national security adviser, confirming both his name and his role."
+              }
+            },
+            "classification_outcome": {
+              "classification": "PublicOfficial",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly quotes Mike Waltz as the White House national security adviser, confirming both his name and his role."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Emmanuel Macron": {
+      "name": "Emmanuel Macron",
+      "type_of_agent": "person",
+      "agent_description": "France's president",
+      "wikidata_info": {
+        "name": "Emmanuel Macron",
+        "wikidata_id": "Q3052772",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Amiens",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Renaissance",
+            "start_date": "2016-04-00",
+            "end_date": null
+          },
+          {
+            "name": "independent politician",
+            "start_date": "2009-00-00",
+            "end_date": "2016-00-00"
+          },
+          {
+            "name": "Socialist Party",
+            "start_date": "2006-00-00",
+            "end_date": "2009-00-00"
+          }
+        ],
+        "religion": [
+          "Agnosticism",
+          "Catholic Church"
+        ],
+        "political_ideology": [],
+        "occupation": [
+          "investment banker",
+          "statesperson",
+          "official",
+          "politician",
+          "banker"
+        ],
+        "field_of_work": [
+          "politics"
+        ],
+        "position_held": [
+          {
+            "name": "President of the French Republic",
+            "start_date": "2017-05-14",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "French co-prince of Andorra",
+            "start_date": "2017-05-14",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "chairperson",
+            "start_date": "2016-04-06",
+            "end_date": "2017-05-08",
+            "organization": null
+          },
+          {
+            "name": "Minister of Economy, Industry and Digital",
+            "start_date": "2014-08-26",
+            "end_date": "2016-08-30",
+            "organization": null
+          },
+          {
+            "name": "Assistant Secretary General of the Presidency of the French Republic",
+            "start_date": "2012-05-15",
+            "end_date": "2014-07-15",
+            "organization": null
+          }
+        ],
+        "description": "president of France and Co-Prince of Andorra since 2017",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "investment banker",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "statesperson",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "official",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "banker",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Emmanuel Macron as France's president and quotes him, confirming both the name and description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Emmanuel Macron",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q3052772"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Emmanuel Macron",
+              "type": "person",
+              "description": "France's president"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q3052772",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly mentions \\\"France's president, Emmanuel Macron\\\" and notes that he will visit Washington next week. This matches the Wikidata entity’s name, title (President of France), and description. No other individual named Emmanuel Macron is referenced, and the contextual details (role as French president, upcoming visit to Washington) align perfectly with the Wikidata profile.\",\n    \"statement_assessment\": \"Macron is directly quoted: \\\"You can't be weak with [Vladimir] Putin.\\\" The article attributes this statement to him in an address to France, indicating he is making a declarative statement.\",\n    \"plausibility_assessment\": \"It is highly plausible for the President of France to comment on U.S. foreign policy and to address President Trump in this manner, given his role and the diplomatic context described.\",\n    \"contradiction_analysis\": \"No contradictions are found between the article’s depiction of Macron and the Wikidata entity’s information.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly mentions \"France's president, Emmanuel Macron\" and notes that he will visit Washington next week. This matches the Wikidata entity’s name, title (President of France), and description. No other individual named Emmanuel Macron is referenced, and the contextual details (role as French president, upcoming visit to Washington) align perfectly with the Wikidata profile.",
+                "statement_assessment": "Macron is directly quoted: \"You can't be weak with [Vladimir] Putin.\" The article attributes this statement to him in an address to France, indicating he is making a declarative statement.",
+                "plausibility_assessment": "It is highly plausible for the President of France to comment on U.S. foreign policy and to address President Trump in this manner, given his role and the diplomatic context described.",
+                "contradiction_analysis": "No contradictions are found between the article’s depiction of Macron and the Wikidata entity’s information.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q3052772",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Emmanuel Macron as France's president and quotes him, confirming both the name and description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Emmanuel Macron as France's president and quotes him, confirming both the name and description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Andrzej Duda": {
+      "name": "Andrzej Duda",
+      "type_of_agent": "person",
+      "agent_description": "Poland's conservative president",
+      "wikidata_info": {
+        "name": "Andrzej Duda",
+        "wikidata_id": "Q9151911",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Kraków",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "independent politician",
+            "start_date": "2015-00-00",
+            "end_date": null
+          },
+          {
+            "name": "Law and Justice",
+            "start_date": "2005-00-00",
+            "end_date": "2015-00-00"
+          },
+          {
+            "name": "independent politician",
+            "start_date": "2001-00-00",
+            "end_date": "2005-00-00"
+          },
+          {
+            "name": "Freedom Union",
+            "start_date": "2000-00-00",
+            "end_date": "2001-00-00"
+          }
+        ],
+        "religion": [
+          "Catholicism"
+        ],
+        "political_ideology": [
+          "national conservatism"
+        ],
+        "occupation": [
+          "politician",
+          "jurist",
+          "university teacher",
+          "lawyer"
+        ],
+        "field_of_work": [
+          "politics",
+          "administrative law"
+        ],
+        "position_held": [
+          {
+            "name": "President of the Republic of Poland",
+            "start_date": "2015-08-06",
+            "end_date": "2025-08-06",
+            "organization": null
+          },
+          {
+            "name": "Member of the European Parliament",
+            "start_date": "2014-07-01",
+            "end_date": "2015-05-25",
+            "organization": null
+          },
+          {
+            "name": "member of the Sejm",
+            "start_date": "2011-11-08",
+            "end_date": "2014-05-27",
+            "organization": null
+          },
+          {
+            "name": "Undersecretary of State",
+            "start_date": "2008-00-00",
+            "end_date": "2010-00-00",
+            "organization": null
+          },
+          {
+            "name": "Undersecretary of State",
+            "start_date": "2006-00-00",
+            "end_date": "2007-00-00",
+            "organization": null
+          }
+        ],
+        "description": "politician and lawyer, president of Poland from 2015 to 2025",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "jurist",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "university teacher",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "lawyer",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly identifies Andrzej Duda as Poland's conservative president and quotes him, confirming both name and description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Andrzej Duda",
+            "entities_found_count": 5,
+            "found_wikidata_ids": [
+              "Q9151911",
+              "Q28354405",
+              "Q102306489",
+              "Q125226297",
+              "Q125226314"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "Andrzej Duda",
+              "type": "person",
+              "description": "Poland's conservative president"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article explicitly mentions \"Poland's conservative president, Andrzej Duda, who is due to meet Trump in Washington on Saturday, said Zelenskyy should stay calm and cooperate.\" This confirms the target entity is present and identified as Poland's conservative president.",
+                "statement_detection": "The sentence contains a direct attribution: \"said Zelenskyy should stay calm and cooperate,\" indicating Andrzej Duda is making a statement in the article.",
+                "candidate_evaluation": "Candidate Q9151911 is a Polish politician who served as President of the Republic of Poland from 2015 to 2025, matching the description \"Poland's conservative president.\" The other candidates are a chemist, a professor, a screenwriter, and a computer scientist, none of which align with the political role or description. Therefore Q9151911 is the sole plausible match.",
+                "authority_verification": "Q9151911 holds the official position of President of Poland, giving him full authority to make public statements about foreign leaders and diplomatic matters, which aligns with the statement attributed to him.",
+                "plausibility_assessment": "It is highly plausible for the sitting President of Poland to comment on Ukraine's leadership and to be scheduled to meet the U.S. President, as described in the article.",
+                "final_justification": "The entity is present, making a statement, and the best matching Wikidata candidate is Q9151911, which satisfies all identification and authority criteria."
+              },
+              "answer": "Q9151911"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q9151911",
+              "label": "Andrzej Duda"
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly identifies Andrzej Duda as Poland's conservative president and quotes him, confirming both name and description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly identifies Andrzej Duda as Poland's conservative president and quotes him, confirming both name and description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Kristina Berdynskykh": {
+      "name": "Kristina Berdynskykh",
+      "type_of_agent": "person",
+      "agent_description": "Prominent Ukrainian journalist",
+      "wikidata_info": {
+        "name": "Kristina Berdynskykh",
+        "wikidata_id": "Q115650369",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Kherson",
+        "gender": "female",
+        "political_party": [],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "political reporter"
+        ],
+        "field_of_work": [],
+        "position_held": [],
+        "description": "Ukrainian political journalist",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "political reporter",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Journalist",
+        "confidence": "HIGH",
+        "explanation": "The article quotes Kristina Berdynskykh and identifies her as a prominent Ukrainian journalist, matching both the name and description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Kristina Berdynskykh",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q115650369"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Kristina Berdynskykh",
+              "type": "person",
+              "description": "Prominent Ukrainian journalist"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q115650369",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Kristina Berdynskykh\\\" and identifies her as a \\\"Prominent Ukrainian journalist\\\". This matches the Wikidata description and occupation (political reporter). No other individual with a similar name is mentioned, and the contextual details (Ukrainian journalist, political reporting) align perfectly with the Wikidata profile. Therefore, the entity is present and correctly identified.\",\n    \"statement_assessment\": \"Kristina Berdynskykh is quoted directly: \\\"After three years of full‑scale war, Ukrainians are tired, nervous and often quarrel with each other. But I feel that now everyone will unite again. This always happens when Ukrainians feel an existential threat.\\\" The quotation confirms she is making a statement.\",\n    \"plausibility_assessment\": \"It is highly plausible for a prominent Ukrainian journalist to comment on the emotional state of Ukrainians during the war. The content of the statement is consistent with the role of a political reporter covering Ukraine.\",\n    \"contradiction_analysis\": \"No contradictions were found between the article's depiction of Kristina Berdynskykh and the Wikidata entity. The name, occupation, and national context all match.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Kristina Berdynskykh\" and identifies her as a \"Prominent Ukrainian journalist\". This matches the Wikidata description and occupation (political reporter). No other individual with a similar name is mentioned, and the contextual details (Ukrainian journalist, political reporting) align perfectly with the Wikidata profile. Therefore, the entity is present and correctly identified.",
+                "statement_assessment": "Kristina Berdynskykh is quoted directly: \"After three years of full‑scale war, Ukrainians are tired, nervous and often quarrel with each other. But I feel that now everyone will unite again. This always happens when Ukrainians feel an existential threat.\" The quotation confirms she is making a statement.",
+                "plausibility_assessment": "It is highly plausible for a prominent Ukrainian journalist to comment on the emotional state of Ukrainians during the war. The content of the statement is consistent with the role of a political reporter covering Ukraine.",
+                "contradiction_analysis": "No contradictions were found between the article's depiction of Kristina Berdynskykh and the Wikidata entity. The name, occupation, and national context all match.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q115650369",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Journalist",
+                "confidence": "HIGH",
+                "explanation": "The article quotes Kristina Berdynskykh and identifies her as a prominent Ukrainian journalist, matching both the name and description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Journalist",
+              "confidence": "HIGH",
+              "explanation": "The article quotes Kristina Berdynskykh and identifies her as a prominent Ukrainian journalist, matching both the name and description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Ukrainian civil society organisations": {
+      "name": "Ukrainian civil society organisations",
+      "type_of_agent": "organization",
+      "agent_description": "More than 130 Ukrainian civil society organisations",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "NGO",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions more than 130 Ukrainian civil society organisations, which are NGOs, and confirms their collective statement, matching the description."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Ukrainian civil society organisations",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Skipped",
+          "details": {
+            "reason": "No suitable NER entity found matching agent type."
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "organization_type": {
+                "classification": "NGO",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions more than 130 Ukrainian civil society organisations, which are NGOs, and confirms their collective statement, matching the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "NGO",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions more than 130 Ukrainian civil society organisations, which are NGOs, and confirms their collective statement, matching the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:17:38.738144",
+  "status": "success"
+}

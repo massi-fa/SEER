@@ -1,0 +1,377 @@
+{
+  "article_id": "5836016523_uk_immigration",
+  "title": "Migrants who claim to be children will face age tests after 41-year-old claimed to be boy",
+  "body": "Age tests for migrants who claim to be children will start this year\n\nMigrants will soon be subject to age tests, the Government has announced, after a 41-year-old man posed as a child to claim asylum in the UK. Immigration minister Robert Jenrick has told MPs that officials will carry out medical assessments when people arrive in the country. X-Rays and MRI scans are reportedly among the methods being considered to foil false age claims, which would land people preferential treatment in the eyes of the law. Speaking in the House of Commons, Mr Jenrick said the new measures would be introduced \"over the course of this year\" as he condemned people who \"abuse the system\". He also addressed the recent case of a man who was nearly 30 years older than he claimed.\n\nThe minister said that immigration officials recently discovered a man who claimed to be a child was, in fact, 41. The man was the \"oldest individual we've encountered\" posing as a youngster after arriving in the country, he added. Lone children arriving in the UK to claim asylum receive immediate access to assistance, support and protection from authorities, and they are taken to specialised centres. Asylum-seeking adults, on the other hand, often spend months being processed as they wait for their asylum applications to be approved.\n\nREAD MORE: Thousands of migrants to avoid deportation to Rwanda after major climbdown\n\nRobert Jenrick said the Home Office is working on new age assessments\n\nThe difference in treatment can lead to cases of migrant adults attempting to pass as children, as Mr Jenrick said, with age assessments often deemed imprecise. At present, methods include skeletal and teeth examination and assessment of physical appearance. In the coming year, the Home Office may complement these with X-rays of wisdom teeth, hands and wrists, and MRI scans of knees and collar bones. But in January 2023, the Government's own scientific advisory committee warned these plans would put children at risk of radiation, cause distress and that they would not clarify age \"with precision\".\n\nSUBSCRIBE Invalid email We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info\n\nMigrant children are taken to specialised centres\n\nThe minister said the Home Office takes age assessment \"extremely seriously\", and added that those who take advantage of the system can place \"genuine children\" in danger. He said: \"It's important that we weed out those cases of abuse because it poses such a risk.\" He briefly touched on a case in which a man posing as a child murdered an aspiring Royal Marine. He said: \"I'm afraid we've seen some very tragic instances such as the murder that occurred in Bournemouth at the behest of somebody who had posed as a child.\"\n\nTrending",
+  "date": "2023-07-12 09:47:54+00:00",
+  "source_link": "https://www.express.co.uk/news/politics/1790123/migrant-age-tests-man-claimed-to-be-boy",
+  "source_info": {
+    "name": "The Daily Express",
+    "domain": "express.co.uk",
+    "description": null,
+    "home_page_url": "https://www.express.co.uk/",
+    "locations": [
+      {
+        "city": "",
+        "country": "GB",
+        "state": ""
+      },
+      {
+        "city": "",
+        "country": "GB",
+        "state": ""
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Government",
+      "agent_description": "the Government",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "Migrants will soon be subject to age tests.",
+      "source_context": "Migrants will soon be subject to age tests, the Government has announced, after a 41-year-old man posed as a child to claim asylum in the UK."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "Immigration minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Officials will carry out medical assessments when people arrive in the country.",
+      "source_context": "Immigration minister Robert Jenrick has told MPs that officials will carry out medical assessments when people arrive in the country."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "Immigration minister",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "The new measures will be introduced over the course of this year.",
+      "source_context": "Speaking in the House of Commons, Mr Jenrick said the new measures would be introduced \"over the course of this year\" as he condemned people who \"abuse the system\"."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "Immigration minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I condemn people who abuse the system.",
+      "source_context": "Speaking in the House of Commons, Mr Jenrick said the new measures would be introduced \"over the course of this year\" as he condemned people who \"abuse the system\"."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "Immigration minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Immigration officials recently discovered a man who claimed to be a child was, in fact, 41.",
+      "source_context": "The minister said that immigration officials recently discovered a man who claimed to be a child was, in fact, 41."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "Immigration minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "The man was the oldest individual we've encountered posing as a youngster after arriving in the country.",
+      "source_context": "The man was the \"oldest individual we've encountered\" posing as a youngster after arriving in the country, he added."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "Immigration minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "The Home Office is working on new age assessments.",
+      "source_context": "Robert Jenrick said the Home Office is working on new age assessments"
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "Immigration minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "The Home Office takes age assessment extremely seriously.",
+      "source_context": "The minister said the Home Office takes age assessment \"extremely seriously\", and added that those who take advantage of the system can place \"genuine children\" in danger."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "Immigration minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Those who take advantage of the system can place genuine children in danger.",
+      "source_context": "The minister said the Home Office takes age assessment \"extremely seriously\", and added that those who take advantage of the system can place \"genuine children\" in danger."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "Immigration minister",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "It's important that we weed out those cases of abuse because it poses such a risk.",
+      "source_context": "He said: \"It's important that we weed out those cases of abuse because it poses such a risk.\""
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "Immigration minister",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I'm afraid we've seen some very tragic instances such as the murder that occurred in Bournemouth at the behest of somebody who had posed as a child.",
+      "source_context": "He said: \"I'm afraid we've seen some very tragic instances such as the murder that occurred in Bournemouth at the behest of somebody who had posed as a child.\""
+    }
+  ],
+  "agents_info": {
+    "Government": {
+      "name": "Government",
+      "type_of_agent": "organization",
+      "agent_description": "the Government",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "GovernmentOrganization",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly states that the Government has announced age tests for migrants, directly linking the organization name and its governmental role."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Government",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Skipped",
+          "details": {
+            "reason": "No suitable NER entity found matching agent type."
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "organization_type": {
+                "classification": "GovernmentOrganization",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly states that the Government has announced age tests for migrants, directly linking the organization name and its governmental role."
+              }
+            },
+            "classification_outcome": {
+              "classification": "GovernmentOrganization",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly states that the Government has announced age tests for migrants, directly linking the organization name and its governmental role."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Robert Jenrick": {
+      "name": "Robert Jenrick",
+      "type_of_agent": "person",
+      "agent_description": "Immigration minister",
+      "wikidata_info": {
+        "name": "Robert Jenrick",
+        "wikidata_id": "Q17180679",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Wolverhampton",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Reform UK",
+            "start_date": "2026-01-15",
+            "end_date": null
+          },
+          {
+            "name": "Conservative Party",
+            "start_date": null,
+            "end_date": "2026-01-15"
+          }
+        ],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "lawyer",
+          "politician",
+          "businessperson"
+        ],
+        "field_of_work": [],
+        "position_held": [
+          {
+            "name": "member of the 59th Parliament of the United Kingdom",
+            "start_date": "2026-01-15",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Member of the Privy Council of the United Kingdom",
+            "start_date": "2019-00-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "member of the 59th Parliament of the United Kingdom",
+            "start_date": "2026-01-15",
+            "end_date": "2026-01-15",
+            "organization": null
+          },
+          {
+            "name": "Shadow Secretary of State for Justice",
+            "start_date": "2024-11-04",
+            "end_date": "2026-01-15",
+            "organization": null
+          },
+          {
+            "name": "member of the 59th Parliament of the United Kingdom",
+            "start_date": "2024-07-04",
+            "end_date": "2026-01-15",
+            "organization": null
+          },
+          {
+            "name": "member of the 58th Parliament of the United Kingdom",
+            "start_date": "2019-12-12",
+            "end_date": "2024-05-30",
+            "organization": null
+          },
+          {
+            "name": "Minister of State for Immigration",
+            "start_date": "2022-10-25",
+            "end_date": "2023-12-06",
+            "organization": null
+          },
+          {
+            "name": "Minister of State for Health",
+            "start_date": "2022-09-07",
+            "end_date": "2022-10-25",
+            "organization": null
+          },
+          {
+            "name": "Secretary of State for Housing, Communities and Local Government",
+            "start_date": "2019-07-24",
+            "end_date": "2021-09-15",
+            "organization": null
+          },
+          {
+            "name": "member of the 57th Parliament of the United Kingdom",
+            "start_date": "2017-06-08",
+            "end_date": "2019-11-06",
+            "organization": null
+          },
+          {
+            "name": "member of the 56th Parliament of the United Kingdom",
+            "start_date": "2015-05-07",
+            "end_date": "2017-05-03",
+            "organization": null
+          },
+          {
+            "name": "member of the 55th Parliament of the United Kingdom",
+            "start_date": "2014-06-05",
+            "end_date": "2015-03-30",
+            "organization": null
+          }
+        ],
+        "description": "British politician (born 1982)",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "lawyer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "businessperson",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "PublicOfficial",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Robert Jenrick as the Immigration minister and quotes him, confirming both his name and his role as a government official."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Robert Jenrick",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q17180679"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Robert Jenrick",
+              "type": "person",
+              "description": "Immigration minister"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q17180679",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Immigration minister Robert Jenrick\\\" and refers to him speaking in the House of Commons. This matches the Wikidata entity’s name and the fact that he held the position of Minister of State for Immigration (a role that aligns with the title \\\"Immigration minister\\\"). No other individual named Robert Jenrick is mentioned, and the context (UK government, immigration policy) is consistent with the Wikidata profile.\",\n    \"statement_assessment\": \"Robert Jenrick is directly quoted in multiple places: \\\"over the course of this year\\\", \\\"I'm afraid we've seen some very tragic instances…\\\", and other statements attributed to him. The article clearly attributes these statements to him, indicating he is making statements.\",\n    \"plausibility_assessment\": \"It is highly plausible for the UK Minister of State for Immigration to discuss age‑assessment policies and to speak to MPs about such measures. The content aligns with the responsibilities of that office.\",\n    \"contradiction_analysis\": \"No contradictions are found between the article’s description of Jenrick and the Wikidata information. The only potential discrepancy is the end date of his ministerial role (2023‑12‑06) versus the article’s present‑tense usage, but the article could be from a time when he was still serving or the Wikidata end date may be outdated. This does not undermine the identity match.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Immigration minister Robert Jenrick\" and refers to him speaking in the House of Commons. This matches the Wikidata entity’s name and the fact that he held the position of Minister of State for Immigration (a role that aligns with the title \"Immigration minister\"). No other individual named Robert Jenrick is mentioned, and the context (UK government, immigration policy) is consistent with the Wikidata profile.",
+                "statement_assessment": "Robert Jenrick is directly quoted in multiple places: \"over the course of this year\", \"I'm afraid we've seen some very tragic instances…\", and other statements attributed to him. The article clearly attributes these statements to him, indicating he is making statements.",
+                "plausibility_assessment": "It is highly plausible for the UK Minister of State for Immigration to discuss age‑assessment policies and to speak to MPs about such measures. The content aligns with the responsibilities of that office.",
+                "contradiction_analysis": "No contradictions are found between the article’s description of Jenrick and the Wikidata information. The only potential discrepancy is the end date of his ministerial role (2023‑12‑06) versus the article’s present‑tense usage, but the article could be from a time when he was still serving or the Wikidata end date may be outdated. This does not undermine the identity match.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q17180679",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "PublicOfficial",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Robert Jenrick as the Immigration minister and quotes him, confirming both his name and his role as a government official."
+              }
+            },
+            "classification_outcome": {
+              "classification": "PublicOfficial",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Robert Jenrick as the Immigration minister and quotes him, confirming both his name and his role as a government official."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:26:00.593245",
+  "status": "success"
+}

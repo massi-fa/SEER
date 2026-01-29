@@ -1,0 +1,541 @@
+{
+  "article_id": "5885891418_uk_immigration",
+  "title": "New serious crime strategy needed to crack down on...",
+  "body": "The Government needs to replace the current \"outdated\" serious crime strategy to properly tackle smuggling gangs and people traffickers, Labour has said.\n\nThe party said convictions for criminal people smuggling have fallen by 36% since Labour were last in office in 2010 as shadow home secretary Yvette Cooper accused ministers of presiding over a \"failed approach\".\n\nLabour is calling for a new serious and organised crime strategy to replace the current 2018 plan, which the party said was five years out of date.\n\nThe Opposition said the current strategy does not mention \"Channel crossings\" and lacked a clear set of responsibilities for either the National Crime Agency or regional organised crime units to tackle the issue.\n\nThe 2018 document does include a section on \"organised immigration crime\", warning it \"involves the illegal facilitation by organised crime groups of migrants to access or remain illegally in the UK through a variety of methods and routes\".\n\nMinisters' obsession with announcing new headline-grabbing gimmicks, which then fail to deliver, has given gangs of criminals making millions of pounds a licence to operate Yvette Cooper, shadow home secretary\n\nLabour said a new plan is needed amid the rise in small boats crossings over recent years.\n\nYvette Cooper has called for a new serious and organised crime strategy (Victoria Jones/PA)\n\nMore than 14,500 migrants have arrived in the UK so far this year after crossing the Channel, according to Home Office data.\n\nThe party said the successful conviction rate for all forms of illegal entry to England and Wales, and not just Channel crossings, fell by twelve percentage points between 2010 and 2022.\n\nMs Cooper said: \"Criminal smuggling gangs have been allowed to take hold along our border, yet the Conservative government has repeatedly failed to take the action needed against them.\n\n\"Ministers' obsession with announcing new headline-grabbing gimmicks, which then fail to deliver, has given gangs of criminals making millions of pounds a licence to operate.\n\n\"The Conservatives' failed approach has given a free pass to smuggler and trafficking gangs who are undermining our border security and putting lives at risk with small boat crossings.\"\n\nShe said Labour would \"redirect money being spent on the Tories' failing Rwanda scheme to relentlessly target these criminal smuggling gangs\" while also backing a new cross-border police unit.\n\nA Government source said: \"Labour has no plan to stop the boats and even the NCA accept giving them more money won't solve it. Labour's so-called plan is laughable and the British public should see it for what it is – a total distraction.\"",
+  "date": "2023-07-27 21:47:31+00:00",
+  "source_link": "https://www.dailymail.co.uk/wires/pa/article-12346485/New-crime-strategy-needed-crack-smuggling-gangs--Labour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+  "source_info": {
+    "name": "Daily Mail UK",
+    "domain": "dailymail.co.uk",
+    "description": null,
+    "home_page_url": "https://www.dailymail.co.uk/",
+    "locations": [
+      {
+        "city": "",
+        "country": "GB",
+        "state": ""
+      },
+      {
+        "city": null,
+        "country": "GB",
+        "state": null
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "state": "England"
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Labour",
+      "agent_description": "UK political party",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "The Government needs to replace the current outdated serious crime strategy to properly tackle smuggling gangs and people traffickers.",
+      "source_context": "The Government needs to replace the current \"outdated\" serious crime strategy to properly tackle smuggling gangs and people traffickers, Labour has said."
+    },
+    {
+      "agent_name": "Labour",
+      "agent_description": "UK political party",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "Convictions for criminal people smuggling have fallen by 36% since Labour were last in office in 2010.",
+      "source_context": "The party said convictions for criminal people smuggling have fallen by 36% since Labour were last in office in 2010 as shadow home secretary Yvette Cooper accused ministers of presiding over a \"failed approach\"."
+    },
+    {
+      "agent_name": "Yvette Cooper",
+      "agent_description": "Shadow home secretary",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Ministers are presiding over a failed approach.",
+      "source_context": "The party said convictions for criminal people smuggling have fallen by 36% since Labour were last in office in 2010 as shadow home secretary Yvette Cooper accused ministers of presiding over a \"failed approach\"."
+    },
+    {
+      "agent_name": "Labour",
+      "agent_description": "UK political party",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "A new serious and organised crime strategy is needed to replace the current 2018 plan.",
+      "source_context": "Labour is calling for a new serious and organised crime strategy to replace the current 2018 plan, which the party said was five years out of date."
+    },
+    {
+      "agent_name": "Labour",
+      "agent_description": "UK political party",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "The current 2018 plan is five years out of date.",
+      "source_context": "Labour is calling for a new serious and organised crime strategy to replace the current 2018 plan, which the party said was five years out of date."
+    },
+    {
+      "agent_name": "Labour",
+      "agent_description": "UK political party",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "The current strategy does not mention Channel crossings and lacks a clear set of responsibilities for either the National Crime Agency or regional organised crime units to tackle the issue.",
+      "source_context": "The Opposition said the current strategy does not mention \"Channel crossings\" and lacked a clear set of responsibilities for either the National Crime Agency or regional organised crime units to tackle the issue."
+    },
+    {
+      "agent_name": "Labour",
+      "agent_description": "UK political party",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "A new plan is needed amid the rise in small boats crossings over recent years.",
+      "source_context": "Labour said a new plan is needed amid the rise in small boats crossings over recent years."
+    },
+    {
+      "agent_name": "Labour",
+      "agent_description": "UK political party",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "The successful conviction rate for all forms of illegal entry to England and Wales, and not just Channel crossings, fell by twelve percentage points between 2010 and 2022.",
+      "source_context": "The party said the successful conviction rate for all forms of illegal entry to England and Wales, and not just Channel crossings, fell by twelve percentage points between 2010 and 2022."
+    },
+    {
+      "agent_name": "Yvette Cooper",
+      "agent_description": "Shadow home secretary",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Criminal smuggling gangs have been allowed to take hold along our border, yet the Conservative government has repeatedly failed to take the action needed against them.",
+      "source_context": "Ms Cooper said: \"Criminal smuggling gangs have been allowed to take hold along our border, yet the Conservative government has repeatedly failed to take the action needed against them.\""
+    },
+    {
+      "agent_name": "Yvette Cooper",
+      "agent_description": "Shadow home secretary",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Ministers' obsession with announcing new headline-grabbing gimmicks, which then fail to deliver, has given gangs of criminals making millions of pounds a licence to operate.",
+      "source_context": "Ministers' obsession with announcing new headline-grabbing gimmicks, which then fail to deliver, has given gangs of criminals making millions of pounds a licence to operate Yvette Cooper, shadow home secretary"
+    },
+    {
+      "agent_name": "Yvette Cooper",
+      "agent_description": "Shadow home secretary",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "The Conservatives' failed approach has given a free pass to smuggler and trafficking gangs who are undermining our border security and putting lives at risk with small boat crossings.",
+      "source_context": "\"The Conservatives' failed approach has given a free pass to smuggler and trafficking gangs who are undermining our border security and putting lives at risk with small boat crossings.\""
+    },
+    {
+      "agent_name": "Yvette Cooper",
+      "agent_description": "Shadow home secretary",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Labour would redirect money being spent on the Tories' failing Rwanda scheme to relentlessly target these criminal smuggling gangs while also backing a new cross-border police unit.",
+      "source_context": "She said Labour would \"redirect money being spent on the Tories' failing Rwanda scheme to relentlessly target these criminal smuggling gangs\" while also backing a new cross-border police unit."
+    },
+    {
+      "agent_name": "Government source",
+      "agent_description": "Government source",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Labour has no plan to stop the boats and even the NCA accept giving them more money won't solve it.",
+      "source_context": "A Government source said: \"Labour has no plan to stop the boats and even the NCA accept giving them more money won't solve it. Labour's so-called plan is laughable and the British public should see it for what it is – a total distraction.\""
+    },
+    {
+      "agent_name": "Government source",
+      "agent_description": "Government source",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Labour's so-called plan is laughable and the British public should see it for what it is – a total distraction.",
+      "source_context": "A Government source said: \"Labour has no plan to stop the boats and even the NCA accept giving them more money won't solve it. Labour's so-called plan is laughable and the British public should see it for what it is – a total distraction.\""
+    }
+  ],
+  "agents_info": {
+    "Labour": {
+      "name": "Labour",
+      "type_of_agent": "organization",
+      "agent_description": "UK political party",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "PoliticalParty",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions Labour and refers to it as a political party making policy statements, matching the description of a UK political party."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Labour",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q6467369"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Labour",
+              "type": "organization",
+              "description": "UK political party"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q6467369",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article discusses \\\"Labour\\\" as the UK political party (the Labour Party), referring to its shadow home secretary Yvette Cooper and policy positions. The provided Wikidata entity (Q6467369) is described as an academic journal titled \\\"Labour/Le Travail\\\" from Canada, with no political affiliation. The name \\\"Labour\\\" alone is ambiguous, but the key identifying properties (type: periodical, country: Canada, description: academic journal) do not match the context of the article. Therefore the specific Wikidata entity is not present in the article.\",\n    \"statement_assessment\": \"N/A – the entity is not identified.\",\n    \"plausibility_assessment\": \"N/A – no statements to assess.\",\n    \"contradiction_analysis\": \"The Wikidata entity’s description (academic journal, Canadian) directly contradicts the article’s description of Labour as a UK political party. The mismatch in country, type, and industry indicates a different real‑world entity.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"NO\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article discusses \"Labour\" as the UK political party (the Labour Party), referring to its shadow home secretary Yvette Cooper and policy positions. The provided Wikidata entity (Q6467369) is described as an academic journal titled \"Labour/Le Travail\" from Canada, with no political affiliation. The name \"Labour\" alone is ambiguous, but the key identifying properties (type: periodical, country: Canada, description: academic journal) do not match the context of the article. Therefore the specific Wikidata entity is not present in the article.",
+                "statement_assessment": "N/A – the entity is not identified.",
+                "plausibility_assessment": "N/A – no statements to assess.",
+                "contradiction_analysis": "The Wikidata entity’s description (academic journal, Canadian) directly contradicts the article’s description of Labour as a UK political party. The mismatch in country, type, and industry indicates a different real‑world entity.",
+                "confidence_level": "High"
+              },
+              "answer": "NO"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "NO",
+            "selected_entity_details": null
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "organization_type": {
+                "classification": "PoliticalParty",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions Labour and refers to it as a political party making policy statements, matching the description of a UK political party."
+              }
+            },
+            "classification_outcome": {
+              "classification": "PoliticalParty",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions Labour and refers to it as a political party making policy statements, matching the description of a UK political party."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Yvette Cooper": {
+      "name": "Yvette Cooper",
+      "type_of_agent": "person",
+      "agent_description": "Shadow home secretary",
+      "wikidata_info": {
+        "name": "Yvette Cooper",
+        "wikidata_id": "Q291057",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Inverness",
+        "gender": "female",
+        "political_party": [
+          {
+            "name": "Labour Party",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "economist",
+          "politician",
+          "journalist",
+          "researcher",
+          "policy advisor",
+          "writer"
+        ],
+        "field_of_work": [],
+        "position_held": [
+          {
+            "name": "Secretary of State for Foreign and Commonwealth Affairs",
+            "start_date": "2025-09-05",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "member of the 59th Parliament of the United Kingdom",
+            "start_date": "2024-07-04",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Member of the Privy Council of the United Kingdom",
+            "start_date": "2007-10-10",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Home Secretary",
+            "start_date": "2024-07-05",
+            "end_date": "2025-09-05",
+            "organization": null
+          },
+          {
+            "name": "Shadow Home Secretary",
+            "start_date": "2021-11-29",
+            "end_date": "2024-07-05",
+            "organization": null
+          },
+          {
+            "name": "member of the 58th Parliament of the United Kingdom",
+            "start_date": "2019-12-12",
+            "end_date": "2024-05-30",
+            "organization": null
+          },
+          {
+            "name": "member of the 57th Parliament of the United Kingdom",
+            "start_date": "2017-06-08",
+            "end_date": "2019-11-06",
+            "organization": null
+          },
+          {
+            "name": "member of the 56th Parliament of the United Kingdom",
+            "start_date": "2015-05-07",
+            "end_date": "2017-05-03",
+            "organization": null
+          },
+          {
+            "name": "member of the 55th Parliament of the United Kingdom",
+            "start_date": "2010-05-06",
+            "end_date": "2015-03-30",
+            "organization": null
+          },
+          {
+            "name": "Shadow Home Secretary",
+            "start_date": "2011-01-20",
+            "end_date": "2015-00-00",
+            "organization": null
+          },
+          {
+            "name": "Shadow Secretary of State for Women and Equalities",
+            "start_date": "2010-05-11",
+            "end_date": "2013-10-07",
+            "organization": null
+          },
+          {
+            "name": "Shadow Foreign Secretary",
+            "start_date": "2010-10-08",
+            "end_date": "2011-01-20",
+            "organization": null
+          },
+          {
+            "name": "Shadow Secretary of State for Work and Pensions",
+            "start_date": "2010-05-11",
+            "end_date": "2010-10-08",
+            "organization": null
+          },
+          {
+            "name": "Secretary of State for Work and Pensions",
+            "start_date": "2009-06-05",
+            "end_date": "2010-05-11",
+            "organization": null
+          },
+          {
+            "name": "member of the 54th Parliament of the United Kingdom",
+            "start_date": "2005-05-05",
+            "end_date": "2010-04-12",
+            "organization": null
+          },
+          {
+            "name": "Chief Secretary to the Treasury",
+            "start_date": "2008-01-24",
+            "end_date": "2009-06-05",
+            "organization": null
+          },
+          {
+            "name": "member of the 53rd Parliament of the United Kingdom",
+            "start_date": "2001-06-07",
+            "end_date": "2005-04-11",
+            "organization": null
+          },
+          {
+            "name": "member of the 52nd Parliament of the United Kingdom",
+            "start_date": "1997-05-01",
+            "end_date": "2001-05-14",
+            "organization": null
+          }
+        ],
+        "description": "British politician",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "economist",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "journalist",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "researcher",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "policy advisor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "writer",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article quotes Yvette Cooper and identifies her as the shadow home secretary, confirming both her name and her political role."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Yvette Cooper",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q291057"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Yvette Cooper",
+              "type": "person",
+              "description": "Shadow home secretary"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q291057",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Yvette Cooper\\\" and identifies her as the \\\"shadow home secretary\\\". This matches the Wikidata entity’s name, role, and description. Multiple references (e.g., \\\"shadow home secretary Yvette Cooper\\\", \\\"Ms Cooper\\\") confirm the identity with no conflicting details.\",\n    \"statement_assessment\": \"Yvette Cooper is directly quoted: \\\"Ms Cooper said: 'Criminal smuggling gangs have been allowed to take hold along our border...'\\\" and further statements are attributed to her. Thus, she is making statements in the article.\",\n    \"plausibility_assessment\": \"It is highly plausible for the shadow home secretary to comment on serious crime strategy and border security, aligning with her political role and the article’s context.\",\n    \"contradiction_analysis\": \"No contradictions or conflicting information regarding her identity or statements were found.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Yvette Cooper\" and identifies her as the \"shadow home secretary\". This matches the Wikidata entity’s name, role, and description. Multiple references (e.g., \"shadow home secretary Yvette Cooper\", \"Ms Cooper\") confirm the identity with no conflicting details.",
+                "statement_assessment": "Yvette Cooper is directly quoted: \"Ms Cooper said: 'Criminal smuggling gangs have been allowed to take hold along our border...'\" and further statements are attributed to her. Thus, she is making statements in the article.",
+                "plausibility_assessment": "It is highly plausible for the shadow home secretary to comment on serious crime strategy and border security, aligning with her political role and the article’s context.",
+                "contradiction_analysis": "No contradictions or conflicting information regarding her identity or statements were found.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q291057",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article quotes Yvette Cooper and identifies her as the shadow home secretary, confirming both her name and her political role."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article quotes Yvette Cooper and identifies her as the shadow home secretary, confirming both her name and her political role."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Government source": {
+      "name": "Government source",
+      "type_of_agent": "person",
+      "agent_description": "Government source",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "Spokesperson",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly quotes a \"Government source\" who speaks on behalf of the government, matching the description and confirming the speaker as an official communicator."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Government source",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Skipped",
+          "details": {
+            "reason": "No suitable NER entity found matching agent type."
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Spokesperson",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly quotes a \"Government source\" who speaks on behalf of the government, matching the description and confirming the speaker as an official communicator."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Spokesperson",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly quotes a \"Government source\" who speaks on behalf of the government, matching the description and confirming the speaker as an official communicator."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:23:39.134766",
+  "status": "success"
+}

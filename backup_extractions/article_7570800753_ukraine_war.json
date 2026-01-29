@@ -1,0 +1,473 @@
+{
+  "article_id": "7570800753_ukraine_war",
+  "title": "Keir Starmer shrugs off Trump as he prepares to give new aid to Ukraine and sanction Russian oligarchs amid US President's war of words with Volodymyr Zelensky",
+  "body": "Sir Keir Starmer is set to announce a new package of support for Ukraine days after Donald Trump branded the Ukrainian president a 'dictator'.\n\nThe Prime Minister will use the third anniversary of Russia's full-scale invasion of Ukraine, February 24, to reveal a 'triple whammy' of measures.\n\nFinal details of the measures are being drawn up, but could include extra weapons for Ukrainian forces and sanctions, which would build on the already over 2,000 Russian people and entities that have been sanctioned since the war.\n\nOn Monday, John Healey, the Defence Secretary, will give interviews explaining the extra support and David Lammy, the Foreign Secretary, is expected to address the Commons.\n\nThe measures would emphasise Britain's backing for Kyiv, a stark contrast to Mr Trump, who has been piling pressure on Volodymyr Zelensky to end the war while criticising him for being upset at being left out of US-Russia peace talks that would carve up his country.\n\nMr Zelensky has attempted to satisfy Washington's demands for a peace settlement as he is set to sign a deal giving US access to deposits of critical minerals.\n\nIt came after Zelensky angered Trump so much during negotiations that Trump threatened to completely pull US funding from Ukraine, Axios reported.\n\nThe differences between the UK and US will come to a head on Thursday when Sir Keir visits the White House for face-to-face talks with Mr Trump.\n\nDonald Trump has been piling pressure on Volodymyr Zelensky to end the war while criticising him for being upset at being left out of US-Russia peace talks that would carve up his country\n\nThe differences between the UK and US will come to a head on Thursday when Sir Keir visits the White House for face-to-face talks with Mr Trump\n\nMr Trump has already criticised the Prime Minister ahead of his visit, claiming he 'didn't do anything' to end the Ukraine war.\n\nAnd Sir Keir's new support package risks angering Mr Trump further.\n\nTo calm tensions, Sir Keir is expected to announce the date when 2.5% of UK GDP will be spent on defence, The Telegraph reported.\n\nThis would likely be sold to the US President as proof that Downing Street agrees with his demand for increased defence spending by European nations.\n\nHowever, Sir Keir will likely be interrogated on how the spending increase would be paid for.\n\nHe will also present Mr Trump with an invitation from the King offering a state visit, which would make him the first elected leader in modern history to receive the honour twice.\n\nMr Zelensky has attempted to satisfy Washington's demands for a peace settlement as he is set to sign a deal giving US access to deposits of critical minerals\n\nTrump has famously said that the Russia-Ukraine war would never have started had he been president and claimed he could bring the conflict to an abrupt halt\n\nA senior government source told The Telegraph: 'We have always said we want to put Ukraine in the strongest position, whether that's for going into talks or for the continuation of fighting.\n\n'We still don't know which of those positions we're going to be in. It's right that we continue to support Ukraine in all the ways that we have long said we will.'\n\nNext week, the French president, Emmanuel Macron will also travel to Washington.\n\nThe UK and French leaders' biggest challenge will be convincing Mr Trump to soften his approach.\n\nMr Trump's administration stunned world leaders after he refused to sign a planned G7 statement calling Russia the 'aggressor' in the conflict.\n\nHe also wrote on his platform Truth Social, an extraordinary and lengthy tirade, condemning both Zelensky and the billions in aid the Biden administration had given Ukraine during Russia's bloody war on the country.\n\nThe president has been clear that Ukraine must remunerate the US for the aid provided to support the war effort thus far. The US President has said the figure stands at $300 billion.\n\nUS Secretary of State Marco Rubio (middle left) met with Russian Foreign Minister Sergei Lavrov (far right) in Riyadh, Saudi Arabia\n\nMr Trump claimed he had 'very good talks with Putin, and I've had not such good talks with Ukraine'\n\nWashington also refused to co-sponsor a United Nations statement that supports Ukraine's territorial integrity and demands Moscow withdraw its forces from the war-torn nation.\n\nIn the same fashion, according to Western officials, US envoys refused to label Russia an 'aggressor' at a meeting of a 'core group' of countries preparing a Nuremberg-style tribunal to try Vladimir Putin for his war crimes.\n\nA Conservative MP described the president's remarks as 'nuts', saying: 'I've just heard those Trump comments. They're nuts.\n\n'To say we've done nothing – we've all been labouring under the illusion that we were trying to help Ukraine defend her country.\n\n'I don't know where he's getting his information from, but he needs to start getting it from somewhere else.'\n\nIn an interview with Fox News, Mr Trump said he didn't think it was 'very important' for Zelensky to be involved in peace talks as 'he's been there for three years' and that he 'makes it very hard to make deals'.\n\nThe American President also said Ukrainian leaders 'don't have any cards' in talks aimed at ending the country's war against a Russian invasion.\n\nTrump has famously said that the Russia-Ukraine war would never have started had he been president and claimed he could bring the conflict to an abrupt halt.\n\nLast week, US Treasury Secretary Scott Bessent offered Kyiv a deal as part of ongoing negotiations to secure Ukraine's long-term security in the event of a ceasefire agreement with Russia.\n\nAccording to a private draft of the proposal seen by The Telegraph, this would see the US take 50% of revenues received by Ukraine from the extraction of natural resources.\n\nIt would also grant the US 50% of the financial value of 'all new licences issued to third parties' for the future monetisation of these resources.",
+  "date": "2025-02-22 00:58:10+00:00",
+  "source_link": "https://www.dailymail.co.uk/news/article-14423413/Keir-Starmer-shrugs-Trump-prepares-new-aid-Ukraine-sanction-Russian-oligarchs-amid-Presidents-war-words-Volodymyr-Zelensky.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+  "source_info": {
+    "name": "Daily Mail UK",
+    "domain": "dailymail.co.uk",
+    "description": null,
+    "home_page_url": "https://www.dailymail.co.uk/",
+    "locations": [
+      {
+        "city": "",
+        "country": "GB",
+        "state": ""
+      },
+      {
+        "city": null,
+        "country": "GB",
+        "state": null
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "state": "England"
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "The Ukrainian president is a dictator.",
+      "source_context": "Sir Keir Starmer is set to announce a new package of support for Ukraine days after Donald Trump branded the Ukrainian president a 'dictator'."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I have been piling pressure on Volodymyr Zelensky to end the war while criticising him for being upset at being left out of US-Russia peace talks that would carve up his country.",
+      "source_context": "The measures would emphasise Britain's backing for Kyiv, a stark contrast to Mr Trump, who has been piling pressure on Volodymyr Zelensky to end the war while criticising him for being upset at being left out of US-Russia peace talks that would carve up his country."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "Starmer didn't do anything to end the Ukraine war.",
+      "source_context": "Mr Trump has already criticised the Prime Minister ahead of his visit, claiming he 'didn't do anything' to end the Ukraine war."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "The Russia-Ukraine war would never have started had I been president.",
+      "source_context": "Trump has famously said that the Russia-Ukraine war would never have started had he been president and claimed he could bring the conflict to an abrupt halt."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I could bring the conflict to an abrupt halt.",
+      "source_context": "Trump has famously said that the Russia-Ukraine war would never have started had he been president and claimed he could bring the conflict to an abrupt halt."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I condemn both Zelensky and the billions in aid the Biden administration had given Ukraine during Russia's bloody war on the country.",
+      "source_context": "He also wrote on his platform Truth Social, an extraordinary and lengthy tirade, condemning both Zelensky and the billions in aid the Biden administration had given Ukraine during Russia's bloody war on the country."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Ukraine must remunerate the US for the aid provided to support the war effort thus far.",
+      "source_context": "The president has been clear that Ukraine must remunerate the US for the aid provided to support the war effort thus far."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "The figure stands at $300 billion.",
+      "source_context": "The US President has said the figure stands at $300 billion."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "I had very good talks with Putin, and I've had not such good talks with Ukraine.",
+      "source_context": "Mr Trump claimed he had 'very good talks with Putin, and I've had not such good talks with Ukraine'"
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "I don't think it's very important for Zelensky to be involved in peace talks as he's been there for three years and he makes it very hard to make deals.",
+      "source_context": "In an interview with Fox News, Mr Trump said he didn't think it was 'very important' for Zelensky to be involved in peace talks as 'he's been there for three years' and that he 'makes it very hard to make deals'."
+    },
+    {
+      "agent_name": "Donald Trump",
+      "agent_description": "US President",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "Ukrainian leaders don't have any cards in talks aimed at ending the country's war against a Russian invasion.",
+      "source_context": "The American President also said Ukrainian leaders 'don't have any cards' in talks aimed at ending the country's war against a Russian invasion."
+    },
+    {
+      "agent_name": "Conservative MP",
+      "agent_description": "A Conservative MP",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I've just heard those Trump comments. They're nuts.",
+      "source_context": "A Conservative MP described the president's remarks as 'nuts', saying: 'I've just heard those Trump comments. They're nuts.'"
+    },
+    {
+      "agent_name": "Conservative MP",
+      "agent_description": "A Conservative MP",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "To say we've done nothing – we've all been labouring under the illusion that we were trying to help Ukraine defend her country.",
+      "source_context": "'To say we've done nothing – we've all been labouring under the illusion that we were trying to help Ukraine defend her country.'"
+    },
+    {
+      "agent_name": "Conservative MP",
+      "agent_description": "A Conservative MP",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I don't know where he's getting his information from, but he needs to start getting it from somewhere else.",
+      "source_context": "'I don't know where he's getting his information from, but he needs to start getting it from somewhere else.'"
+    }
+  ],
+  "agents_info": {
+    "Donald Trump": {
+      "name": "Donald Trump",
+      "type_of_agent": "person",
+      "agent_description": "US President",
+      "wikidata_info": {
+        "name": "Donald Trump",
+        "wikidata_id": "Q22686",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "New York City",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Republican Party",
+            "start_date": "2012-04-00",
+            "end_date": null
+          },
+          {
+            "name": "independent politician",
+            "start_date": "2011-12-00",
+            "end_date": "2012-04-00"
+          },
+          {
+            "name": "Republican Party",
+            "start_date": "2009-09-00",
+            "end_date": "2011-12-00"
+          },
+          {
+            "name": "Democratic Party",
+            "start_date": "2001-08-00",
+            "end_date": "2009-09-00"
+          },
+          {
+            "name": "Reform Party of the United States of America",
+            "start_date": "1999-10-00",
+            "end_date": "2001-08-00"
+          },
+          {
+            "name": "Republican Party",
+            "start_date": "1987-07-00",
+            "end_date": "1999-10-00"
+          }
+        ],
+        "religion": [
+          "Presbyterianism",
+          "nondenominational Christianity"
+        ],
+        "political_ideology": [
+          "conservatism",
+          "social conservatism",
+          "American patriotism",
+          "anti-gender movement",
+          "opposition to immigration",
+          "right-wing populism",
+          "right-wing antiglobalism",
+          "isolationism",
+          "Trumpism",
+          "fascism"
+        ],
+        "occupation": [
+          "business magnate",
+          "investor",
+          "politician",
+          "game show host",
+          "real estate entrepreneur",
+          "television producer",
+          "film producer",
+          "writer",
+          "actor",
+          "chief executive officer",
+          "merchant",
+          "businessperson",
+          "entrepreneur"
+        ],
+        "field_of_work": [
+          "media personality",
+          "politics",
+          "commerce"
+        ],
+        "position_held": [
+          {
+            "name": "President of the United States",
+            "start_date": "2025-01-20",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": "1971-00-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "director",
+            "start_date": null,
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "President-elect of the United States",
+            "start_date": "2024-11-06",
+            "end_date": "2025-01-20",
+            "organization": null
+          },
+          {
+            "name": "President of the United States",
+            "start_date": "2017-01-20",
+            "end_date": "2021-01-20",
+            "organization": null
+          },
+          {
+            "name": "President-elect of the United States",
+            "start_date": "2016-11-09",
+            "end_date": "2017-01-20",
+            "organization": null
+          },
+          {
+            "name": "president",
+            "start_date": "1971-00-00",
+            "end_date": "2017-00-00",
+            "organization": null
+          }
+        ],
+        "description": "President of the United States (2017–2021, 2025–present)",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "business magnate",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "investor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "game show host",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "real estate entrepreneur",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "television producer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "film producer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "writer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "actor",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "chief executive officer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "merchant",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "businessperson",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "entrepreneur",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions Donald Trump as the US President and quotes him, confirming both the name and the description."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Donald Trump",
+            "entities_found_count": 4,
+            "found_wikidata_ids": [
+              "Q22686",
+              "Q3713655",
+              "Q27947481",
+              "Q23000825"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "multiple_entities_flow",
+            "input_details": {
+              "name": "Donald Trump",
+              "type": "person",
+              "description": "US President"
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_response": {
+              "reasoning": {
+                "presence_detection": "The article repeatedly mentions \"Donald Trump\" (and variants such as \"Mr Trump\" and \"US President\"). The context clearly refers to the former and current U.S. President, matching the target entity description \"US President\".",
+                "statement_detection": "Multiple direct quotations and reported speech are attributed to him: e.g., \"Mr Trump has already criticised the Prime Minister… claiming he 'didn't do anything'…\", \"In an interview with Fox News, Mr Trump said…\", and \"The American President also said Ukrainian leaders…\". These are clear statements made by the entity.",
+                "candidate_evaluation": "Candidate Q22686 (Donald Trump, President of the United States) aligns perfectly with the name, title, and description. The other Donald Trump entries (physician, Jr., etc.) do not match the political role or the context of the article. Thus Q22686 is the sole viable match.",
+                "authority_verification": "Q22686 holds the position of President of the United States (2025‑present) and has the authority to make official statements about U.S. foreign policy, including the Ukraine conflict.",
+                "plausibility_assessment": "The statements attributed to him are consistent with the responsibilities and public statements of a U.S. President regarding international conflicts. The content and tone are typical of presidential remarks, making the attribution highly plausible.",
+                "final_justification": "The entity \"Donald Trump\" is present in the article, is making statements, and the best matching Wikidata candidate is Q22686. All identification and attribution criteria are satisfied."
+              },
+              "answer": "Q22686"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "multiple_entities_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q22686",
+              "label": "Donald Trump"
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions Donald Trump as the US President and quotes him, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions Donald Trump as the US President and quotes him, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Conservative MP": {
+      "name": "Conservative MP",
+      "type_of_agent": "person",
+      "agent_description": "A Conservative MP",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "Politician",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly references a Conservative MP who quoted remarks about Trump, matching both the generic name and the description of being a Conservative MP."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Conservative MP",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Skipped",
+          "details": {
+            "reason": "No suitable NER entity found matching agent type."
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Politician",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly references a Conservative MP who quoted remarks about Trump, matching both the generic name and the description of being a Conservative MP."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Politician",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly references a Conservative MP who quoted remarks about Trump, matching both the generic name and the description of being a Conservative MP."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:22:30.749626",
+  "status": "success"
+}

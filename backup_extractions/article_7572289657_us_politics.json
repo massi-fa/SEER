@@ -1,0 +1,495 @@
+{
+  "article_id": "7572289657_us_politics",
+  "title": "'He is innocent': Juror urges clemency for Alabama man facing execution",
+  "body": "MONTGOMERY, Ala. (AP) — The Alabama Supreme Court has cleared the way for the execution of a man whose innocence claim is supported by a juror from his trial.\n Justices on Friday authorized the execution of Robin \"Rocky\" Myers, who was convicted in the 1991 killing of his neighbor, Ludie Mae Tucker. The execution will be carried out by nitrogen gas at a date set by the governor's office.\n  A juror at his 1994 trial is among those urging Gov. Kay Ivey to consider clemency and leave Myers in prison for the rest of his life, instead of sending him to the death chamber.\n  \"I know he is innocent. They never proved he did it. They never proved he was in the house,\" juror Mae Puckett said in a telephone interview with The Associated Press after the court decision.\n  Kacey Keeton, a lawyer for Myers, said his case is \"rife with examples of failure.\" She said there is no physical evidence linking him to the crime. An earlier lawyer abandoned the case, causing Myers to miss a key 2003 deadline for federal appeals. A prosecution witness has since recanted. And a judge overrode the jury's wish that he be spared from a death sentence.\n  \"For those who support the death penalty, Rocky Myers's case should give you pause. I believe, without reservation, that Rocky Myers did not commit a murder, but you don't have to agree with me on that to believe that the death penalty is not appropriate in this case,\" Keeton, his attorney, said.\n  The crime\n  Tucker, 69, was fatally stabbed in her Decatur home in October of 1991. Her cousin, who was also attacked but survived, testified that the doorbell rang during the middle of the night. She heard a man asking about using the telephone. Then she heard Tucker screaming out her name.\n  Before she died, Tucker told police that her attacker was a short, stocky Black man but could not identify him.\n  Myers lived across the street with his family. LeAndrew Hood, Myers' son who was 11 at the time of Tuckers' death, said they would go buy ice from Tucker.\n  \"She knew us. She had enough breath to say it was a short, stocky Black man. If it was my father, all she had to do was say it was the man across the street,\" Hood said.\n  Puckett said she and a few other jurors had doubts about the allegations. But she feared if the case ended in mistrial, another jury would sentence Myers to death. So, Puckett said she agreed to a compromise — find him guilty but recommend life in prison. Jurors voted 9-3 that he serve life in prison. However, the judge sentenced Myers to death anyway under Alabama's now-abolished system that let judges decide death sentences.\n  \"The deck was stacked against him before it ever started. It was just an awful, awful thing, and it still is,\" Puckett said of Myers.\n  Missed deadline\n  Earle Schwarz, a lawyer from Tennessee, represented Myers for a time after signing up through a national network of lawyers offering pro bono services. The Tennessee lawyer, who volunteered to work on Myers initial appeals, acknowledged he did not tell Myers when he stopped working on his case, according to court documents. Myers, who reads at a fourth-grade level according to his attorneys, didn't know his lawyer had left and missed a 2023 deadline to file for a federal habeas corpus petition. The 11th Circuit Court of Appeals called it an \"inexcusable abandonment\" but said Myers should have attempted to figure out what was happening in his case.\n  The U.S. Supreme Court bars the execution of intellectually disabled people. Myers scored a 64 and 71 on IQ tests given when he was an adolescent, and scored 73, on an IQ test given in 2013, according to his lawyers. The state maintains a psychologist in 2006, placed his IQ at 84, a level that would make him eligible for execution. His attorneys said that score is an outlier.\n  The Alabama attorney general's office wrote in a court filing that Puckett's concerns aren't proof of innocence.\n  \"The affidavit, read in the light most favorable to Myers, states only that some of the jurors had doubts as to Myers's guilt — it does not prove that he was actually innocent or that the trial court erred by overriding the jury's recommendation,\" state lawyers wrote.\n  Keeton said the only remaining chance for Myers now is clemency.\n  \"Clemency is designed as a failsafe. If the system fails—as it has repeatedly failed Mr. Myers—clemency is there to save his life,\" she said.",
+  "date": "2025-02-22 19:48:03+00:00",
+  "source_link": "https://apnews.com/article/alabama-death-penalty-robin-rocky-myers-f69bfe8b3df1d057f3954e90b77463e0",
+  "source_info": {
+    "name": "Associated Press News",
+    "domain": "apnews.com",
+    "description": null,
+    "home_page_url": "https://www.apnews.com/",
+    "locations": [
+      {
+        "city": "",
+        "country": "US",
+        "state": ""
+      },
+      {
+        "city": null,
+        "country": "US",
+        "state": null
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Mae Puckett",
+      "agent_description": "Juror at Robin Myers' 1994 trial",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "I know he is innocent. They never proved he did it. They never proved he was in the house",
+      "source_context": "\"I know he is innocent. They never proved he did it. They never proved he was in the house,\" juror Mae Puckett said in a telephone interview with The Associated Press after the court decision."
+    },
+    {
+      "agent_name": "Kacey Keeton",
+      "agent_description": "Lawyer for Robin Myers",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "My case is rife with examples of failure",
+      "source_context": "Kacey Keeton, a lawyer for Myers, said his case is \"rife with examples of failure.\""
+    },
+    {
+      "agent_name": "Kacey Keeton",
+      "agent_description": "Lawyer for Robin Myers",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "There is no physical evidence linking him to the crime",
+      "source_context": "She said there is no physical evidence linking him to the crime."
+    },
+    {
+      "agent_name": "Kacey Keeton",
+      "agent_description": "Lawyer for Robin Myers",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "For those who support the death penalty, Rocky Myers's case should give you pause. I believe, without reservation, that Rocky Myers did not commit a murder, but you don't have to agree with me on that to believe that the death penalty is not appropriate in this case",
+      "source_context": "\"For those who support the death penalty, Rocky Myers's case should give you pause. I believe, without reservation, that Rocky Myers did not commit a murder, but you don't have to agree with me on that to believe that the death penalty is not appropriate in this case,\" Keeton, his attorney, said."
+    },
+    {
+      "agent_name": "LeAndrew Hood",
+      "agent_description": "Robin Myers' son who was 11 at the time of Ludie Mae Tucker's death",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "She knew us. She had enough breath to say it was a short, stocky Black man. If it was my father, all she had to do was say it was the man across the street",
+      "source_context": "\"She knew us. She had enough breath to say it was a short, stocky Black man. If it was my father, all she had to do was say it was the man across the street,\" Hood said."
+    },
+    {
+      "agent_name": "Mae Puckett",
+      "agent_description": "Juror at Robin Myers' 1994 trial",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I and a few other jurors had doubts about the allegations",
+      "source_context": "Puckett said she and a few other jurors had doubts about the allegations."
+    },
+    {
+      "agent_name": "Mae Puckett",
+      "agent_description": "Juror at Robin Myers' 1994 trial",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I feared if the case ended in mistrial, another jury would sentence Myers to death",
+      "source_context": "But she feared if the case ended in mistrial, another jury would sentence Myers to death."
+    },
+    {
+      "agent_name": "Mae Puckett",
+      "agent_description": "Juror at Robin Myers' 1994 trial",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I agreed to a compromise — find him guilty but recommend life in prison",
+      "source_context": "So, Puckett said she agreed to a compromise — find him guilty but recommend life in prison."
+    },
+    {
+      "agent_name": "Mae Puckett",
+      "agent_description": "Juror at Robin Myers' 1994 trial",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "The deck was stacked against him before it ever started. It was just an awful, awful thing, and it still is",
+      "source_context": "\"The deck was stacked against him before it ever started. It was just an awful, awful thing, and it still is,\" Puckett said of Myers."
+    },
+    {
+      "agent_name": "Earle Schwarz",
+      "agent_description": "Lawyer from Tennessee who represented Robin Myers",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I did not tell Myers when I stopped working on his case",
+      "source_context": "The Tennessee lawyer, who volunteered to work on Myers initial appeals, acknowledged he did not tell Myers when he stopped working on his case, according to court documents."
+    },
+    {
+      "agent_name": "11th Circuit Court of Appeals",
+      "agent_description": "11th Circuit Court of Appeals",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "It was an inexcusable abandonment but Myers should have attempted to figure out what was happening in his case",
+      "source_context": "The 11th Circuit Court of Appeals called it an \"inexcusable abandonment\" but said Myers should have attempted to figure out what was happening in his case."
+    },
+    {
+      "agent_name": "Alabama attorney general's office",
+      "agent_description": "Alabama attorney general's office",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "Puckett's concerns aren't proof of innocence",
+      "source_context": "The Alabama attorney general's office wrote in a court filing that Puckett's concerns aren't proof of innocence."
+    },
+    {
+      "agent_name": "Alabama attorney general's office",
+      "agent_description": "Alabama attorney general's office",
+      "agent_type": "organization",
+      "utterance_type": "partially-direct",
+      "utterance_text": "The affidavit, read in the light most favorable to Myers, states only that some of the jurors had doubts as to Myers's guilt — it does not prove that he was actually innocent or that the trial court erred by overriding the jury's recommendation",
+      "source_context": "\"The affidavit, read in the light most favorable to Myers, states only that some of the jurors had doubts as to Myers's guilt — it does not prove that he was actually innocent or that the trial court erred by overriding the jury's recommendation,\" state lawyers wrote."
+    },
+    {
+      "agent_name": "Kacey Keeton",
+      "agent_description": "Lawyer for Robin Myers",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "The only remaining chance for Myers now is clemency",
+      "source_context": "Keeton said the only remaining chance for Myers now is clemency."
+    },
+    {
+      "agent_name": "Kacey Keeton",
+      "agent_description": "Lawyer for Robin Myers",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Clemency is designed as a failsafe. If the system fails—as it has repeatedly failed Mr. Myers—clemency is there to save his life",
+      "source_context": "\"Clemency is designed as a failsafe. If the system fails—as it has repeatedly failed Mr. Myers—clemency is there to save his life,\" she said."
+    }
+  ],
+  "agents_info": {
+    "Mae Puckett": {
+      "name": "Mae Puckett",
+      "type_of_agent": "person",
+      "agent_description": "Juror at Robin Myers' 1994 trial",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "OrdinaryCitizen",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly identifies Mae Puckett as a juror at the 1994 trial and quotes her, confirming her role as a citizen."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Mae Puckett",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Mae Puckett",
+            "agent_type": "person"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Mae Puckett",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "OrdinaryCitizen",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly identifies Mae Puckett as a juror at the 1994 trial and quotes her, confirming her role as a citizen."
+              }
+            },
+            "classification_outcome": {
+              "classification": "OrdinaryCitizen",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly identifies Mae Puckett as a juror at the 1994 trial and quotes her, confirming her role as a citizen."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Kacey Keeton": {
+      "name": "Kacey Keeton",
+      "type_of_agent": "person",
+      "agent_description": "Lawyer for Robin Myers",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "Expert",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly identifies Kacey Keeton as a lawyer for Robin Myers and quotes her, confirming both her name and professional role."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Kacey Keeton",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Kacey Keeton",
+            "agent_type": "person"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Kacey Keeton",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Expert",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly identifies Kacey Keeton as a lawyer for Robin Myers and quotes her, confirming both her name and professional role."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Expert",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly identifies Kacey Keeton as a lawyer for Robin Myers and quotes her, confirming both her name and professional role."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "LeAndrew Hood": {
+      "name": "LeAndrew Hood",
+      "type_of_agent": "person",
+      "agent_description": "Robin Myers' son who was 11 at the time of Ludie Mae Tucker's death",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "OrdinaryCitizen",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly identifies LeAndrew Hood as Robin Myers' son who was 11 at the time of Ludie Mae Tucker's death and quotes him, confirming both the name and the description."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "LeAndrew Hood",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "LeAndrew Hood",
+            "agent_type": "person"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "LeAndrew Hood",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "OrdinaryCitizen",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly identifies LeAndrew Hood as Robin Myers' son who was 11 at the time of Ludie Mae Tucker's death and quotes him, confirming both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "OrdinaryCitizen",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly identifies LeAndrew Hood as Robin Myers' son who was 11 at the time of Ludie Mae Tucker's death and quotes him, confirming both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Earle Schwarz": {
+      "name": "Earle Schwarz",
+      "type_of_agent": "person",
+      "agent_description": "Lawyer from Tennessee who represented Robin Myers",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "Expert",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly names Earle Schwarz as a lawyer from Tennessee who represented Robin Myers, matching both the name and the description."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Earle Schwarz",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Earle Schwarz",
+            "agent_type": "person"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Earle Schwarz",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Expert",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly names Earle Schwarz as a lawyer from Tennessee who represented Robin Myers, matching both the name and the description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Expert",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly names Earle Schwarz as a lawyer from Tennessee who represented Robin Myers, matching both the name and the description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "11th Circuit Court of Appeals": {
+      "name": "11th Circuit Court of Appeals",
+      "type_of_agent": "organization",
+      "agent_description": "11th Circuit Court of Appeals",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "GovernmentOrganization",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions the 11th Circuit Court of Appeals and describes its judicial role, confirming it as a government organization."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "11th Circuit Court of Appeals",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "11th Circuit Court of Appeals",
+            "agent_type": "organization"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "11th Circuit Court of Appeals",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "organization_type": {
+                "classification": "GovernmentOrganization",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions the 11th Circuit Court of Appeals and describes its judicial role, confirming it as a government organization."
+              }
+            },
+            "classification_outcome": {
+              "classification": "GovernmentOrganization",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions the 11th Circuit Court of Appeals and describes its judicial role, confirming it as a government organization."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Alabama attorney general's office": {
+      "name": "Alabama attorney general's office",
+      "type_of_agent": "organization",
+      "agent_description": "Alabama attorney general's office",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "GovernmentOrganization",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions the Alabama attorney general's office and its court filing, confirming it as a government entity."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Alabama attorney general's office",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Skipped",
+          "details": {
+            "reason": "No suitable NER entity found matching agent type."
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "organization_type": {
+                "classification": "GovernmentOrganization",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions the Alabama attorney general's office and its court filing, confirming it as a government entity."
+              }
+            },
+            "classification_outcome": {
+              "classification": "GovernmentOrganization",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions the Alabama attorney general's office and its court filing, confirming it as a government entity."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:31:59.958386",
+  "status": "success"
+}

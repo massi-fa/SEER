@@ -1,0 +1,308 @@
+{
+  "article_id": "7572119568_us_politics",
+  "title": "Texas measles outbreak grows to 90 cases, worst level in 30 years",
+  "body": "Epicenter of latest outbreak had one of state's highest immunization exemption rates for 2023-24 school year\n The measles outbreak in Texas has grown to at least 90 cases, reaching historic levels, according to officials.\n  Since late January, 90 cases of measles have been identified in the South Plains region, the state's department of state health services (DSHS) reported Friday . At least 16 patients have been hospitalized as a result.\n  The majority of reported measles cases were in children and teenagers; minors between the ages of five and 17 accounted for 51 cases. Children under four made up 26 cases. Most patients' parents either had chosen to not immunize them against the highly contagious illness through vaccines meant to prevent the potentially deadly illness and its spread, or their vaccination status was unknown.\n  Experts have warned that additional cases are \"likely to occur\" in South Plains and neighboring communities, given measles' contagious nature. At least nine measles cases have already been reported in Lea county, New Mexico, which borders the region where the Texas outbreak is occurring.\n  A DSHS spokesperson told ABC News that the latest outbreak is the worst officials have seen in 30 years.\n  Gaines county, located in rural western Texas, is the epicenter of the latest outbreak, with 57 reported cases. The county, with 22,523 residents, had one of the state's highest immunization exemption rates for the 2023-24 school year, according to DSHS data. Nearly 18% of students opted out of vaccinations, which had all but eradicated measles and other contagious illnesses before skeptics undermined confidence in them among some in the US.\n  Tonya Guffey, the chief nursing officer at Seminole hospital district, told NBC News many unvaccinated people in Gaines county are Mennonite, a denomination of Christianity.\n  \"We have a high, high number of unvaccinated,\" said Guffey to NBC. \"It's not that they're not educated. It's just what their belief is.\"\n  She added: \"We educate, we encourage, we do what we can for the community, but it's their choice.\"\n  Some school districts do make getting vaccinations against measles a mandatory attendance requirement.\n  In 2024, the US had 285 measles cases , the highest number since 2019, when nearly 1,300 cases were reported. Children under age five accounted for 120 cases, or 42%.\n  skip past newsletter promotion\n  after newsletter promotion\n  The Texas outbreak comes amid the Republican-controlled US Senate confirmation of Robert F Kennedy Jr, the avowed anti-vaccine conspiracy theorist, to national health secretary. Donald Trump, the Republican whose second US presidency began in January, nominated Kennedy.\n  Kennedy has already taken aim at several vaccine-related initiatives, including ordering the US Centers for Disease Control and Prevention (CDC) to stop several campaigns promoting vaccination.\n  Also, a CDC vaccine-safety meeting, comprising a panel of experts, was postponed.",
+  "date": "2025-02-22 17:31:50+00:00",
+  "source_link": "https://www.theguardian.com/us-news/2025/feb/22/texas-measles-outbreak",
+  "source_info": {
+    "name": "The Guardian",
+    "domain": "theguardian.com",
+    "description": null,
+    "home_page_url": "http://www.theguardian.com/",
+    "locations": [
+      {
+        "city": null,
+        "country": "GB",
+        "state": null
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Texas Department of State Health Services",
+      "agent_description": "The state's department of state health services (DSHS)",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "Since late January, 90 cases of measles have been identified in the South Plains region.",
+      "source_context": "Since late January, 90 cases of measles have been identified in the South Plains region, the state's department of state health services (DSHS) reported Friday."
+    },
+    {
+      "agent_name": "Experts",
+      "agent_description": "Experts",
+      "agent_type": "person",
+      "utterance_type": "partially-direct",
+      "utterance_text": "Additional cases are likely to occur in South Plains and neighboring communities.",
+      "source_context": "Experts have warned that additional cases are \"likely to occur\" in South Plains and neighboring communities, given measles' contagious nature."
+    },
+    {
+      "agent_name": "DSHS Spokesperson",
+      "agent_description": "A spokesperson for the Texas Department of State Health Services",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "The latest outbreak is the worst officials have seen in 30 years.",
+      "source_context": "A DSHS spokesperson told ABC News that the latest outbreak is the worst officials have seen in 30 years."
+    },
+    {
+      "agent_name": "Tonya Guffey",
+      "agent_description": "Chief nursing officer at Seminole hospital district",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Many unvaccinated people in Gaines county are Mennonite, a denomination of Christianity.",
+      "source_context": "Tonya Guffey, the chief nursing officer at Seminole hospital district, told NBC News many unvaccinated people in Gaines county are Mennonite, a denomination of Christianity."
+    },
+    {
+      "agent_name": "Tonya Guffey",
+      "agent_description": "Chief nursing officer at Seminole hospital district",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We have a high, high number of unvaccinated.",
+      "source_context": "\"We have a high, high number of unvaccinated,\" said Guffey to NBC."
+    },
+    {
+      "agent_name": "Tonya Guffey",
+      "agent_description": "Chief nursing officer at Seminole hospital district",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "It's not that they're not educated. It's just what their belief is.",
+      "source_context": "\"It's not that they're not educated. It's just what their belief is.\""
+    },
+    {
+      "agent_name": "Tonya Guffey",
+      "agent_description": "Chief nursing officer at Seminole hospital district",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We educate, we encourage, we do what we can for the community, but it's their choice.",
+      "source_context": "She added: \"We educate, we encourage, we do what we can for the community, but it's their choice.\""
+    }
+  ],
+  "agents_info": {
+    "Texas Department of State Health Services": {
+      "name": "Texas Department of State Health Services",
+      "type_of_agent": "organization",
+      "agent_description": "The state's department of state health services (DSHS)",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "GovernmentOrganization",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions the Texas Department of State Health Services (DSHS) by name and describes it as the state’s department of health services, matching the provided description."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Texas Department of State Health Services",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Texas Department of State Health Services",
+            "agent_type": "organization"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Texas Department of State Health Services",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "organization_type": {
+                "classification": "GovernmentOrganization",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions the Texas Department of State Health Services (DSHS) by name and describes it as the state’s department of health services, matching the provided description."
+              }
+            },
+            "classification_outcome": {
+              "classification": "GovernmentOrganization",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions the Texas Department of State Health Services (DSHS) by name and describes it as the state’s department of health services, matching the provided description."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Experts": {
+      "name": "Experts",
+      "type_of_agent": "person",
+      "agent_description": "Experts",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "Expert",
+        "confidence": "MEDIUM",
+        "explanation": "The article refers to \"Experts\" who warned about the outbreak, confirming the description but not providing a specific named expert."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Experts",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Skipped",
+          "details": {
+            "reason": "No suitable NER entity found matching agent type."
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "Expert",
+                "confidence": "MEDIUM",
+                "explanation": "The article refers to \"Experts\" who warned about the outbreak, confirming the description but not providing a specific named expert."
+              }
+            },
+            "classification_outcome": {
+              "classification": "Expert",
+              "confidence": "MEDIUM",
+              "explanation": "The article refers to \"Experts\" who warned about the outbreak, confirming the description but not providing a specific named expert."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "DSHS Spokesperson": {
+      "name": "DSHS",
+      "type_of_agent": "organization",
+      "agent_description": "A spokesperson for the Texas Department of State Health Services",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "GovernmentOrganization",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly references DSHS as the Texas Department of State Health Services and cites a spokesperson from that agency, confirming it is a government organization."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "DSHS Spokesperson",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "DSHS",
+            "agent_type": "organization"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "DSHS",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "organization_type": {
+                "classification": "GovernmentOrganization",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly references DSHS as the Texas Department of State Health Services and cites a spokesperson from that agency, confirming it is a government organization."
+              }
+            },
+            "classification_outcome": {
+              "classification": "GovernmentOrganization",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly references DSHS as the Texas Department of State Health Services and cites a spokesperson from that agency, confirming it is a government organization."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Tonya Guffey": {
+      "name": "Tonya Guffey",
+      "type_of_agent": "person",
+      "agent_description": "Chief nursing officer at Seminole hospital district",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "PublicOfficial",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly states that Tonya Guffey is the chief nursing officer at Seminole hospital district, confirming both her name and the described role."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Tonya Guffey",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Tonya Guffey",
+            "agent_type": "person"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Tonya Guffey",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "PublicOfficial",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly states that Tonya Guffey is the chief nursing officer at Seminole hospital district, confirming both her name and the described role."
+              }
+            },
+            "classification_outcome": {
+              "classification": "PublicOfficial",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly states that Tonya Guffey is the chief nursing officer at Seminole hospital district, confirming both her name and the described role."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:27:48.250951",
+  "status": "success"
+}

@@ -1,0 +1,470 @@
+{
+  "article_id": "5923564306_uk_immigration",
+  "title": "Bibby Stockholm: Migrants changing minds over move to barge - Robert Jenrick",
+  "body": "A \"significant\" number of asylum seekers who had refused to board the Bibby Stockholm have now changed their minds about moving to the barge, the immigration minister has told the BBC.\n \"A significant number moved yesterday, I suspect more will move in the coming days,\" Robert Jenrick said.\n  Asylum seekers already on the vessel have been describing the conditions.\n  One told the BBC it was like a prison without the room to accommodate up to 500 people, as the government plans.\n  Mr Jenrick said the numbers aboard the vessel - moored at Portland Port in Dorset - would increase \"in the coming days\" from the initial group of about 20, but no date had been set for reaching full capacity.\n  \"We have written to those individuals who have so far declined to travel and, as I understand it, a significant proportion of them have already changed their minds and agreed to move,\" he said.\n  Asylum seekers have been told refusing to board the Bibby Stockholm barge could result in them no longer receiving government support\n  Mr Jenrick said there was \"not a menu of options\" for those seeking state-funded help.\n  \"We've got to be fair to the tax payers as well as decent and compassionate to the individuals concerns.\n  \"If you choose to turn down perfectly acceptable accommodation such as the barge, we give those people due notice and if they don't change their mind, we do withdraw their accommodation support.\"\n  He said those affected would have to \"look after themselves\".\n  Bibby Stockholm is the flagship of the government's latest plan to \"stop the boats\" and deter dangerous Channel crossings by migrants. Men aged 18-65 will live on the vessel while they await the outcome of asylum applications.\n  The Care4Calais charity said on Monday it was providing legal support to a 20 asylum seekers who had refused to move to Portland and were challenging the decision.\n  \"Housing people fleeing threats and persecution on an overcrowded barge is appalling, and in itself likely to cause extreme distress,\" it said.\n  An Afghan asylum seeker aboard the barge, whom the BBC is not identifying, said: \"The sound of locks and security checks gives me the feeling of entering Alcatraz prison.\n  \"My roommate panicked in the middle of the night and felt like he was drowning. There are people among us who have been given heavy drugs for depression by the doctor here.\"\n  He said he had been given a small room, and the dining hall had capacity for fewer than 150 people.\n  \"Like a prison, it [the barge] has entrance and exit gates, and at some specific hours, we have to take a bus, and after driving a long distance, we go to a place where we can walk. We feel very bad,\" the man added.\n  The 222-room, three-storey barge arrived in Portland Port more than three weeks ago, chartered by the government to reduce what it says is the £6m-a-day cost of placing asylum seekers in hotels.\n  Ministers say it is safe, despite safety warnings from the Fire Brigades Union (FBU) which has raised concerns over narrow exits and possible overcrowding.\n  It includes catering, a TV room, a multi-faith prayer room and a gym.\n  Migrants will be free to leave on hourly buses to Weymouth and Portland, although they are encouraged to return by 23:00 each night.\n  The Home Office has said the barge occupants will undergo security screening and Dorset Police has said it does not expect any impact on the local community.\n  Follow BBC South on Facebook Twitter , or Instagram . Send your story ideas to south.newsonline@bbc.co.uk",
+  "date": "2023-08-09 08:21:12+00:00",
+  "source_link": "https://www.bbc.co.uk/news/uk-england-dorset-66447487",
+  "source_info": {
+    "name": "BBC",
+    "domain": "bbc.co.uk",
+    "description": null,
+    "home_page_url": "https://www.bbc.co.uk/",
+    "locations": [
+      {
+        "city": null,
+        "country": "GB",
+        "state": null
+      },
+      {
+        "city": "",
+        "country": "GB",
+        "state": ""
+      },
+      {
+        "city": null,
+        "country": "GB",
+        "state": null
+      },
+      {
+        "city": "",
+        "country": "GB",
+        "state": ""
+      }
+    ]
+  },
+  "claims": [
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "immigration minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "A significant number of asylum seekers who had refused to board the Bibby Stockholm have now changed their minds about moving to the barge.",
+      "source_context": "A \"significant\" number of asylum seekers who had refused to board the Bibby Stockholm have now changed their minds about moving to the barge, the immigration minister has told the BBC."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "immigration minister",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "A significant number moved yesterday, I suspect more will move in the coming days",
+      "source_context": "\"A significant number moved yesterday, I suspect more will move in the coming days,\" Robert Jenrick said."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "immigration minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "The numbers aboard the vessel will increase in the coming days from the initial group of about 20, but no date had been set for reaching full capacity.",
+      "source_context": "Mr Jenrick said the numbers aboard the vessel - moored at Portland Port in Dorset - would increase \"in the coming days\" from the initial group of about 20, but no date had been set for reaching full capacity."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "immigration minister",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We have written to those individuals who have so far declined to travel and, as I understand it, a significant proportion of them have already changed their minds and agreed to move",
+      "source_context": "\"We have written to those individuals who have so far declined to travel and, as I understand it, a significant proportion of them have already changed their minds and agreed to move,\" he said."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "immigration minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "There is not a menu of options for those seeking state-funded help.",
+      "source_context": "Mr Jenrick said there was \"not a menu of options\" for those seeking state-funded help."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "immigration minister",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "We've got to be fair to the tax payers as well as decent and compassionate to the individuals concerns.",
+      "source_context": "\"We've got to be fair to the tax payers as well as decent and compassionate to the individuals concerns."
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "immigration minister",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "If you choose to turn down perfectly acceptable accommodation such as the barge, we give those people due notice and if they don't change their mind, we do withdraw their accommodation support.",
+      "source_context": "\"If you choose to turn down perfectly acceptable accommodation such as the barge, we give those people due notice and if they don't change their mind, we do withdraw their accommodation support.\""
+    },
+    {
+      "agent_name": "Robert Jenrick",
+      "agent_description": "immigration minister",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "Those affected would have to look after themselves.",
+      "source_context": "He said those affected would have to \"look after themselves\"."
+    },
+    {
+      "agent_name": "Care4Calais",
+      "agent_description": "charity",
+      "agent_type": "organization",
+      "utterance_type": "indirect",
+      "utterance_text": "We are providing legal support to 20 asylum seekers who had refused to move to Portland and were challenging the decision.",
+      "source_context": "The Care4Calais charity said on Monday it was providing legal support to a 20 asylum seekers who had refused to move to Portland and were challenging the decision."
+    },
+    {
+      "agent_name": "Care4Calais",
+      "agent_description": "charity",
+      "agent_type": "organization",
+      "utterance_type": "direct",
+      "utterance_text": "Housing people fleeing threats and persecution on an overcrowded barge is appalling, and in itself likely to cause extreme distress",
+      "source_context": "\"Housing people fleeing threats and persecution on an overcrowded barge is appalling, and in itself likely to cause extreme distress,\" it said."
+    },
+    {
+      "agent_name": "Afghan asylum seeker",
+      "agent_description": "asylum seeker aboard the barge",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "The sound of locks and security checks gives me the feeling of entering Alcatraz prison.",
+      "source_context": "An Afghan asylum seeker aboard the barge, whom the BBC is not identifying, said: \"The sound of locks and security checks gives me the feeling of entering Alcatraz prison."
+    },
+    {
+      "agent_name": "Afghan asylum seeker",
+      "agent_description": "asylum seeker aboard the barge",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "My roommate panicked in the middle of the night and felt like he was drowning. There are people among us who have been given heavy drugs for depression by the doctor here.",
+      "source_context": "\"My roommate panicked in the middle of the night and felt like he was drowning. There are people among us who have been given heavy drugs for depression by the doctor here.\""
+    },
+    {
+      "agent_name": "Afghan asylum seeker",
+      "agent_description": "asylum seeker aboard the barge",
+      "agent_type": "person",
+      "utterance_type": "indirect",
+      "utterance_text": "I was given a small room, and the dining hall had capacity for fewer than 150 people.",
+      "source_context": "He said he had been given a small room, and the dining hall had capacity for fewer than 150 people."
+    },
+    {
+      "agent_name": "Afghan asylum seeker",
+      "agent_description": "asylum seeker aboard the barge",
+      "agent_type": "person",
+      "utterance_type": "direct",
+      "utterance_text": "Like a prison, it [the barge] has entrance and exit gates, and at some specific hours, we have to take a bus, and after driving a long distance, we go to a place where we can walk. We feel very bad",
+      "source_context": "\"Like a prison, it [the barge] has entrance and exit gates, and at some specific hours, we have to take a bus, and after driving a long distance, we go to a place where we can walk. We feel very bad,\" the man added."
+    }
+  ],
+  "agents_info": {
+    "Robert Jenrick": {
+      "name": "Robert Jenrick",
+      "type_of_agent": "person",
+      "agent_description": "immigration minister",
+      "wikidata_info": {
+        "name": "Robert Jenrick",
+        "wikidata_id": "Q17180679",
+        "birth_date": null,
+        "death_date": null,
+        "birth_place": "Wolverhampton",
+        "gender": "male",
+        "political_party": [
+          {
+            "name": "Reform UK",
+            "start_date": "2026-01-15",
+            "end_date": null
+          },
+          {
+            "name": "Conservative Party",
+            "start_date": null,
+            "end_date": "2026-01-15"
+          }
+        ],
+        "religion": [],
+        "political_ideology": [],
+        "occupation": [
+          "lawyer",
+          "politician",
+          "businessperson"
+        ],
+        "field_of_work": [],
+        "position_held": [
+          {
+            "name": "member of the 59th Parliament of the United Kingdom",
+            "start_date": "2026-01-15",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "Member of the Privy Council of the United Kingdom",
+            "start_date": "2019-00-00",
+            "end_date": null,
+            "organization": null
+          },
+          {
+            "name": "member of the 59th Parliament of the United Kingdom",
+            "start_date": "2026-01-15",
+            "end_date": "2026-01-15",
+            "organization": null
+          },
+          {
+            "name": "Shadow Secretary of State for Justice",
+            "start_date": "2024-11-04",
+            "end_date": "2026-01-15",
+            "organization": null
+          },
+          {
+            "name": "member of the 59th Parliament of the United Kingdom",
+            "start_date": "2024-07-04",
+            "end_date": "2026-01-15",
+            "organization": null
+          },
+          {
+            "name": "member of the 58th Parliament of the United Kingdom",
+            "start_date": "2019-12-12",
+            "end_date": "2024-05-30",
+            "organization": null
+          },
+          {
+            "name": "Minister of State for Immigration",
+            "start_date": "2022-10-25",
+            "end_date": "2023-12-06",
+            "organization": null
+          },
+          {
+            "name": "Minister of State for Health",
+            "start_date": "2022-09-07",
+            "end_date": "2022-10-25",
+            "organization": null
+          },
+          {
+            "name": "Secretary of State for Housing, Communities and Local Government",
+            "start_date": "2019-07-24",
+            "end_date": "2021-09-15",
+            "organization": null
+          },
+          {
+            "name": "member of the 57th Parliament of the United Kingdom",
+            "start_date": "2017-06-08",
+            "end_date": "2019-11-06",
+            "organization": null
+          },
+          {
+            "name": "member of the 56th Parliament of the United Kingdom",
+            "start_date": "2015-05-07",
+            "end_date": "2017-05-03",
+            "organization": null
+          },
+          {
+            "name": "member of the 55th Parliament of the United Kingdom",
+            "start_date": "2014-06-05",
+            "end_date": "2015-03-30",
+            "organization": null
+          }
+        ],
+        "description": "British politician (born 1982)",
+        "image_url": null,
+        "occupation_details": [
+          {
+            "name": "lawyer",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "politician",
+            "start_date": null,
+            "end_date": null
+          },
+          {
+            "name": "businessperson",
+            "start_date": null,
+            "end_date": null
+          }
+        ]
+      },
+      "taxonomy_info": {
+        "classification": "PublicOfficial",
+        "confidence": "HIGH",
+        "explanation": "The article quotes Robert Jenrick and identifies him as the immigration minister, confirming both his name and his role as a government official."
+      },
+      "match_evaluation": "YES",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Robert Jenrick",
+            "entities_found_count": 1,
+            "found_wikidata_ids": [
+              "Q17180679"
+            ],
+            "search_successful_flag": true
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Start",
+          "details": {
+            "context": "one_entity_flow",
+            "input_details": {
+              "name": "Robert Jenrick",
+              "type": "person",
+              "description": "immigration minister"
+            },
+            "candidate_entity_summary": {
+              "wikidata_id": "Q17180679",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "LLMEntityValidation_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "raw_llm_response": "```json\n{\n  \"reasoning\": {\n    \"identity_verification_and_presence\": \"The article explicitly names \\\"Robert Jenrick\\\" and refers to him as \\\"the immigration minister\\\". This matches the Wikidata entity’s name and the description of him as a British politician who has held the position of Minister of State for Immigration. The context of the article—discussing asylum seekers on the Bibby Stockholm barge—aligns with the ministerial role. No other individual named Robert Jenrick is mentioned, and the role and context are consistent with the Wikidata profile, confirming the entity’s presence and identity.\",\n    \"statement_assessment\": \"Robert Jenrick is quoted directly in the article: \\\"A significant number moved yesterday, I suspect more will move in the coming days,\\\" and several other statements attributed to him. These are clear direct quotes, indicating that the entity is making statements.\",\n    \"plausibility_assessment\": \"It is highly plausible for the immigration minister to comment on asylum seeker movements and policy regarding the Bibby Stockholm barge. The statements are consistent with the responsibilities of the role.\",\n    \"contradiction_analysis\": \"No contradictions are found between the article’s depiction of Robert Jenrick and the Wikidata entity’s profile. The only minor discrepancy is the end date of his ministerial role in Wikidata (2023‑12‑06), but the article’s context suggests the information is current as of 2026, implying a possible update or continuation of the role not reflected in the provided data. This does not invalidate the identity match.\",\n    \"confidence_level\": \"High\"\n  },\n  \"answer\": \"YES\"\n}\n```",
+            "parsed_llm_response": {
+              "reasoning": {
+                "identity_verification_and_presence": "The article explicitly names \"Robert Jenrick\" and refers to him as \"the immigration minister\". This matches the Wikidata entity’s name and the description of him as a British politician who has held the position of Minister of State for Immigration. The context of the article—discussing asylum seekers on the Bibby Stockholm barge—aligns with the ministerial role. No other individual named Robert Jenrick is mentioned, and the role and context are consistent with the Wikidata profile, confirming the entity’s presence and identity.",
+                "statement_assessment": "Robert Jenrick is quoted directly in the article: \"A significant number moved yesterday, I suspect more will move in the coming days,\" and several other statements attributed to him. These are clear direct quotes, indicating that the entity is making statements.",
+                "plausibility_assessment": "It is highly plausible for the immigration minister to comment on asylum seeker movements and policy regarding the Bibby Stockholm barge. The statements are consistent with the responsibilities of the role.",
+                "contradiction_analysis": "No contradictions are found between the article’s depiction of Robert Jenrick and the Wikidata entity’s profile. The only minor discrepancy is the end date of his ministerial role in Wikidata (2023‑12‑06), but the article’s context suggests the information is current as of 2026, implying a possible update or continuation of the role not reflected in the provided data. This does not invalidate the identity match.",
+                "confidence_level": "High"
+              },
+              "answer": "YES"
+            },
+            "status": "success"
+          }
+        },
+        {
+          "event": "LLMEntityValidation_End",
+          "details": {
+            "context": "one_entity_flow",
+            "final_match_evaluation": "YES",
+            "selected_entity_details": {
+              "wikidata_id": "Q17180679",
+              "label": null
+            }
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "PublicOfficial",
+                "confidence": "HIGH",
+                "explanation": "The article quotes Robert Jenrick and identifies him as the immigration minister, confirming both his name and his role as a government official."
+              }
+            },
+            "classification_outcome": {
+              "classification": "PublicOfficial",
+              "confidence": "HIGH",
+              "explanation": "The article quotes Robert Jenrick and identifies him as the immigration minister, confirming both his name and his role as a government official."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Care4Calais": {
+      "name": "Care4Calais",
+      "type_of_agent": "organization",
+      "agent_description": "charity",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "NGO",
+        "confidence": "HIGH",
+        "explanation": "The article explicitly mentions \"Care4Calais\" and identifies it as a charity, confirming both the name and its non‑profit, advocacy nature."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Care4Calais",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Attempt",
+          "details": {
+            "selected_ner_entity_text": "Care4Calais",
+            "agent_type": "organization"
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Result",
+          "details": {
+            "search_term_used": "Care4Calais",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "organization_type": {
+                "classification": "NGO",
+                "confidence": "HIGH",
+                "explanation": "The article explicitly mentions \"Care4Calais\" and identifies it as a charity, confirming both the name and its non‑profit, advocacy nature."
+              }
+            },
+            "classification_outcome": {
+              "classification": "NGO",
+              "confidence": "HIGH",
+              "explanation": "The article explicitly mentions \"Care4Calais\" and identifies it as a charity, confirming both the name and its non‑profit, advocacy nature."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    },
+    "Afghan asylum seeker": {
+      "name": "Afghan asylum seeker",
+      "type_of_agent": "person",
+      "agent_description": "asylum seeker aboard the barge",
+      "wikidata_info": {},
+      "taxonomy_info": {
+        "classification": "OrdinaryCitizen",
+        "confidence": "HIGH",
+        "explanation": "The article quotes an unnamed Afghan asylum seeker aboard the Bibby Stockholm barge, confirming the speaker is an asylum seeker in that context."
+      },
+      "match_evaluation": "NO",
+      "extraction_history": [
+        {
+          "event": "DirectSearch_Result",
+          "details": {
+            "search_term_used": "Afghan asylum seeker",
+            "entities_found_count": 0,
+            "found_wikidata_ids": [],
+            "search_successful_flag": false
+          }
+        },
+        {
+          "event": "NERSearch_WikidataLookup_Skipped",
+          "details": {
+            "reason": "No suitable NER entity found matching agent type."
+          }
+        },
+        {
+          "event": "TaxonomyClassification_Attempt",
+          "details": {
+            "attempt_number": 1,
+            "parsed_llm_json": {
+              "speaker_type": {
+                "classification": "OrdinaryCitizen",
+                "confidence": "HIGH",
+                "explanation": "The article quotes an unnamed Afghan asylum seeker aboard the Bibby Stockholm barge, confirming the speaker is an asylum seeker in that context."
+              }
+            },
+            "classification_outcome": {
+              "classification": "OrdinaryCitizen",
+              "confidence": "HIGH",
+              "explanation": "The article quotes an unnamed Afghan asylum seeker aboard the Bibby Stockholm barge, confirming the speaker is an asylum seeker in that context."
+            },
+            "llm_originally_provided_valid_term": true,
+            "status": "success"
+          }
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-01-28T13:38:46.564187",
+  "status": "success"
+}
